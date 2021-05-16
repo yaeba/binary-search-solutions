@@ -734,7 +734,7 @@
 [](check) | 1157 | [Double String Concatenation](https://binarysearch.com/problems/Double-String-Concatenation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1159 | [Least Recently Used Cache](https://binarysearch.com/problems/Least-Recently-Used-Cache) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1160 | [Least Frequently Used Cache](https://binarysearch.com/problems/Least-Frequently-Used-Cache) | :red_circle: | [](solution) | [](notes)
-[](check) | 1161 | [Minimum Stack](https://binarysearch.com/problems/Minimum-Stack) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1161 | [Minimum Stack](https://binarysearch.com/problems/Minimum-Stack) | :green_circle: | [cpp](solutions/Minimum-Stack.cpp) | [](notes)
 [](check) | 1162 | [Zipped Iterator](https://binarysearch.com/problems/Zipped-Iterator) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1163 | [Rolling Median](https://binarysearch.com/problems/Rolling-Median) | :red_circle: | [](solution) | [](notes)
 [](check) | 1164 | [Binary Search Tree Iterator](https://binarysearch.com/problems/Binary-Search-Tree-Iterator) | :orange_circle: | [](solution) | [](notes)
