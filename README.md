@@ -210,7 +210,7 @@
 [](check) | 304 | [Hanging Banners](https://binarysearch.com/problems/Hanging-Banners) | :red_circle: | [](solution) | [](notes)
 [](check) | 306 | [Longest Common Subsequence of Three Strings](https://binarysearch.com/problems/Longest-Common-Subsequence-of-Three-Strings) | :red_circle: | [](solution) | [](notes)
 [](check) | 307 | [IP Address Combinations](https://binarysearch.com/problems/IP-Address-Combinations) | :red_circle: | [](solution) | [](notes)
-[](check) | 308 | [Linked List Deletion](https://binarysearch.com/problems/Linked-List-Deletion) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 308 | [Linked List Deletion](https://binarysearch.com/problems/Linked-List-Deletion) | :green_circle: | [cpp](solutions/Linked-List-Deletion.cpp) | [](notes)
 [](check) | 309 | [Edges that Disconnect the Graph](https://binarysearch.com/problems/Edges-that-Disconnect-the-Graph) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 310 | [Direct Closure](https://binarysearch.com/problems/Direct-Closure) | :orange_circle: | [](solution) | [](notes)
 [](check) | 312 | [Distributed Systems](https://binarysearch.com/problems/Distributed-Systems) | :red_circle: | [](solution) | [](notes)
