@@ -792,7 +792,7 @@
 [](check) | 1252 | [Walled Off](https://binarysearch.com/problems/Walled-Off) | :red_circle: | [](solution) | [](notes)
 [](check) | 1253 | [Peak Heights](https://binarysearch.com/problems/Peak-Heights) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1254 | [Convert Binary Matrix to Zero Matrix](https://binarysearch.com/problems/Convert-Binary-Matrix-to-Zero-Matrix) | :red_circle: | [](solution) | [](notes)
-[](check) | 1255 | [Range Query on a List](https://binarysearch.com/problems/Range-Query-on-a-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1255 | [Range Query on a List](https://binarysearch.com/problems/Range-Query-on-a-List) | :green_circle: | [cpp](solutions/Range-Query-on-a-List.cpp) | PrefixSum
 [](check) | 1256 | [Range Query on Two Dimensional List](https://binarysearch.com/problems/Range-Query-on-Two-Dimensional-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1257 | [Range Query on a List Mutable](https://binarysearch.com/problems/Range-Query-on-a-List-Mutable) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1258 | [Turtle of Wall Street](https://binarysearch.com/problems/Turtle-of-Wall-Street) | :green_circle: | [](solution) | [](notes)
