@@ -114,7 +114,7 @@
 [](check) | 176 | [Unique Subsequences Equal to Target](https://binarysearch.com/problems/Unique-Subsequences-Equal-to-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 177 | [Remove Duplicate Numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 178 | [Postfix Notation Evaluation](https://binarysearch.com/problems/Postfix-Notation-Evaluation) | :orange_circle: | [](solution) | [](notes)
-[](check) | 180 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 180 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | :green_circle: | [cpp](solutions/Check-Power-of-Two.cpp) | Bit Trick
 :white_check_mark: | 181 | [Number of Bits](https://binarysearch.com/problems/Number-of-Bits) | :green_circle: | [cpp](solutions/Number-of-Bits.cpp) | [](notes)
 :white_check_mark: | 182 | [List Min Replacement](https://binarysearch.com/problems/List-Min-Replacement) | :green_circle: | [cpp](solutions/List-Min-Replacement.cpp) | [](notes)
 [](check) | 183 | [Rocketship Rescue](https://binarysearch.com/problems/Rocketship-Rescue) | :orange_circle: | [](solution) | [](notes)
