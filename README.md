@@ -160,7 +160,7 @@
 [](check) | 232 | [Friend Groups](https://binarysearch.com/problems/Friend-Groups) | :orange_circle: | [](solution) | [](notes)
 [](check) | 235 | [Hamming Distance](https://binarysearch.com/problems/Hamming-Distance) | :green_circle: | [](solution) | [](notes)
 [](check) | 237 | [Rotate by 90 Degrees Counter Clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise) | :orange_circle: | [](solution) | [](notes)
-[](check) | 238 | [Sorted Elements](https://binarysearch.com/problems/Sorted-Elements) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 238 | [Sorted Elements](https://binarysearch.com/problems/Sorted-Elements) | :green_circle: | [py](solutions/Sorted-Elements.py) | [](notes)
 [](check) | 239 | [Pairwise Linked List Swap](https://binarysearch.com/problems/Pairwise-Linked-List-Swap) | :orange_circle: | [](solution) | [](notes)
 [](check) | 240 | [Merging K Sorted Lists](https://binarysearch.com/problems/Merging-K-Sorted-Lists) | :orange_circle: | [](solution) | [](notes)
 [](check) | 241 | [Column Sort](https://binarysearch.com/problems/Column-Sort) | :green_circle: | [](solution) | [](notes)
