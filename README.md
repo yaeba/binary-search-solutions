@@ -621,7 +621,7 @@
 [](check) | 961 | [Parallel Coin Collection](https://binarysearch.com/problems/Parallel-Coin-Collection) | :red_circle: | [](solution) | [](notes)
 [](check) | 964 | [Candy Race Sequel](https://binarysearch.com/problems/Candy-Race-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 965 | [Probability Game](https://binarysearch.com/problems/Probability-Game) | :red_circle: | [](solution) | [](notes)
-[](check) | 966 | [Group Integers](https://binarysearch.com/problems/Group-Integers) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 966 | [Group Integers](https://binarysearch.com/problems/Group-Integers) | :green_circle: | [py](solutions/Group-Integers.py) | [](notes)
 [](check) | 967 | [Repeated K Length Substrings](https://binarysearch.com/problems/Repeated-K-Length-Substrings) | :green_circle: | [](solution) | [](notes)
 [](check) | 969 | [Frogger](https://binarysearch.com/problems/Frogger) | :red_circle: | [](solution) | [](notes)
 [](check) | 970 | [Candy Race Trequel](https://binarysearch.com/problems/Candy-Race-Trequel) | :red_circle: | [](solution) | [](notes)
