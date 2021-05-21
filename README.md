@@ -144,7 +144,7 @@
 [](check) | 214 | [Count BST Nodes in a Range](https://binarysearch.com/problems/Count-BST-Nodes-in-a-Range) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 215 | [Transpose of a Matrix](https://binarysearch.com/problems/Transpose-of-a-Matrix) | :green_circle: | [py](solutions/Transpose-of-a-Matrix.py) | [](notes)
 [](check) | 216 | [Maximal Sublist Product](https://binarysearch.com/problems/Maximal-Sublist-Product) | :orange_circle: | [](solution) | [](notes)
-[](check) | 218 | [Integer to Base 3](https://binarysearch.com/problems/Integer-to-Base-3) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 218 | [Integer to Base 3](https://binarysearch.com/problems/Integer-to-Base-3) | :green_circle: | [cpp](solutions/Integer-to-Base-3.cpp) | [](notes)
 [](check) | 219 | [Line Segment](https://binarysearch.com/problems/Line-Segment) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 220 | [Consecutive Duplicates](https://binarysearch.com/problems/Consecutive-Duplicates) | :green_circle: | [cpp](solutions/Consecutive-Duplicates.cpp) | [](notes)
 [](check) | 221 | [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary) | :orange_circle: | [](solution) | [](notes)
