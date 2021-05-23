@@ -570,7 +570,7 @@
 [](check) | 874 | [Area Under Histogram](https://binarysearch.com/problems/Area-Under-Histogram) | :red_circle: | [](solution) | [](notes)
 [](check) | 875 | [Hill Maker](https://binarysearch.com/problems/Hill-Maker) | :orange_circle: | [](solution) | [](notes)
 [](check) | 876 | [Hop Cost](https://binarysearch.com/problems/Hop-Cost) | :red_circle: | [](solution) | [](notes)
-[](check) | 879 | [Split List](https://binarysearch.com/problems/Split-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 879 | [Split List](https://binarysearch.com/problems/Split-List) | :green_circle: | [cpp](solutions/Split-List.cpp) | [](notes)
 [](check) | 881 | [Making Pairwise Adjacent Sums Small](https://binarysearch.com/problems/Making-Pairwise-Adjacent-Sums-Small) | :orange_circle: | [](solution) | [](notes)
 [](check) | 882 | [Wildfire Sequel](https://binarysearch.com/problems/Wildfire-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 883 | [Equation Typo](https://binarysearch.com/problems/Equation-Typo) | :large_blue_circle: | [](solution) | [](notes)
