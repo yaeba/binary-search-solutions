@@ -37,7 +37,7 @@
 [](check) | 59 | [Longest Common Subsequence](https://binarysearch.com/problems/Longest-Common-Subsequence) | :orange_circle: | [](solution) | [](notes)
 [](check) | 60 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | :green_circle: | [](solution) | [](notes)
 :white_check_mark: | 62 | [Compress String](https://binarysearch.com/problems/Compress-String) | :green_circle: | [cpp](solutions/Compress-String.cpp) | [](notes)
-[](check) | 63 | [Rotation of Another String](https://binarysearch.com/problems/Rotation-of-Another-String) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 63 | [Rotation of Another String](https://binarysearch.com/problems/Rotation-of-Another-String) | :green_circle: | [cpp](solutions/Rotation-of-Another-String.cpp) | [](notes)
 [](check) | 64 | [One Edit Distance](https://binarysearch.com/problems/One-Edit-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 65 | [First Missing Positive Sequel](https://binarysearch.com/problems/First-Missing-Positive-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 67 | [Find the Largest Number in a Rotated List](https://binarysearch.com/problems/Find-the-Largest-Number-in-a-Rotated-List) | :orange_circle: | [](solution) | [](notes)
