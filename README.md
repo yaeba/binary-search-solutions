@@ -201,7 +201,7 @@
 [](check) | 289 | [Make Lists Same with Sublist Sum Operations](https://binarysearch.com/problems/Make-Lists-Same-with-Sublist-Sum-Operations) | :orange_circle: | [](solution) | [](notes)
 [](check) | 290 | [Swap Characters to Equalize Strings](https://binarysearch.com/problems/Swap-Characters-to-Equalize-Strings) | :green_circle: | [](solution) | [](notes)
 [](check) | 294 | [Longest Common Substring](https://binarysearch.com/problems/Longest-Common-Substring) | :orange_circle: | [](solution) | [](notes)
-[](check) | 298 | [Text Editor](https://binarysearch.com/problems/Text-Editor) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 298 | [Text Editor](https://binarysearch.com/problems/Text-Editor) | :green_circle: | [cpp](solutions/Text-Editor.cpp) | [](notes)
 [](check) | 299 | [Seat Arrangement](https://binarysearch.com/problems/Seat-Arrangement) | :green_circle: | [](solution) | [](notes)
 [](check) | 300 | [Convert to Full Binary Tree](https://binarysearch.com/problems/Convert-to-Full-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 301 | [Swapping Socks](https://binarysearch.com/problems/Swapping-Socks) | :red_circle: | [](solution) | [](notes)
