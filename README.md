@@ -724,7 +724,7 @@
 [](check) | 1130 | [Polyglot Contest](https://binarysearch.com/problems/Polyglot-Contest) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1131 | [Decode Messages Sequel](https://binarysearch.com/problems/Decode-Messages-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 1132 | [Longest Fibonacci Subsequence](https://binarysearch.com/problems/Longest-Fibonacci-Subsequence) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1135 | [Word Machine](https://binarysearch.com/problems/Word-Machine) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1135 | [Word Machine](https://binarysearch.com/problems/Word-Machine) | :green_circle: | [java](solutions/Word-Machine.java) | [](notes)
 [](check) | 1136 | [Every Sublist Containing Unique Element](https://binarysearch.com/problems/Every-Sublist-Containing-Unique-Element) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1137 | [Sum of Three Numbers Trequel](https://binarysearch.com/problems/Sum-of-Three-Numbers-Trequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1138 | [Sublists Containing Maximum and Minimum](https://binarysearch.com/problems/Sublists-Containing-Maximum-and-Minimum) | :red_circle: | [](solution) | [](notes)
