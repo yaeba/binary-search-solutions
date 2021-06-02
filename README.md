@@ -309,7 +309,7 @@
 [](check) | 435 | [Longest Rotated Palindromic Substring](https://binarysearch.com/problems/Longest-Rotated-Palindromic-Substring) | :red_circle: | [](solution) | [](notes)
 [](check) | 436 | [Level Order Binary Tree to Linked List](https://binarysearch.com/problems/Level-Order-Binary-Tree-to-Linked-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 437 | [Longest Alliteration](https://binarysearch.com/problems/Longest-Alliteration) | :green_circle: | [cpp](solutions/Longest-Alliteration.cpp) | [](notes)
-[](check) | 440 | [Index Into an Infinite String](https://binarysearch.com/problems/Index-Into-an-Infinite-String) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 440 | [Index Into an Infinite String](https://binarysearch.com/problems/Index-Into-an-Infinite-String) | :green_circle: | [cpp](solutions/Index-Into-an-Infinite-String.cpp) | [](notes)
 [](check) | 442 | [Bomber Man](https://binarysearch.com/problems/Bomber-Man) | :orange_circle: | [](solution) | [](notes)
 [](check) | 448 | [Linked List to ZigZag Tree Path](https://binarysearch.com/problems/Linked-List-to-ZigZag-Tree-Path) | :orange_circle: | [](solution) | [](notes)
 [](check) | 449 | [Distinct Palindromes](https://binarysearch.com/problems/Distinct-Palindromes) | :orange_circle: | [](solution) | [](notes)
