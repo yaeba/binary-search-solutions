@@ -326,7 +326,7 @@
 [](check) | 467 | [A* Student](https://binarysearch.com/problems/A*-Student) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 471 | [K and K](https://binarysearch.com/problems/K-and-K) | :green_circle: | [cpp](solutions/K-and-K.cpp) | [](notes)
 [](check) | 472 | [Adjacent Swaps to Group Ones](https://binarysearch.com/problems/Adjacent-Swaps-to-Group-Ones) | :red_circle: | [](solution) | [](notes)
-[](check) | 473 | [Unique Ab Strings](https://binarysearch.com/problems/Unique-Ab-Strings) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 473 | [Unique Ab Strings](https://binarysearch.com/problems/Unique-Ab-Strings) | :green_circle: | [cpp](solutions/Unique-Ab-Strings.cpp) | [](notes)
 [](check) | 474 | [Largest Anagram Group](https://binarysearch.com/problems/Largest-Anagram-Group) | :orange_circle: | [](solution) | [](notes)
 [](check) | 477 | [Trimmed Palindromes](https://binarysearch.com/problems/Trimmed-Palindromes) | :orange_circle: | [](solution) | [](notes)
 [](check) | 478 | [Interval Duration](https://binarysearch.com/problems/Interval-Duration) | :orange_circle: | [](solution) | [](notes)
