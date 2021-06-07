@@ -335,7 +335,7 @@
 [](check) | 481 | [Tree From PreInorder Traversals](https://binarysearch.com/problems/Tree-From-PreInorder-Traversals) | :orange_circle: | [](solution) | [](notes)
 [](check) | 482 | [Detect Voter Fraud](https://binarysearch.com/problems/Detect-Voter-Fraud) | :green_circle: | [](solution) | [](notes)
 [](check) | 483 | [Leaves in Same Level](https://binarysearch.com/problems/Leaves-in-Same-Level) | :orange_circle: | [](solution) | [](notes)
-[](check) | 484 | [123 Number Flip](https://binarysearch.com/problems/123-Number-Flip) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 484 | [123 Number Flip](https://binarysearch.com/problems/123-Number-Flip) | :green_circle: | [cpp](solutions/123-Number-Flip.cpp) | [](notes)
 [](check) | 485 | [Task Schedule](https://binarysearch.com/problems/Task-Schedule) | :orange_circle: | [](solution) | [](notes)
 [](check) | 486 | [Largest and Smallest Difference](https://binarysearch.com/problems/Largest-and-Smallest-Difference) | :orange_circle: | [](solution) | [](notes)
 [](check) | 487 | [Swappable Trees](https://binarysearch.com/problems/Swappable-Trees) | :orange_circle: | [](solution) | [](notes)
