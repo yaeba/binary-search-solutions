@@ -368,7 +368,7 @@
 [](check) | 524 | [Cut Matrix](https://binarysearch.com/problems/Cut-Matrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 525 | [Knight Remains](https://binarysearch.com/problems/Knight-Remains) | :orange_circle: | [](solution) | [](notes)
 [](check) | 528 | [Ghost](https://binarysearch.com/problems/Ghost) | :red_circle: | [](solution) | [](notes)
-[](check) | 529 | [Shortest String](https://binarysearch.com/problems/Shortest-String) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 529 | [Shortest String](https://binarysearch.com/problems/Shortest-String) | :green_circle: | [cpp](solutions/Shortest-String.cpp) | [](notes)
 [](check) | 530 | [Odd Palindrome](https://binarysearch.com/problems/Odd-Palindrome) | :orange_circle: | [](solution) | [](notes)
 [](check) | 533 | [Line of People](https://binarysearch.com/problems/Line-of-People) | :green_circle: | [](solution) | [](notes)
 [](check) | 536 | [K Unique String](https://binarysearch.com/problems/K-Unique-String) | :orange_circle: | [](solution) | [](notes)
