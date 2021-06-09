@@ -529,7 +529,7 @@
 [](check) | 779 | [Chain of Blocks](https://binarysearch.com/problems/Chain-of-Blocks) | :orange_circle: | [](solution) | [](notes)
 [](check) | 780 | [Equalize List](https://binarysearch.com/problems/Equalize-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 781 | [Min Max Sets](https://binarysearch.com/problems/Min-Max-Sets) | :orange_circle: | [](solution) | [](notes)
-[](check) | 783 | [Minimum String](https://binarysearch.com/problems/Minimum-String) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 783 | [Minimum String](https://binarysearch.com/problems/Minimum-String) | :green_circle: | [cpp](solutions/Minimum-String.cpp) | [](notes)
 [](check) | 784 | [One Interval](https://binarysearch.com/problems/One-Interval) | :orange_circle: | [](solution) | [](notes)
 [](check) | 785 | [Chosen N](https://binarysearch.com/problems/Chosen-N) | :red_circle: | [](solution) | [](notes)
 [](check) | 786 | [Strings Down Under](https://binarysearch.com/problems/Strings-Down-Under) | :large_blue_circle: | [](solution) | [](notes)
