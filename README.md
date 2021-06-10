@@ -128,7 +128,7 @@
 [](check) | 193 | [Longest Distinct Sublist](https://binarysearch.com/problems/Longest-Distinct-Sublist) | :orange_circle: | [](solution) | [](notes)
 [](check) | 194 | [Longest Consecutive Run of 1s in Binary](https://binarysearch.com/problems/Longest-Consecutive-Run-of-1s-in-Binary) | :orange_circle: | [](solution) | [](notes)
 [](check) | 196 | [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator) | :orange_circle: | [](solution) | [](notes)
-[](check) | 197 | [Repeated Addition](https://binarysearch.com/problems/Repeated-Addition) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 197 | [Repeated Addition](https://binarysearch.com/problems/Repeated-Addition) | :green_circle: | [cpp](solutions/Repeated-Addition.cpp) | [](notes)
 [](check) | 199 | [A Maniacal Walk](https://binarysearch.com/problems/A-Maniacal-Walk) | :red_circle: | [](solution) | [](notes)
 [](check) | 200 | [Longest Increasing Path](https://binarysearch.com/problems/Longest-Increasing-Path) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 201 | [Pascal's Triangle](https://binarysearch.com/problems/Pascal's-Triangle) | :green_circle: | [cpp](solutions/Pascal's-Triangle.cpp) | [](notes)
