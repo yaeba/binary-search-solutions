@@ -565,7 +565,7 @@
 [](check) | 865 | [Furthest From Origin](https://binarysearch.com/problems/Furthest-From-Origin) | :green_circle: | [](solution) | [](notes)
 [](check) | 866 | [Flipped Matrix Prequel](https://binarysearch.com/problems/Flipped-Matrix-Prequel) | :green_circle: | [](solution) | [](notes)
 [](check) | 868 | [Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal) | :orange_circle: | [](solution) | [](notes)
-[](check) | 870 | [Flip to Zeros](https://binarysearch.com/problems/Flip-to-Zeros) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 870 | [Flip to Zeros](https://binarysearch.com/problems/Flip-to-Zeros) | :green_circle: | [cpp](solutions/Flip-to-Zeros.cpp) | [](notes)
 [](check) | 871 | [Latin Square Solver](https://binarysearch.com/problems/Latin-Square-Solver) | :orange_circle: | [](solution) | [](notes)
 [](check) | 874 | [Area Under Histogram](https://binarysearch.com/problems/Area-Under-Histogram) | :red_circle: | [](solution) | [](notes)
 [](check) | 875 | [Hill Maker](https://binarysearch.com/problems/Hill-Maker) | :orange_circle: | [](solution) | [](notes)
