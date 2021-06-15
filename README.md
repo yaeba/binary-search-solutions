@@ -562,7 +562,7 @@
 [](check) | 849 | [Increasing Subsequences of Size K](https://binarysearch.com/problems/Increasing-Subsequences-of-Size-K) | :red_circle: | [](solution) | [](notes)
 [](check) | 850 | [Take All](https://binarysearch.com/problems/Take-All) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 864 | [Every Pair of Absolute Difference](https://binarysearch.com/problems/Every-Pair-of-Absolute-Difference) | :orange_circle: | [](solution) | [](notes)
-[](check) | 865 | [Furthest From Origin](https://binarysearch.com/problems/Furthest-From-Origin) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 865 | [Furthest From Origin](https://binarysearch.com/problems/Furthest-From-Origin) | :green_circle: | [cpp](solutions/Furthest-From-Origin.cpp) | [](notes)
 [](check) | 866 | [Flipped Matrix Prequel](https://binarysearch.com/problems/Flipped-Matrix-Prequel) | :green_circle: | [](solution) | [](notes)
 [](check) | 868 | [Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 870 | [Flip to Zeros](https://binarysearch.com/problems/Flip-to-Zeros) | :green_circle: | [cpp](solutions/Flip-to-Zeros.cpp) | [](notes)
