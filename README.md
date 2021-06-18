@@ -679,7 +679,7 @@
 [](check) | 1051 | [Largest Distance Pair](https://binarysearch.com/problems/Largest-Distance-Pair) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1053 | [Separate People Given Dislike Relations](https://binarysearch.com/problems/Separate-People-Given-Dislike-Relations) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1060 | [Subsequence Concatenation to Target](https://binarysearch.com/problems/Subsequence-Concatenation-to-Target) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1061 | [Flip and Invert Matrix](https://binarysearch.com/problems/Flip-and-Invert-Matrix) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1061 | [Flip and Invert Matrix](https://binarysearch.com/problems/Flip-and-Invert-Matrix) | :green_circle: | [py](solutions/Flip-and-Invert-Matrix.py) | [](notes)
 [](check) | 1062 | [Fair Pay Sequel](https://binarysearch.com/problems/Fair-Pay-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 1063 | [Decode List Message](https://binarysearch.com/problems/Decode-List-Message) | :red_circle: | [](solution) | [](notes)
 [](check) | 1064 | [Longest Prefix that Is a Suffix](https://binarysearch.com/problems/Longest-Prefix-that-Is-a-Suffix) | :red_circle: | [](solution) | [](notes)
