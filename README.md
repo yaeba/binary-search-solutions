@@ -807,7 +807,7 @@
 [](check) | 1267 | [Number of Decrements to Reach Zero](https://binarysearch.com/problems/Number-of-Decrements-to-Reach-Zero) | :red_circle: | [](solution) | [](notes)
 [](check) | 1268 | [Almost Same Strings](https://binarysearch.com/problems/Almost-Same-Strings) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1269 | [Remove Duplicates Occurring More Than Twice](https://binarysearch.com/problems/Remove-Duplicates-Occurring-More-Than-Twice) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1270 | [Sum of Two Numbers with Sorted List](https://binarysearch.com/problems/Sum-of-Two-Numbers-with-Sorted-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1270 | [Sum of Two Numbers with Sorted List](https://binarysearch.com/problems/Sum-of-Two-Numbers-with-Sorted-List) | :green_circle: | [cpp](solutions/Sum-of-Two-Numbers-with-Sorted-List.cpp) | [](notes)
 [](check) | 1271 | [Quadratic Application](https://binarysearch.com/problems/Quadratic-Application) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1272 | [Circular Cyclic Loop](https://binarysearch.com/problems/Circular-Cyclic-Loop) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1273 | [Longest 1s After One Flip](https://binarysearch.com/problems/Longest-1s-After-One-Flip) | :orange_circle: | [](solution) | [](notes)
