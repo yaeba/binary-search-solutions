@@ -1035,7 +1035,7 @@
 [](check) | 1533 | [Find Local Peaks Sequel](https://binarysearch.com/problems/Find-Local-Peaks-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1534 | [Longest Arithmetic Sequence Tree Path](https://binarysearch.com/problems/Longest-Arithmetic-Sequence-Tree-Path) | :red_circle: | [](solution) | [](notes)
 [](check) | 1535 | [Longest Prefix Sequence](https://binarysearch.com/problems/Longest-Prefix-Sequence) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1536 | [Validate Delivery Orders](https://binarysearch.com/problems/Validate-Delivery-Orders) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1536 | [Validate Delivery Orders](https://binarysearch.com/problems/Validate-Delivery-Orders) | :green_circle: | [py](solutions/Validate-Delivery-Orders.py) | [](notes)
 [](check) | 1537 | [Log Truncation](https://binarysearch.com/problems/Log-Truncation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1538 | [Brick Layout](https://binarysearch.com/problems/Brick-Layout) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1539 | [Border Crossing](https://binarysearch.com/problems/Border-Crossing) | :red_circle: | [](solution) | [](notes)
