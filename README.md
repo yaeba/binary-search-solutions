@@ -774,7 +774,7 @@
 [](check) | 1204 | [Split String Into K Palindromes](https://binarysearch.com/problems/Split-String-Into-K-Palindromes) | :red_circle: | [](solution) | [](notes)
 [](check) | 1205 | [Matrix Rectangular Sums](https://binarysearch.com/problems/Matrix-Rectangular-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1206 | [Number of Islands Online Version](https://binarysearch.com/problems/Number-of-Islands-Online-Version) | :red_circle: | [](solution) | [](notes)
-[](check) | 1208 | [Closest Distance to Character](https://binarysearch.com/problems/Closest-Distance-to-Character) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1208 | [Closest Distance to Character](https://binarysearch.com/problems/Closest-Distance-to-Character) | :green_circle: | [cpp](solutions/Closest-Distance-to-Character.cpp) | [](notes)
 [](check) | 1214 | [Minimize Amplitude After K Removals](https://binarysearch.com/problems/Minimize-Amplitude-After-K-Removals) | :green_circle: | [](solution) | [](notes)
 [](check) | 1215 | [Randomized Binary Search](https://binarysearch.com/problems/Randomized-Binary-Search) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1216 | [K Distinct Groups](https://binarysearch.com/problems/K-Distinct-Groups) | :orange_circle: | [](solution) | [](notes)
