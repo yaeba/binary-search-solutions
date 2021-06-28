@@ -374,7 +374,7 @@
 [](check) | 536 | [K Unique String](https://binarysearch.com/problems/K-Unique-String) | :orange_circle: | [](solution) | [](notes)
 [](check) | 537 | [Trailing Zeros](https://binarysearch.com/problems/Trailing-Zeros) | :red_circle: | [](solution) | [](notes)
 [](check) | 538 | [Bunnyhopping](https://binarysearch.com/problems/Bunnyhopping) | :red_circle: | [](solution) | [](notes)
-[](check) | 539 | [Sum of First N Odd Integers](https://binarysearch.com/problems/Sum-of-First-N-Odd-Integers) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 539 | [Sum of First N Odd Integers](https://binarysearch.com/problems/Sum-of-First-N-Odd-Integers) | :green_circle: | [cpp](solutions/Sum-of-First-N-Odd-Integers.cpp) | [](notes)
 [](check) | 540 | [Copy Paste](https://binarysearch.com/problems/Copy-Paste) | :orange_circle: | [](solution) | [](notes)
 [](check) | 541 | [Sum of Three Numbers Sequel](https://binarysearch.com/problems/Sum-of-Three-Numbers-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 542 | [Factory Trail](https://binarysearch.com/problems/Factory-Trail) | :orange_circle: | [](solution) | [](notes)
