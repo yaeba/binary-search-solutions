@@ -829,7 +829,7 @@
 [](check) | 1294 | [Adjacent Square Sums](https://binarysearch.com/problems/Adjacent-Square-Sums) | :red_circle: | [](solution) | [](notes)
 [](check) | 1295 | [Delete Integers In Ascending Order](https://binarysearch.com/problems/Delete-Integers-In-Ascending-Order) | :red_circle: | [](solution) | [](notes)
 [](check) | 1296 | [Max XOR of Two Integers](https://binarysearch.com/problems/Max-XOR-of-Two-Integers) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1298 | [Smallest Number With No Adjacent Duplicates](https://binarysearch.com/problems/Smallest-Number-With-No-Adjacent-Duplicates) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1298 | [Smallest Number With No Adjacent Duplicates](https://binarysearch.com/problems/Smallest-Number-With-No-Adjacent-Duplicates) | :green_circle: | [java](solutions/Smallest-Number-With-No-Adjacent-Duplicates.java) | [](notes)
 [](check) | 1299 | [Non Adjacent Combination Sum](https://binarysearch.com/problems/Non-Adjacent-Combination-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1300 | [Sublist with Largest Min Length Product](https://binarysearch.com/problems/Sublist-with-Largest-Min-Length-Product) | :red_circle: | [](solution) | [](notes)
 [](check) | 1301 | [Race to Finish Line](https://binarysearch.com/problems/Race-to-Finish-Line) | :red_circle: | [](solution) | [](notes)
