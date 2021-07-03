@@ -552,7 +552,7 @@
 [](check) | 821 | [Cut Palindrome](https://binarysearch.com/problems/Cut-Palindrome) | :orange_circle: | [](solution) | [](notes)
 [](check) | 822 | [K Lexicographically Smallest Subsequence](https://binarysearch.com/problems/K-Lexicographically-Smallest-Subsequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 823 | [Connect Forest](https://binarysearch.com/problems/Connect-Forest) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 830 | [Large to Small Sort](https://binarysearch.com/problems/Large-to-Small-Sort) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 830 | [Large to Small Sort](https://binarysearch.com/problems/Large-to-Small-Sort) | :green_circle: | [cpp](solutions/Large-to-Small-Sort.cpp) | [](notes)
 [](check) | 834 | [Coincidence Search](https://binarysearch.com/problems/Coincidence-Search) | :green_circle: | [](solution) | [](notes)
 [](check) | 835 | [Set Split](https://binarysearch.com/problems/Set-Split) | :orange_circle: | [](solution) | [](notes)
 [](check) | 836 | [Group the Ones](https://binarysearch.com/problems/Group-the-Ones) | :orange_circle: | [](solution) | [](notes)
