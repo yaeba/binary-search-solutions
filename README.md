@@ -878,7 +878,7 @@
 [](check) | 1356 | [Number of K Divisible Pairs](https://binarysearch.com/problems/Number-of-K-Divisible-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1357 | [String Equivalence Relations](https://binarysearch.com/problems/String-Equivalence-Relations) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1358 | [Airplane Seat Shuffling](https://binarysearch.com/problems/Airplane-Seat-Shuffling) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1359 | [Maximize Social Distancing](https://binarysearch.com/problems/Maximize-Social-Distancing) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1359 | [Maximize Social Distancing](https://binarysearch.com/problems/Maximize-Social-Distancing) | :green_circle: | [cpp](solutions/Maximize-Social-Distancing.cpp), [py](solutions/Maximize-Social-Distancing.py) | [](notes)
 [](check) | 1360 | [Multiple Coin Flips](https://binarysearch.com/problems/Multiple-Coin-Flips) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1361 | [Append List to Sum Target](https://binarysearch.com/problems/Append-List-to-Sum-Target) | :green_circle: | [cpp](solutions/Append-List-to-Sum-Target.cpp) | [](notes)
 [](check) | 1362 | [Cluster Management](https://binarysearch.com/problems/Cluster-Management) | :orange_circle: | [](solution) | [](notes)
