@@ -158,7 +158,7 @@
 [](check) | 230 | [S Expression Evaluation](https://binarysearch.com/problems/S-Expression-Evaluation) | :red_circle: | [](solution) | [](notes)
 [](check) | 231 | [No New Friends](https://binarysearch.com/problems/No-New-Friends) | :orange_circle: | [](solution) | [](notes)
 [](check) | 232 | [Friend Groups](https://binarysearch.com/problems/Friend-Groups) | :orange_circle: | [](solution) | [](notes)
-[](check) | 235 | [Hamming Distance](https://binarysearch.com/problems/Hamming-Distance) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 235 | [Hamming Distance](https://binarysearch.com/problems/Hamming-Distance) | :green_circle: | [cpp](solutions/Hamming-Distance.cpp) | [](notes)
 [](check) | 237 | [Rotate by 90 Degrees Counter Clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 238 | [Sorted Elements](https://binarysearch.com/problems/Sorted-Elements) | :green_circle: | [py](solutions/Sorted-Elements.py) | [](notes)
 [](check) | 239 | [Pairwise Linked List Swap](https://binarysearch.com/problems/Pairwise-Linked-List-Swap) | :orange_circle: | [](solution) | [](notes)
