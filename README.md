@@ -403,7 +403,7 @@
 [](check) | 574 | [Majority Vote](https://binarysearch.com/problems/Majority-Vote) | :orange_circle: | [](solution) | [](notes)
 [](check) | 575 | [Class Scheduling](https://binarysearch.com/problems/Class-Scheduling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 576 | [Linked List Delete Last Occurrence of Value](https://binarysearch.com/problems/Linked-List-Delete-Last-Occurrence-of-Value) | :orange_circle: | [](solution) | [](notes)
-[](check) | 577 | [Remove Last Duplicate Entries](https://binarysearch.com/problems/Remove-Last-Duplicate-Entries) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 577 | [Remove Last Duplicate Entries](https://binarysearch.com/problems/Remove-Last-Duplicate-Entries) | :green_circle: | [py](solutions/Remove-Last-Duplicate-Entries.py) | [](notes)
 [](check) | 581 | [Fractional Knapsack](https://binarysearch.com/problems/Fractional-Knapsack) | :orange_circle: | [](solution) | [](notes)
 [](check) | 582 | [DDoS Protection](https://binarysearch.com/problems/DDoS-Protection) | :red_circle: | [](solution) | [](notes)
 [](check) | 583 | [Multi Knapsack](https://binarysearch.com/problems/Multi-Knapsack) | :red_circle: | [](solution) | [](notes)
