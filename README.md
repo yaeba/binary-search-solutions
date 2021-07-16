@@ -768,7 +768,7 @@
 :white_check_mark: | 1198 | [Fixed Point](https://binarysearch.com/problems/Fixed-Point) | :green_circle: | [cpp](solutions/Fixed-Point.cpp) | [](notes)
 [](check) | 1199 | [Playlist Count](https://binarysearch.com/problems/Playlist-Count) | :red_circle: | [](solution) | [](notes)
 [](check) | 1200 | [Prefix with Equivalent Frequencies](https://binarysearch.com/problems/Prefix-with-Equivalent-Frequencies) | :red_circle: | [](solution) | [](notes)
-[](check) | 1201 | [Shortest Sublist With Max Frequency](https://binarysearch.com/problems/Shortest-Sublist-With-Max-Frequency) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1201 | [Shortest Sublist With Max Frequency](https://binarysearch.com/problems/Shortest-Sublist-With-Max-Frequency) | :green_circle: | [py](solutions/Shortest-Sublist-With-Max-Frequency.py) | [](notes)
 [](check) | 1202 | [Binary Search Tree Iterator Sequel](https://binarysearch.com/problems/Binary-Search-Tree-Iterator-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1203 | [Frequency Stack](https://binarysearch.com/problems/Frequency-Stack) | :red_circle: | [](solution) | [](notes)
 [](check) | 1204 | [Split String Into K Palindromes](https://binarysearch.com/problems/Split-String-Into-K-Palindromes) | :red_circle: | [](solution) | [](notes)
