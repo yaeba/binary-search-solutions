@@ -537,7 +537,7 @@
 [](check) | 793 | [Forest Detection](https://binarysearch.com/problems/Forest-Detection) | :orange_circle: | [](solution) | [](notes)
 [](check) | 795 | [Group Points](https://binarysearch.com/problems/Group-Points) | :orange_circle: | [](solution) | [](notes)
 [](check) | 797 | [Binary Matrix Leftmost One](https://binarysearch.com/problems/Binary-Matrix-Leftmost-One) | :orange_circle: | [](solution) | [](notes)
-[](check) | 798 | [Unique Fractions](https://binarysearch.com/problems/Unique-Fractions) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 798 | [Unique Fractions](https://binarysearch.com/problems/Unique-Fractions) | :green_circle: | [py](solutions/Unique-Fractions.py) | [](notes)
 [](check) | 799 | [Scrum Journeyman](https://binarysearch.com/problems/Scrum-Journeyman) | :orange_circle: | [](solution) | [](notes)
 [](check) | 802 | [Color Map](https://binarysearch.com/problems/Color-Map) | :orange_circle: | [](solution) | [](notes)
 [](check) | 803 | [Maximal Expression](https://binarysearch.com/problems/Maximal-Expression) | :red_circle: | [](solution) | [](notes)
