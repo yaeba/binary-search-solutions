@@ -605,7 +605,7 @@
 [](check) | 939 | [Subsequence Match Target](https://binarysearch.com/problems/Subsequence-Match-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 940 | [Maximum Sum Rectangle with Condition](https://binarysearch.com/problems/Maximum-Sum-Rectangle-with-Condition) | :red_circle: | [](solution) | [](notes)
 [](check) | 942 | [Minimum Number of Contiguous K Flips](https://binarysearch.com/problems/Minimum-Number-of-Contiguous-K-Flips) | :red_circle: | [](solution) | [](notes)
-[](check) | 943 | [Longest Interval Containing One Number](https://binarysearch.com/problems/Longest-Interval-Containing-One-Number) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 943 | [Longest Interval Containing One Number](https://binarysearch.com/problems/Longest-Interval-Containing-One-Number) | :green_circle: | [cpp](solutions/Longest-Interval-Containing-One-Number.cpp) | [](notes)
 [](check) | 944 | [K Stack Pops](https://binarysearch.com/problems/K-Stack-Pops) | :orange_circle: | [](solution) | [](notes)
 [](check) | 948 | [Column Flips to Target](https://binarysearch.com/problems/Column-Flips-to-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 950 | [Surrounded Islands](https://binarysearch.com/problems/Surrounded-Islands) | :orange_circle: | [](solution) | [](notes)
