@@ -344,7 +344,7 @@
 [](check) | 491 | [Leaf Equivalent Trees](https://binarysearch.com/problems/Leaf-Equivalent-Trees) | :orange_circle: | [](solution) | [](notes)
 [](check) | 492 | [Max Character Distinct Words](https://binarysearch.com/problems/Max-Character-Distinct-Words) | :orange_circle: | [](solution) | [](notes)
 [](check) | 494 | [Longest Even Value Path](https://binarysearch.com/problems/Longest-Even-Value-Path) | :orange_circle: | [](solution) | [](notes)
-[](check) | 495 | [Rectangular Overlap](https://binarysearch.com/problems/Rectangular-Overlap) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 495 | [Rectangular Overlap](https://binarysearch.com/problems/Rectangular-Overlap) | :green_circle: | [py](solutions/Rectangular-Overlap.py) | [](notes)
 [](check) | 496 | [Longest Even Sum Path](https://binarysearch.com/problems/Longest-Even-Sum-Path) | :red_circle: | [](solution) | [](notes)
 [](check) | 498 | [Robinhood](https://binarysearch.com/problems/Robinhood) | :green_circle: | [](solution) | [](notes)
 [](check) | 499 | [Linked List Folding](https://binarysearch.com/problems/Linked-List-Folding) | :orange_circle: | [](solution) | [](notes)
