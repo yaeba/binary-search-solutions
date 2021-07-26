@@ -299,7 +299,7 @@
 [](check) | 422 | [Smallest Difference](https://binarysearch.com/problems/Smallest-Difference) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 423 | [Big Numbers](https://binarysearch.com/problems/Big-Numbers) | :green_circle: | [cpp](solutions/Big-Numbers.cpp) | [](notes)
 :white_check_mark: | 424 | [Target Number with Operations](https://binarysearch.com/problems/Target-Number-with-Operations) | :green_circle: | [cpp](solutions/Target-Number-with-Operations.cpp) | [](notes)
-[](check) | 425 | [Latin Square](https://binarysearch.com/problems/Latin-Square) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 425 | [Latin Square](https://binarysearch.com/problems/Latin-Square) | :green_circle: | [py](solutions/Latin-Square.py) | [](notes)
 [](check) | 426 | [Symmetric Binary Tree](https://binarysearch.com/problems/Symmetric-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 428 | [Partition Tree](https://binarysearch.com/problems/Partition-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 429 | [Vertical Cipher](https://binarysearch.com/problems/Vertical-Cipher) | :green_circle: | [](solution) | [](notes)
