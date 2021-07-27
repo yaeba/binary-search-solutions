@@ -896,7 +896,7 @@
 [](check) | 1375 | [Square Submatrix Sum Below Target](https://binarysearch.com/problems/Square-Submatrix-Sum-Below-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1376 | [Longest Arithmetic Subsequence with Difference Constraint](https://binarysearch.com/problems/Longest-Arithmetic-Subsequence-with-Difference-Constraint) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1377 | [Update List to Make It Strictly Increasing](https://binarysearch.com/problems/Update-List-to-Make-It-Strictly-Increasing) | :red_circle: | [](solution) | [](notes)
-[](check) | 1378 | [Minimize Amplitude After Deleting K Length Sublist](https://binarysearch.com/problems/Minimize-Amplitude-After-Deleting-K-Length-Sublist) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1378 | [Minimize Amplitude After Deleting K Length Sublist](https://binarysearch.com/problems/Minimize-Amplitude-After-Deleting-K-Length-Sublist) | :green_circle: | [py](solutions/Minimize-Amplitude-After-Deleting-K-Length-Sublist.py) | [](notes)
 [](check) | 1379 | [Arithmetic Sequence Queries](https://binarysearch.com/problems/Arithmetic-Sequence-Queries) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1380 | [Number of Sublists That Don't Contain Target List](https://binarysearch.com/problems/Number-of-Sublists-That-Don't-Contain-Target-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1381 | [Shortest Window Substring in Order](https://binarysearch.com/problems/Shortest-Window-Substring-in-Order) | :red_circle: | [](solution) | [](notes)
