@@ -249,7 +249,7 @@
 [](check) | 350 | [Fair Pay](https://binarysearch.com/problems/Fair-Pay) | :orange_circle: | [](solution) | [](notes)
 [](check) | 351 | [Minimum Window Substring](https://binarysearch.com/problems/Minimum-Window-Substring) | :red_circle: | [](solution) | [](notes)
 [](check) | 353 | [Triangle Triplets](https://binarysearch.com/problems/Triangle-Triplets) | :orange_circle: | [](solution) | [](notes)
-[](check) | 354 | [Add Linked Lists](https://binarysearch.com/problems/Add-Linked-Lists) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 354 | [Add Linked Lists](https://binarysearch.com/problems/Add-Linked-Lists) | :orange_circle: | [cpp](solutions/Add-Linked-Lists.cpp) | [](notes)
 :white_check_mark: | 356 | [Remove Duplicates in Linked List](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List) | :orange_circle: | [cpp](solutions/Remove-Duplicates-in-Linked-List.cpp) | [](notes)
 [](check) | 357 | [Course Scheduling](https://binarysearch.com/problems/Course-Scheduling) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 358 | [Greatest Common Divisor](https://binarysearch.com/problems/Greatest-Common-Divisor) | :green_circle: | [cpp](solutions/Greatest-Common-Divisor.cpp) | [](notes)
