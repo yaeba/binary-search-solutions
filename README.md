@@ -583,7 +583,7 @@
 [](check) | 898 | [Lexicographically Bigger String](https://binarysearch.com/problems/Lexicographically-Bigger-String) | :orange_circle: | [](solution) | [](notes)
 [](check) | 899 | [Fibonacci Subset Sum](https://binarysearch.com/problems/Fibonacci-Subset-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 901 | [Resum to Target List](https://binarysearch.com/problems/Resum-to-Target-List) | :orange_circle: | [](solution) | [](notes)
-[](check) | 904 | [Making List Values Equal](https://binarysearch.com/problems/Making-List-Values-Equal) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 904 | [Making List Values Equal](https://binarysearch.com/problems/Making-List-Values-Equal) | :green_circle: | [cpp](solutions/Making-List-Values-Equal.cpp) | [](notes)
 [](check) | 905 | [Finding Binary Search in a String](https://binarysearch.com/problems/Finding-Binary-Search-in-a-String) | :green_circle: | [](solution) | [](notes)
 [](check) | 906 | [Paying Workers With Coins](https://binarysearch.com/problems/Paying-Workers-With-Coins) | :orange_circle: | [](solution) | [](notes)
 [](check) | 917 | [Wallstreet Bets](https://binarysearch.com/problems/Wallstreet-Bets) | :orange_circle: | [](solution) | [](notes)
