@@ -695,7 +695,7 @@
 [](check) | 1084 | [Shortest Majority Substring](https://binarysearch.com/problems/Shortest-Majority-Substring) | :green_circle: | [](solution) | [](notes)
 [](check) | 1086 | [Deleting Repeated Integers Game](https://binarysearch.com/problems/Deleting-Repeated-Integers-Game) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1087 | [Counting K Length Paths on Binary Tree](https://binarysearch.com/problems/Counting-K-Length-Paths-on-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1091 | [Matrix Prefix Sum](https://binarysearch.com/problems/Matrix-Prefix-Sum) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1091 | [Matrix Prefix Sum](https://binarysearch.com/problems/Matrix-Prefix-Sum) | :green_circle: | [cpp](solutions/Matrix-Prefix-Sum.cpp) | [](notes)
 [](check) | 1092 | [Maximize the Minimum Value After K Sublist Increments](https://binarysearch.com/problems/Maximize-the-Minimum-Value-After-K-Sublist-Increments) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1093 | [Maximize the Number of Equivalent Pairs After Swaps](https://binarysearch.com/problems/Maximize-the-Number-of-Equivalent-Pairs-After-Swaps) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1094 | [Maximal Points From Deleting Two Character Substrings](https://binarysearch.com/problems/Maximal-Points-From-Deleting-Two-Character-Substrings) | :red_circle: | [](solution) | [](notes)
