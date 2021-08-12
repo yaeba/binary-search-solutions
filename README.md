@@ -302,7 +302,7 @@
 :white_check_mark: | 425 | [Latin Square](https://binarysearch.com/problems/Latin-Square) | :green_circle: | [py](solutions/Latin-Square.py) | [](notes)
 [](check) | 426 | [Symmetric Binary Tree](https://binarysearch.com/problems/Symmetric-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 428 | [Partition Tree](https://binarysearch.com/problems/Partition-Tree) | :orange_circle: | [](solution) | [](notes)
-[](check) | 429 | [Vertical Cipher](https://binarysearch.com/problems/Vertical-Cipher) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 429 | [Vertical Cipher](https://binarysearch.com/problems/Vertical-Cipher) | :green_circle: | [py](solutions/Vertical-Cipher.py) | [](notes)
 :white_check_mark: | 430 | [Leaderboard](https://binarysearch.com/problems/Leaderboard) | :green_circle: | [py](solutions/Leaderboard.py) | [](notes)
 [](check) | 431 | [Word Formation](https://binarysearch.com/problems/Word-Formation) | :green_circle: | [](solution) | [](notes)
 [](check) | 433 | [Minimum Parsing Tree](https://binarysearch.com/problems/Minimum-Parsing-Tree) | :large_blue_circle: | [](solution) | [](notes)
