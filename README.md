@@ -287,7 +287,7 @@
 [](check) | 400 | [Subsequence Picking](https://binarysearch.com/problems/Subsequence-Picking) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 405 | [Target Number with Operations Sequel](https://binarysearch.com/problems/Target-Number-with-Operations-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 406 | [String Isomorphism](https://binarysearch.com/problems/String-Isomorphism) | :green_circle: | [](solution) | [](notes)
-[](check) | 409 | [Sum of Three Numbers](https://binarysearch.com/problems/Sum-of-Three-Numbers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 409 | [Sum of Three Numbers](https://binarysearch.com/problems/Sum-of-Three-Numbers) | :orange_circle: | [java](solutions/Sum-of-Three-Numbers.java) | [](notes)
 :white_check_mark: | 410 | [City Blocks](https://binarysearch.com/problems/City-Blocks) | :green_circle: | [py](solutions/City-Blocks.py) | [](notes)
 [](check) | 412 | [Tree Traversal](https://binarysearch.com/problems/Tree-Traversal) | :orange_circle: | [](solution) | [](notes)
 [](check) | 415 | [8 Puzzle](https://binarysearch.com/problems/8-Puzzle) | :red_circle: | [](solution) | [](notes)
