@@ -221,7 +221,7 @@
 [](check) | 318 | [Longest Tree Path](https://binarysearch.com/problems/Longest-Tree-Path) | :orange_circle: | [](solution) | [](notes)
 [](check) | 319 | [K Partitionable List](https://binarysearch.com/problems/K-Partitionable-List) | :red_circle: | [](solution) | [](notes)
 [](check) | 320 | [Phone Number Combinations](https://binarysearch.com/problems/Phone-Number-Combinations) | :orange_circle: | [](solution) | [](notes)
-[](check) | 321 | [Task Hare](https://binarysearch.com/problems/Task-Hare) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 321 | [Task Hare](https://binarysearch.com/problems/Task-Hare) | :green_circle: | [cpp](solutions/Task-Hare.cpp) | [](notes)
 :white_check_mark: | 322 | [Happy Numbers](https://binarysearch.com/problems/Happy-Numbers) | :green_circle: | [py](solutions/Happy-Numbers.py) | [](notes)
 [](check) | 324 | [Making Change Sequel](https://binarysearch.com/problems/Making-Change-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 325 | [Maximum Non Adjacent Tree Sum](https://binarysearch.com/problems/Maximum-Non-Adjacent-Tree-Sum) | :orange_circle: | [](solution) | [](notes)
