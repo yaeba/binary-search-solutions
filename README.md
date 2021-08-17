@@ -964,7 +964,7 @@
 :white_check_mark: | 1446 | [Consecutive Ones](https://binarysearch.com/problems/Consecutive-Ones) | :green_circle: | [cpp](solutions/Consecutive-Ones.cpp) | [](notes)
 [](check) | 1447 | [Window Limits](https://binarysearch.com/problems/Window-Limits) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1448 | [Intersecting Lines](https://binarysearch.com/problems/Intersecting-Lines) | :red_circle: | [](solution) | [](notes)
-[](check) | 1449 | [Search in a Virtually Complete Binary Tree](https://binarysearch.com/problems/Search-in-a-Virtually-Complete-Binary-Tree) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1449 | [Search in a Virtually Complete Binary Tree](https://binarysearch.com/problems/Search-in-a-Virtually-Complete-Binary-Tree) | :green_circle: | [cpp](solutions/Search-in-a-Virtually-Complete-Binary-Tree.cpp) | [](notes)
 [](check) | 1450 | [Compressed Vector Product](https://binarysearch.com/problems/Compressed-Vector-Product) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1452 | [Fix Flight Itinerary](https://binarysearch.com/problems/Fix-Flight-Itinerary) | :red_circle: | [](solution) | [](notes)
 [](check) | 1453 | [Virtual Boolean Array](https://binarysearch.com/problems/Virtual-Boolean-Array) | :orange_circle: | [](solution) | [](notes)
