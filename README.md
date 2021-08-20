@@ -533,7 +533,7 @@
 [](check) | 784 | [One Interval](https://binarysearch.com/problems/One-Interval) | :orange_circle: | [](solution) | [](notes)
 [](check) | 785 | [Chosen N](https://binarysearch.com/problems/Chosen-N) | :red_circle: | [](solution) | [](notes)
 [](check) | 786 | [Strings Down Under](https://binarysearch.com/problems/Strings-Down-Under) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 792 | [K Longest Show Durations](https://binarysearch.com/problems/K-Longest-Show-Durations) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 792 | [K Longest Show Durations](https://binarysearch.com/problems/K-Longest-Show-Durations) | :green_circle: | [py](solutions/K-Longest-Show-Durations.py) | [](notes)
 [](check) | 793 | [Forest Detection](https://binarysearch.com/problems/Forest-Detection) | :orange_circle: | [](solution) | [](notes)
 [](check) | 795 | [Group Points](https://binarysearch.com/problems/Group-Points) | :orange_circle: | [](solution) | [](notes)
 [](check) | 797 | [Binary Matrix Leftmost One](https://binarysearch.com/problems/Binary-Matrix-Leftmost-One) | :orange_circle: | [](solution) | [](notes)
