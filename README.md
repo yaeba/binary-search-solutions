@@ -103,7 +103,7 @@
 :white_check_mark: | 158 | [A Strictly Increasing Linked List](https://binarysearch.com/problems/A-Strictly-Increasing-Linked-List) | :green_circle: | [cpp](solutions/A-Strictly-Increasing-Linked-List.cpp) | [](notes)
 [](check) | 163 | [Perfect Squares](https://binarysearch.com/problems/Perfect-Squares) | :orange_circle: | [](solution) | [](notes)
 [](check) | 164 | [Repeated Deletion](https://binarysearch.com/problems/Repeated-Deletion) | :orange_circle: | [](solution) | [](notes)
-[](check) | 166 | [Interleaved String](https://binarysearch.com/problems/Interleaved-String) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 166 | [Interleaved String](https://binarysearch.com/problems/Interleaved-String) | :green_circle: | [cpp](solutions/Interleaved-String.cpp) | [](notes)
 :white_check_mark: | 167 | [Check Palindrome](https://binarysearch.com/problems/Check-Palindrome) | :green_circle: | [cpp](solutions/Check-Palindrome.cpp) | [](notes)
 [](check) | 168 | [Anagram Checks](https://binarysearch.com/problems/Anagram-Checks) | :green_circle: | [](solution) | [](notes)
 [](check) | 169 | [List Partitioning](https://binarysearch.com/problems/List-Partitioning) | :orange_circle: | [](solution) | [](notes)
