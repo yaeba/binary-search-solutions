@@ -574,7 +574,7 @@
 [](check) | 881 | [Making Pairwise Adjacent Sums Small](https://binarysearch.com/problems/Making-Pairwise-Adjacent-Sums-Small) | :orange_circle: | [](solution) | [](notes)
 [](check) | 882 | [Wildfire Sequel](https://binarysearch.com/problems/Wildfire-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 883 | [Equation Typo](https://binarysearch.com/problems/Equation-Typo) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 886 | [Contained Interval](https://binarysearch.com/problems/Contained-Interval) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 886 | [Contained Interval](https://binarysearch.com/problems/Contained-Interval) | :green_circle: | [py](solutions/Contained-Interval.py) | [](notes)
 [](check) | 891 | [Valid State of List](https://binarysearch.com/problems/Valid-State-of-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 893 | [Lossy Run Length Encoding](https://binarysearch.com/problems/Lossy-Run-Length-Encoding) | :orange_circle: | [](solution) | [](notes)
 [](check) | 894 | [Turn Into Non Increasing List](https://binarysearch.com/problems/Turn-Into-Non-Increasing-List) | :red_circle: | [](solution) | [](notes)
