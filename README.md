@@ -423,7 +423,7 @@
 [](check) | 602 | [Non Decreasing Digits](https://binarysearch.com/problems/Non-Decreasing-Digits) | :orange_circle: | [](solution) | [](notes)
 [](check) | 604 | [Maximum Consecutive Difference](https://binarysearch.com/problems/Maximum-Consecutive-Difference) | :red_circle: | [](solution) | [](notes)
 [](check) | 605 | [Anagram Difference](https://binarysearch.com/problems/Anagram-Difference) | :red_circle: | [](solution) | [](notes)
-[](check) | 606 | [Cell Fusion](https://binarysearch.com/problems/Cell-Fusion) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 606 | [Cell Fusion](https://binarysearch.com/problems/Cell-Fusion) | :green_circle: | [py](solutions/Cell-Fusion.py) | [](notes)
 :white_check_mark: | 607 | [Longest Common Prefix](https://binarysearch.com/problems/Longest-Common-Prefix) | :green_circle: | [cpp](solutions/Longest-Common-Prefix.cpp) | [](notes)
 [](check) | 608 | [Anagram Substrings](https://binarysearch.com/problems/Anagram-Substrings) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 609 | [String Addition](https://binarysearch.com/problems/String-Addition) | :green_circle: | [cpp](solutions/String-Addition.cpp) | [](notes)
