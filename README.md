@@ -391,7 +391,7 @@
 [](check) | 559 | [Minimum Set of Pairs](https://binarysearch.com/problems/Minimum-Set-of-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 560 | [Selling Products](https://binarysearch.com/problems/Selling-Products) | :orange_circle: | [](solution) | [](notes)
 [](check) | 563 | [Factorial Sum](https://binarysearch.com/problems/Factorial-Sum) | :orange_circle: | [](solution) | [](notes)
-[](check) | 564 | [N Rooks](https://binarysearch.com/problems/N-Rooks) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 564 | [N Rooks](https://binarysearch.com/problems/N-Rooks) | :green_circle: | [java](solutions/N-Rooks.java) | [](notes)
 :white_check_mark: | 565 | [Rookie Mistake](https://binarysearch.com/problems/Rookie-Mistake) | :green_circle: | [cpp](solutions/Rookie-Mistake.cpp) | [](notes)
 [](check) | 566 | [Coprime Suspects](https://binarysearch.com/problems/Coprime-Suspects) | :orange_circle: | [](solution) | [](notes)
 [](check) | 567 | [Country Roads](https://binarysearch.com/problems/Country-Roads) | :red_circle: | [](solution) | [](notes)
