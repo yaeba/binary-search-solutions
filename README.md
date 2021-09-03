@@ -1004,7 +1004,7 @@
 [](check) | 1494 | [Swap Kth Node Values](https://binarysearch.com/problems/Swap-Kth-Node-Values) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1495 | [Equivalent Product Pairs](https://binarysearch.com/problems/Equivalent-Product-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1497 | [Integer to English](https://binarysearch.com/problems/Integer-to-English) | :red_circle: | [](solution) | [](notes)
-[](check) | 1498 | [Shift to Create Range](https://binarysearch.com/problems/Shift-to-Create-Range) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1498 | [Shift to Create Range](https://binarysearch.com/problems/Shift-to-Create-Range) | :green_circle: | [cpp](solutions/Shift-to-Create-Range.cpp), [py](solutions/Shift-to-Create-Range.py) | [](notes)
 [](check) | 1499 | [Remove Smallest Peaks in Order](https://binarysearch.com/problems/Remove-Smallest-Peaks-in-Order) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1501 | [Traverse Coordinates](https://binarysearch.com/problems/Traverse-Coordinates) | :red_circle: | [](solution) | [](notes)
 [](check) | 1502 | [Matrix Relations](https://binarysearch.com/problems/Matrix-Relations) | :red_circle: | [](solution) | [](notes)
