@@ -548,7 +548,7 @@
 [](check) | 817 | [Bus Stop](https://binarysearch.com/problems/Bus-Stop) | :orange_circle: | [](solution) | [](notes)
 [](check) | 818 | [Longest Sublist with Value Range Condition](https://binarysearch.com/problems/Longest-Sublist-with-Value-Range-Condition) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 819 | [Most Frequent Number in Intervals](https://binarysearch.com/problems/Most-Frequent-Number-in-Intervals) | :green_circle: | [py](solutions/Most-Frequent-Number-in-Intervals.py) | LineSweep
-[](check) | 820 | [Beer Bottles](https://binarysearch.com/problems/Beer-Bottles) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 820 | [Beer Bottles](https://binarysearch.com/problems/Beer-Bottles) | :green_circle: | [cpp](solutions/Beer-Bottles.cpp) | [](notes)
 [](check) | 821 | [Cut Palindrome](https://binarysearch.com/problems/Cut-Palindrome) | :orange_circle: | [](solution) | [](notes)
 [](check) | 822 | [K Lexicographically Smallest Subsequence](https://binarysearch.com/problems/K-Lexicographically-Smallest-Subsequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 823 | [Connect Forest](https://binarysearch.com/problems/Connect-Forest) | :large_blue_circle: | [](solution) | [](notes)
