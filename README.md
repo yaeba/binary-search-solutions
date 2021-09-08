@@ -199,7 +199,7 @@
 [](check) | 286 | [Delete Even Leaves](https://binarysearch.com/problems/Delete-Even-Leaves) | :orange_circle: | [](solution) | [](notes)
 [](check) | 288 | [Minimum Digit Delete](https://binarysearch.com/problems/Minimum-Digit-Delete) | :red_circle: | [](solution) | [](notes)
 [](check) | 289 | [Make Lists Same with Sublist Sum Operations](https://binarysearch.com/problems/Make-Lists-Same-with-Sublist-Sum-Operations) | :orange_circle: | [](solution) | [](notes)
-[](check) | 290 | [Swap Characters to Equalize Strings](https://binarysearch.com/problems/Swap-Characters-to-Equalize-Strings) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 290 | [Swap Characters to Equalize Strings](https://binarysearch.com/problems/Swap-Characters-to-Equalize-Strings) | :green_circle: | [py](solutions/Swap-Characters-to-Equalize-Strings.py) | [](notes)
 [](check) | 294 | [Longest Common Substring](https://binarysearch.com/problems/Longest-Common-Substring) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 298 | [Text Editor](https://binarysearch.com/problems/Text-Editor) | :green_circle: | [cpp](solutions/Text-Editor.cpp) | [](notes)
 [](check) | 299 | [Seat Arrangement](https://binarysearch.com/problems/Seat-Arrangement) | :green_circle: | [](solution) | [](notes)
