@@ -542,7 +542,7 @@
 [](check) | 802 | [Color Map](https://binarysearch.com/problems/Color-Map) | :orange_circle: | [](solution) | [](notes)
 [](check) | 803 | [Maximal Expression](https://binarysearch.com/problems/Maximal-Expression) | :red_circle: | [](solution) | [](notes)
 [](check) | 804 | [Minimal Submatrices](https://binarysearch.com/problems/Minimal-Submatrices) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 805 | [Intervals Intersecting at Point](https://binarysearch.com/problems/Intervals-Intersecting-at-Point) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 805 | [Intervals Intersecting at Point](https://binarysearch.com/problems/Intervals-Intersecting-at-Point) | :green_circle: | [py](solutions/Intervals-Intersecting-at-Point.py) | [](notes)
 [](check) | 806 | [Non Consecutive String](https://binarysearch.com/problems/Non-Consecutive-String) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 809 | [Revolving Door](https://binarysearch.com/problems/Revolving-Door) | :green_circle: | [py](solutions/Revolving-Door.py) | [](notes)
 [](check) | 817 | [Bus Stop](https://binarysearch.com/problems/Bus-Stop) | :orange_circle: | [](solution) | [](notes)
