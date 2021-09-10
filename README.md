@@ -333,7 +333,7 @@
 [](check) | 479 | [Longest Alternating Subsequence](https://binarysearch.com/problems/Longest-Alternating-Subsequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 480 | [Bus Fare](https://binarysearch.com/problems/Bus-Fare) | :orange_circle: | [](solution) | [](notes)
 [](check) | 481 | [Tree From PreInorder Traversals](https://binarysearch.com/problems/Tree-From-PreInorder-Traversals) | :orange_circle: | [](solution) | [](notes)
-[](check) | 482 | [Detect Voter Fraud](https://binarysearch.com/problems/Detect-Voter-Fraud) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 482 | [Detect Voter Fraud](https://binarysearch.com/problems/Detect-Voter-Fraud) | :green_circle: | [java](solutions/Detect-Voter-Fraud.java) | [](notes)
 [](check) | 483 | [Leaves in Same Level](https://binarysearch.com/problems/Leaves-in-Same-Level) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 484 | [123 Number Flip](https://binarysearch.com/problems/123-Number-Flip) | :green_circle: | [cpp](solutions/123-Number-Flip.cpp) | [](notes)
 [](check) | 485 | [Task Schedule](https://binarysearch.com/problems/Task-Schedule) | :orange_circle: | [](solution) | [](notes)
