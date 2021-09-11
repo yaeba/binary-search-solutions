@@ -419,7 +419,7 @@
 [](check) | 598 | [Smallest Sublist Sum at Least Target](https://binarysearch.com/problems/Smallest-Sublist-Sum-at-Least-Target) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 599 | [Guess the Root](https://binarysearch.com/problems/Guess-the-Root) | :green_circle: | [cpp](solutions/Guess-the-Root.cpp) | [](notes)
 [](check) | 600 | [Interval Union](https://binarysearch.com/problems/Interval-Union) | :orange_circle: | [](solution) | [](notes)
-[](check) | 601 | [Interval Intersection](https://binarysearch.com/problems/Interval-Intersection) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 601 | [Interval Intersection](https://binarysearch.com/problems/Interval-Intersection) | :green_circle: | [java](solutions/Interval-Intersection.java) | [](notes)
 [](check) | 602 | [Non Decreasing Digits](https://binarysearch.com/problems/Non-Decreasing-Digits) | :orange_circle: | [](solution) | [](notes)
 [](check) | 604 | [Maximum Consecutive Difference](https://binarysearch.com/problems/Maximum-Consecutive-Difference) | :red_circle: | [](solution) | [](notes)
 [](check) | 605 | [Anagram Difference](https://binarysearch.com/problems/Anagram-Difference) | :red_circle: | [](solution) | [](notes)
