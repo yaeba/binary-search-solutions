@@ -1031,7 +1031,7 @@
 [](check) | 1528 | [Subtree with Maximum Value](https://binarysearch.com/problems/Subtree-with-Maximum-Value) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1530 | [Longest Matrix Path Length](https://binarysearch.com/problems/Longest-Matrix-Path-Length) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1531 | [Ticket Order](https://binarysearch.com/problems/Ticket-Order) | :red_circle: | [](solution) | [](notes)
-[](check) | 1532 | [Pair and Triples](https://binarysearch.com/problems/Pair-and-Triples) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1532 | [Pair and Triples](https://binarysearch.com/problems/Pair-and-Triples) | :green_circle: | [py](solutions/Pair-and-Triples.py) | [](notes)
 [](check) | 1533 | [Find Local Peaks Sequel](https://binarysearch.com/problems/Find-Local-Peaks-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1534 | [Longest Arithmetic Sequence Tree Path](https://binarysearch.com/problems/Longest-Arithmetic-Sequence-Tree-Path) | :red_circle: | [](solution) | [](notes)
 [](check) | 1535 | [Longest Prefix Sequence](https://binarysearch.com/problems/Longest-Prefix-Sequence) | :orange_circle: | [](solution) | [](notes)
