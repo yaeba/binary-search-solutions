@@ -971,7 +971,7 @@
 [](check) | 1454 | [Kth User to Visit Website](https://binarysearch.com/problems/Kth-User-to-Visit-Website) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1455 | [Bulk Shift Letters](https://binarysearch.com/problems/Bulk-Shift-Letters) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1456 | [Sort List by Reversing Once](https://binarysearch.com/problems/Sort-List-by-Reversing-Once) | :orange_circle: | [cpp](solutions/Sort-List-by-Reversing-Once.cpp) | [](notes)
-[](check) | 1457 | [Unique People in Contact List](https://binarysearch.com/problems/Unique-People-in-Contact-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1457 | [Unique People in Contact List](https://binarysearch.com/problems/Unique-People-in-Contact-List) | :green_circle: | [py](solutions/Unique-People-in-Contact-List.py) | [](notes)
 [](check) | 1458 | [View Over People](https://binarysearch.com/problems/View-Over-People) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1459 | [Kth Largest Pair Product](https://binarysearch.com/problems/Kth-Largest-Pair-Product) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1460 | [ASCII String to Integer](https://binarysearch.com/problems/ASCII-String-to-Integer) | :green_circle: | [py](solutions/ASCII-String-to-Integer.py) | [](notes)
