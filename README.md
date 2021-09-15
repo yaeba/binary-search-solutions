@@ -944,7 +944,7 @@
 [](check) | 1424 | [Recursive Voting](https://binarysearch.com/problems/Recursive-Voting) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1425 | [Maximum Dropping Path Sum With Column Distance Cost](https://binarysearch.com/problems/Maximum-Dropping-Path-Sum-With-Column-Distance-Cost) | :red_circle: | [](solution) | [](notes)
 [](check) | 1426 | [Number of Concatenations to Create Subsequence](https://binarysearch.com/problems/Number-of-Concatenations-to-Create-Subsequence) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1427 | [Unobstructed Buildings](https://binarysearch.com/problems/Unobstructed-Buildings) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1427 | [Unobstructed Buildings](https://binarysearch.com/problems/Unobstructed-Buildings) | :green_circle: | [cpp](solutions/Unobstructed-Buildings.cpp) | [](notes)
 [](check) | 1428 | [Number of Substrings with Single Character Difference](https://binarysearch.com/problems/Number-of-Substrings-with-Single-Character-Difference) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1429 | [Distinct Substrings](https://binarysearch.com/problems/Distinct-Substrings) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1432 | [Stack of Stacks](https://binarysearch.com/problems/Stack-of-Stacks) | :red_circle: | [](solution) | [](notes)
