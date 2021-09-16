@@ -795,7 +795,7 @@
 :white_check_mark: | 1255 | [Range Query on a List](https://binarysearch.com/problems/Range-Query-on-a-List) | :green_circle: | [cpp](solutions/Range-Query-on-a-List.cpp) | PrefixSum
 [](check) | 1256 | [Range Query on Two Dimensional List](https://binarysearch.com/problems/Range-Query-on-Two-Dimensional-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1257 | [Range Query on a List Mutable](https://binarysearch.com/problems/Range-Query-on-a-List-Mutable) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1258 | [Turtle of Wall Street](https://binarysearch.com/problems/Turtle-of-Wall-Street) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1258 | [Turtle of Wall Street](https://binarysearch.com/problems/Turtle-of-Wall-Street) | :green_circle: | [java](solutions/Turtle-of-Wall-Street.java) | [](notes)
 [](check) | 1259 | [Max Multiplied Pairings](https://binarysearch.com/problems/Max-Multiplied-Pairings) | :green_circle: | [](solution) | [](notes)
 [](check) | 1260 | [Ball Moves](https://binarysearch.com/problems/Ball-Moves) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1261 | [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius) | :red_circle: | [](solution) | [](notes)
