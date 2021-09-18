@@ -783,7 +783,7 @@
 [](check) | 1229 | [Removing Enclosed Parentheses](https://binarysearch.com/problems/Removing-Enclosed-Parentheses) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1231 | [Cheapest Bus Route](https://binarysearch.com/problems/Cheapest-Bus-Route) | :red_circle: | [](solution) | [](notes)
 [](check) | 1232 | [Cheapest Cost to All Cities](https://binarysearch.com/problems/Cheapest-Cost-to-All-Cities) | :red_circle: | [](solution) | [](notes)
-[](check) | 1234 | [Removing Triple Successive Duplicates](https://binarysearch.com/problems/Removing-Triple-Successive-Duplicates) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1234 | [Removing Triple Successive Duplicates](https://binarysearch.com/problems/Removing-Triple-Successive-Duplicates) | :green_circle: | [py](solutions/Removing-Triple-Successive-Duplicates.py) | [](notes)
 [](check) | 1238 | [Task Run](https://binarysearch.com/problems/Task-Run) | :green_circle: | [](solution) | [](notes)
 :white_check_mark: | 1239 | [Highest Volume Stocks](https://binarysearch.com/problems/Highest-Volume-Stocks) | :orange_circle: | [cpp](solutions/Highest-Volume-Stocks.cpp) | [](notes)
 [](check) | 1242 | [Non Overlapping Pairs of Sublists](https://binarysearch.com/problems/Non-Overlapping-Pairs-of-Sublists) | :orange_circle: | [](solution) | [](notes)
