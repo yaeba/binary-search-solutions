@@ -64,7 +64,7 @@
 [](check) | 107 | [Zipped String](https://binarysearch.com/problems/Zipped-String) | :red_circle: | [](solution) | [](notes)
 [](check) | 108 | [Currency Arbitrage](https://binarysearch.com/problems/Currency-Arbitrage) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 110 | [Nth Fibonacci Number](https://binarysearch.com/problems/Nth-Fibonacci-Number) | :green_circle: | [cpp](solutions/Nth-Fibonacci-Number.cpp) | [](notes)
-[](check) | 111 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 111 | [Wolf of Wall Street](https://binarysearch.com/problems/Wolf-of-Wall-Street) | :green_circle: | [java](solutions/Wolf-of-Wall-Street.java) | [](notes)
 :white_check_mark: | 112 | [High Frequency](https://binarysearch.com/problems/High-Frequency) | :green_circle: | [py](solutions/High-Frequency.py) | [](notes)
 [](check) | 113 | [Buy and Sell K Stocks](https://binarysearch.com/problems/Buy-and-Sell-K-Stocks) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 115 | [Square of a List](https://binarysearch.com/problems/Square-of-a-List) | :green_circle: | [py](solutions/Square-of-a-List.py) | [](notes)
