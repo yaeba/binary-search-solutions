@@ -835,7 +835,7 @@
 [](check) | 1301 | [Race to Finish Line](https://binarysearch.com/problems/Race-to-Finish-Line) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1302 | [First to Count to Target](https://binarysearch.com/problems/First-to-Count-to-Target) | :orange_circle: | [cpp](solutions/First-to-Count-to-Target.cpp) | [](notes)
 [](check) | 1303 | [Unique String Frequencies](https://binarysearch.com/problems/Unique-String-Frequencies) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1309 | [Lexicographically Largest Mountain List](https://binarysearch.com/problems/Lexicographically-Largest-Mountain-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1309 | [Lexicographically Largest Mountain List](https://binarysearch.com/problems/Lexicographically-Largest-Mountain-List) | :green_circle: | [java](solutions/Lexicographically-Largest-Mountain-List.java) | [](notes)
 [](check) | 1310 | [Reverse Equivalent Pairs](https://binarysearch.com/problems/Reverse-Equivalent-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1311 | [Half Monotonous String](https://binarysearch.com/problems/Half-Monotonous-String) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1312 | [Unique Paths to Go Home](https://binarysearch.com/problems/Unique-Paths-to-Go-Home) | :red_circle: | [](solution) | [](notes)
