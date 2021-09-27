@@ -180,7 +180,7 @@
 [](check) | 259 | [Number of Unique Binary Search Trees](https://binarysearch.com/problems/Number-of-Unique-Binary-Search-Trees) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 261 | [Reverse Words](https://binarysearch.com/problems/Reverse-Words) | :green_circle: | [cpp](solutions/Reverse-Words.cpp), [py](solutions/Reverse-Words.py) | [](notes)
 [](check) | 262 | [Reverse Words Sequel](https://binarysearch.com/problems/Reverse-Words-Sequel) | :orange_circle: | [](solution) | [](notes)
-[](check) | 265 | [Clock Angle](https://binarysearch.com/problems/Clock-Angle) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 265 | [Clock Angle](https://binarysearch.com/problems/Clock-Angle) | :orange_circle: | [java](solutions/Clock-Angle.java) | [](notes)
 :white_check_mark: | 266 | [Median Minimization](https://binarysearch.com/problems/Median-Minimization) | :green_circle: | [cpp](solutions/Median-Minimization.cpp) | [](notes)
 [](check) | 269 | [Left Side View of a Tree](https://binarysearch.com/problems/Left-Side-View-of-a-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 271 | [Reverse Linked List Groups](https://binarysearch.com/problems/Reverse-Linked-List-Groups) | :orange_circle: | [](solution) | [](notes)
