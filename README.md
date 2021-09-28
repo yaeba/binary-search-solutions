@@ -126,7 +126,7 @@
 [](check) | 190 | [H Index](https://binarysearch.com/problems/H-Index) | :orange_circle: | [](solution) | [](notes)
 [](check) | 191 | [Space Battle](https://binarysearch.com/problems/Space-Battle) | :orange_circle: | [](solution) | [](notes)
 [](check) | 193 | [Longest Distinct Sublist](https://binarysearch.com/problems/Longest-Distinct-Sublist) | :orange_circle: | [](solution) | [](notes)
-[](check) | 194 | [Longest Consecutive Run of 1s in Binary](https://binarysearch.com/problems/Longest-Consecutive-Run-of-1s-in-Binary) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 194 | [Longest Consecutive Run of 1s in Binary](https://binarysearch.com/problems/Longest-Consecutive-Run-of-1s-in-Binary) | :orange_circle: | [java](solutions/Longest-Consecutive-Run-of-1s-in-Binary.java) | Bit Trick
 [](check) | 196 | [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 197 | [Repeated Addition](https://binarysearch.com/problems/Repeated-Addition) | :green_circle: | [cpp](solutions/Repeated-Addition.cpp) | [](notes)
 [](check) | 199 | [A Maniacal Walk](https://binarysearch.com/problems/A-Maniacal-Walk) | :red_circle: | [](solution) | [](notes)
