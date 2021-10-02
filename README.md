@@ -456,7 +456,7 @@
 [](check) | 650 | [Subtree](https://binarysearch.com/problems/Subtree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 651 | [Lone Integer](https://binarysearch.com/problems/Lone-Integer) | :orange_circle: | [](solution) | [](notes)
 [](check) | 652 | [Parse Ternary Expression](https://binarysearch.com/problems/Parse-Ternary-Expression) | :orange_circle: | [](solution) | [](notes)
-[](check) | 654 | [Number of Unique Character Substrings](https://binarysearch.com/problems/Number-of-Unique-Character-Substrings) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 654 | [Number of Unique Character Substrings](https://binarysearch.com/problems/Number-of-Unique-Character-Substrings) | :green_circle: | [py](solutions/Number-of-Unique-Character-Substrings.py) | [](notes)
 [](check) | 655 | [Digital Lake](https://binarysearch.com/problems/Digital-Lake) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 656 | [Split List Into Strictly Increasing Chunks](https://binarysearch.com/problems/Split-List-Into-Strictly-Increasing-Chunks) | :red_circle: | [](solution) | [](notes)
 [](check) | 657 | [Bomber Man Sequel](https://binarysearch.com/problems/Bomber-Man-Sequel) | :orange_circle: | [](solution) | [](notes)
