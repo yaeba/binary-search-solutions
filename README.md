@@ -622,7 +622,7 @@
 [](check) | 964 | [Candy Race Sequel](https://binarysearch.com/problems/Candy-Race-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 965 | [Probability Game](https://binarysearch.com/problems/Probability-Game) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 966 | [Group Integers](https://binarysearch.com/problems/Group-Integers) | :green_circle: | [py](solutions/Group-Integers.py) | [](notes)
-[](check) | 967 | [Repeated K Length Substrings](https://binarysearch.com/problems/Repeated-K-Length-Substrings) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 967 | [Repeated K Length Substrings](https://binarysearch.com/problems/Repeated-K-Length-Substrings) | :green_circle: | [py](solutions/Repeated-K-Length-Substrings.py) | [](notes)
 [](check) | 969 | [Frogger](https://binarysearch.com/problems/Frogger) | :red_circle: | [](solution) | [](notes)
 [](check) | 970 | [Candy Race Trequel](https://binarysearch.com/problems/Candy-Race-Trequel) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 975 | [Linked List Jumps](https://binarysearch.com/problems/Linked-List-Jumps) | :green_circle: | [cpp](solutions/Linked-List-Jumps.cpp) | [](notes)
