@@ -304,7 +304,7 @@
 [](check) | 428 | [Partition Tree](https://binarysearch.com/problems/Partition-Tree) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 429 | [Vertical Cipher](https://binarysearch.com/problems/Vertical-Cipher) | :green_circle: | [py](solutions/Vertical-Cipher.py) | [](notes)
 :white_check_mark: | 430 | [Leaderboard](https://binarysearch.com/problems/Leaderboard) | :green_circle: | [py](solutions/Leaderboard.py) | [](notes)
-[](check) | 431 | [Word Formation](https://binarysearch.com/problems/Word-Formation) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 431 | [Word Formation](https://binarysearch.com/problems/Word-Formation) | :green_circle: | [py](solutions/Word-Formation.py) | [](notes)
 [](check) | 433 | [Minimum Parsing Tree](https://binarysearch.com/problems/Minimum-Parsing-Tree) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 435 | [Longest Rotated Palindromic Substring](https://binarysearch.com/problems/Longest-Rotated-Palindromic-Substring) | :red_circle: | [](solution) | [](notes)
 [](check) | 436 | [Level Order Binary Tree to Linked List](https://binarysearch.com/problems/Level-Order-Binary-Tree-to-Linked-List) | :orange_circle: | [](solution) | [](notes)
