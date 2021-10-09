@@ -381,7 +381,7 @@
 [](check) | 544 | [Multiple Parentheses](https://binarysearch.com/problems/Multiple-Parentheses) | :red_circle: | [](solution) | [](notes)
 [](check) | 545 | [Boxes All the Way Down](https://binarysearch.com/problems/Boxes-All-the-Way-Down) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 547 | [Repeating String](https://binarysearch.com/problems/Repeating-String) | :green_circle: | [py](solutions/Repeating-String.py) | [](notes)
-[](check) | 548 | [Consecutively Descending Integers](https://binarysearch.com/problems/Consecutively-Descending-Integers) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 548 | [Consecutively Descending Integers](https://binarysearch.com/problems/Consecutively-Descending-Integers) | :green_circle: | [py](solutions/Consecutively-Descending-Integers.py) | [](notes)
 [](check) | 551 | [Overchoice](https://binarysearch.com/problems/Overchoice) | :orange_circle: | [](solution) | [](notes)
 [](check) | 552 | [Reflected Binary Code](https://binarysearch.com/problems/Reflected-Binary-Code) | :orange_circle: | [](solution) | [](notes)
 [](check) | 555 | [Sum of Four Numbers](https://binarysearch.com/problems/Sum-of-Four-Numbers) | :orange_circle: | [](solution) | [](notes)
