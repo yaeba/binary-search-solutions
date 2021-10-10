@@ -889,7 +889,7 @@
 [](check) | 1368 | [Common Reachable Node](https://binarysearch.com/problems/Common-Reachable-Node) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1369 | [Minimize Absolute Difference of Three Numbers](https://binarysearch.com/problems/Minimize-Absolute-Difference-of-Three-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1370 | [Virtual Array](https://binarysearch.com/problems/Virtual-Array) | :red_circle: | [](solution) | [](notes)
-[](check) | 1371 | [Tree with Distinct Parities](https://binarysearch.com/problems/Tree-with-Distinct-Parities) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1371 | [Tree with Distinct Parities](https://binarysearch.com/problems/Tree-with-Distinct-Parities) | :green_circle: | [cpp](solutions/Tree-with-Distinct-Parities.cpp) | [](notes)
 [](check) | 1372 | [Connect Cartesian Coordinates](https://binarysearch.com/problems/Connect-Cartesian-Coordinates) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1373 | [Index with Equal Left and Right Sums](https://binarysearch.com/problems/Index-with-Equal-Left-and-Right-Sums) | :green_circle: | [cpp](solutions/Index-with-Equal-Left-and-Right-Sums.cpp) | [](notes)
 [](check) | 1374 | [Update List Sum Closest to Target](https://binarysearch.com/problems/Update-List-Sum-Closest-to-Target) | :orange_circle: | [](solution) | [](notes)
