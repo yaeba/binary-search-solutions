@@ -1023,7 +1023,7 @@
 [](check) | 1519 | [Ambigram Detection](https://binarysearch.com/problems/Ambigram-Detection) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1520 | [Weighted Merge Interval](https://binarysearch.com/problems/Weighted-Merge-Interval) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1521 | [Minimize Maximum Stadium Size](https://binarysearch.com/problems/Minimize-Maximum-Stadium-Size) | :red_circle: | [](solution) | [](notes)
-[](check) | 1522 | [Strictly Alternating List](https://binarysearch.com/problems/Strictly-Alternating-List) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1522 | [Strictly Alternating List](https://binarysearch.com/problems/Strictly-Alternating-List) | :green_circle: | [py](solutions/Strictly-Alternating-List.py) | [](notes)
 [](check) | 1524 | [Interval Painting](https://binarysearch.com/problems/Interval-Painting) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1525 | [Blocked Pipeline](https://binarysearch.com/problems/Blocked-Pipeline) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1526 | [Best Currency Path](https://binarysearch.com/problems/Best-Currency-Path) | :red_circle: | [](solution) | [](notes)
