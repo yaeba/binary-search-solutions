@@ -171,7 +171,7 @@
 [](check) | 249 | [Palindromic Anagram](https://binarysearch.com/problems/Palindromic-Anagram) | :orange_circle: | [](solution) | [](notes)
 [](check) | 250 | [Long Distance](https://binarysearch.com/problems/Long-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 251 | [Sort String by Flipping](https://binarysearch.com/problems/Sort-String-by-Flipping) | :orange_circle: | [](solution) | [](notes)
-[](check) | 252 | [Kth Smallest Element](https://binarysearch.com/problems/Kth-Smallest-Element) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 252 | [Kth Smallest Element](https://binarysearch.com/problems/Kth-Smallest-Element) | :orange_circle: | [cpp](solutions/Kth-Smallest-Element.cpp) | Quickselect
 [](check) | 253 | [Matrix Search Sequel](https://binarysearch.com/problems/Matrix-Search-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 254 | [Minimum Deletions From the Ends for Equilibrium](https://binarysearch.com/problems/Minimum-Deletions-From-the-Ends-for-Equilibrium) | :orange_circle: | [](solution) | [](notes)
 [](check) | 255 | [Subsequence Sum](https://binarysearch.com/problems/Subsequence-Sum) | :orange_circle: | [](solution) | [](notes)
