@@ -390,7 +390,7 @@
 [](check) | 558 | [N Lexicographic Integers](https://binarysearch.com/problems/N-Lexicographic-Integers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 559 | [Minimum Set of Pairs](https://binarysearch.com/problems/Minimum-Set-of-Pairs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 560 | [Selling Products](https://binarysearch.com/problems/Selling-Products) | :orange_circle: | [py](solutions/Selling-Products.py) | [](notes)
-[](check) | 563 | [Factorial Sum](https://binarysearch.com/problems/Factorial-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 563 | [Factorial Sum](https://binarysearch.com/problems/Factorial-Sum) | :orange_circle: | [py](solutions/Factorial-Sum.py) | [](notes)
 :white_check_mark: | 564 | [N Rooks](https://binarysearch.com/problems/N-Rooks) | :green_circle: | [java](solutions/N-Rooks.java) | [](notes)
 :white_check_mark: | 565 | [Rookie Mistake](https://binarysearch.com/problems/Rookie-Mistake) | :green_circle: | [cpp](solutions/Rookie-Mistake.cpp) | [](notes)
 [](check) | 566 | [Coprime Suspects](https://binarysearch.com/problems/Coprime-Suspects) | :orange_circle: | [](solution) | [](notes)
