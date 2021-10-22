@@ -228,7 +228,7 @@
 [](check) | 326 | [24](https://binarysearch.com/problems/24) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 327 | [Add One to List](https://binarysearch.com/problems/Add-One-to-List) | :green_circle: | [cpp](solutions/Add-One-to-List.cpp) | [](notes)
 [](check) | 328 | [Moo](https://binarysearch.com/problems/Moo) | :red_circle: | [](solution) | [](notes)
-[](check) | 329 | [Roman Numeral to Integer](https://binarysearch.com/problems/Roman-Numeral-to-Integer) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 329 | [Roman Numeral to Integer](https://binarysearch.com/problems/Roman-Numeral-to-Integer) | :orange_circle: | [py](solutions/Roman-Numeral-to-Integer.py) | [](notes)
 [](check) | 330 | [Remove Interval Overlaps](https://binarysearch.com/problems/Remove-Interval-Overlaps) | :orange_circle: | [](solution) | [](notes)
 [](check) | 332 | [Reverse Graph](https://binarysearch.com/problems/Reverse-Graph) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 333 | [Pythagorean Triplets](https://binarysearch.com/problems/Pythagorean-Triplets) | :green_circle: | [cpp](solutions/Pythagorean-Triplets.cpp) | [](notes)
