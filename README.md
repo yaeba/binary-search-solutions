@@ -122,7 +122,7 @@
 [](check) | 186 | [Longest Zero Sublist Sum](https://binarysearch.com/problems/Longest-Zero-Sublist-Sum) | :red_circle: | [](solution) | [](notes)
 [](check) | 187 | [Edit Distance](https://binarysearch.com/problems/Edit-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 188 | [Merge New Interval](https://binarysearch.com/problems/Merge-New-Interval) | :red_circle: | [](solution) | [](notes)
-[](check) | 189 | [Longest Palindromic Substring](https://binarysearch.com/problems/Longest-Palindromic-Substring) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 189 | [Longest Palindromic Substring](https://binarysearch.com/problems/Longest-Palindromic-Substring) | :orange_circle: | [java](solutions/Longest-Palindromic-Substring.java) | [](notes)
 [](check) | 190 | [H Index](https://binarysearch.com/problems/H-Index) | :orange_circle: | [](solution) | [](notes)
 [](check) | 191 | [Space Battle](https://binarysearch.com/problems/Space-Battle) | :orange_circle: | [](solution) | [](notes)
 [](check) | 193 | [Longest Distinct Sublist](https://binarysearch.com/problems/Longest-Distinct-Sublist) | :orange_circle: | [](solution) | [](notes)
