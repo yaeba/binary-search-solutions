@@ -49,7 +49,7 @@
 :white_check_mark: | 76 | [Length of a Linked List](https://binarysearch.com/problems/Length-of-a-Linked-List) | :green_circle: | [cpp](solutions/Length-of-a-Linked-List.cpp) | [](notes)
 [](check) | 77 | [Kth Last Node of a Linked List](https://binarysearch.com/problems/Kth-Last-Node-of-a-Linked-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 78 | [Reverse a Linked List](https://binarysearch.com/problems/Reverse-a-Linked-List) | :orange_circle: | [cpp](solutions/Reverse-a-Linked-List.cpp) | [](notes)
-[](check) | 79 | [Palindrome Linked List](https://binarysearch.com/problems/Palindrome-Linked-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 79 | [Palindrome Linked List](https://binarysearch.com/problems/Palindrome-Linked-List) | :orange_circle: | [cpp](solutions/Palindrome-Linked-List.cpp) | [](notes)
 :white_check_mark: | 80 | [Rotate List Left by K](https://binarysearch.com/problems/Rotate-List-Left-by-K) | :green_circle: | [cpp](solutions/Rotate-List-Left-by-K.cpp) | [](notes)
 [](check) | 81 | [Largest Rectangle Submatrix](https://binarysearch.com/problems/Largest-Rectangle-Submatrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 82 | [Bipartite Graph](https://binarysearch.com/problems/Bipartite-Graph) | :orange_circle: | [](solution) | [](notes)
