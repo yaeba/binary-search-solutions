@@ -341,7 +341,7 @@
 [](check) | 487 | [Swappable Trees](https://binarysearch.com/problems/Swappable-Trees) | :orange_circle: | [](solution) | [](notes)
 [](check) | 488 | [Longest Interval](https://binarysearch.com/problems/Longest-Interval) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 489 | [Minimum Cost Sort](https://binarysearch.com/problems/Minimum-Cost-Sort) | :green_circle: | [py](solutions/Minimum-Cost-Sort.py) | [](notes)
-[](check) | 491 | [Leaf Equivalent Trees](https://binarysearch.com/problems/Leaf-Equivalent-Trees) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 491 | [Leaf Equivalent Trees](https://binarysearch.com/problems/Leaf-Equivalent-Trees) | :orange_circle: | [py](solutions/Leaf-Equivalent-Trees.py) | [](notes)
 [](check) | 492 | [Max Character Distinct Words](https://binarysearch.com/problems/Max-Character-Distinct-Words) | :orange_circle: | [](solution) | [](notes)
 [](check) | 494 | [Longest Even Value Path](https://binarysearch.com/problems/Longest-Even-Value-Path) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 495 | [Rectangular Overlap](https://binarysearch.com/problems/Rectangular-Overlap) | :green_circle: | [py](solutions/Rectangular-Overlap.py) | [](notes)
