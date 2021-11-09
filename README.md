@@ -83,7 +83,7 @@
 [](check) | 135 | [Sudoku Solver](https://binarysearch.com/problems/Sudoku-Solver) | :orange_circle: | [](solution) | [](notes)
 [](check) | 136 | [Search in a Binary Search Tree](https://binarysearch.com/problems/Search-in-a-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 137 | [Making Change](https://binarysearch.com/problems/Making-Change) | :orange_circle: | [](solution) | [](notes)
-[](check) | 138 | [Merging Binary Trees](https://binarysearch.com/problems/Merging-Binary-Trees) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 138 | [Merging Binary Trees](https://binarysearch.com/problems/Merging-Binary-Trees) | :orange_circle: | [cpp](solutions/Merging-Binary-Trees.cpp) | [](notes)
 [](check) | 139 | [Anagram Partitioning](https://binarysearch.com/problems/Anagram-Partitioning) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 140 | [Zero Matrix](https://binarysearch.com/problems/Zero-Matrix) | :orange_circle: | [cpp](solutions/Zero-Matrix.cpp) | [](notes)
 :white_check_mark: | 141 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) | :green_circle: | [cpp](solutions/Merging-Two-Sorted-Lists.cpp) | [](notes)
