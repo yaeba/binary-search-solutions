@@ -307,7 +307,7 @@
 :white_check_mark: | 431 | [Word Formation](https://binarysearch.com/problems/Word-Formation) | :green_circle: | [py](solutions/Word-Formation.py) | [](notes)
 [](check) | 433 | [Minimum Parsing Tree](https://binarysearch.com/problems/Minimum-Parsing-Tree) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 435 | [Longest Rotated Palindromic Substring](https://binarysearch.com/problems/Longest-Rotated-Palindromic-Substring) | :red_circle: | [](solution) | [](notes)
-[](check) | 436 | [Level Order Binary Tree to Linked List](https://binarysearch.com/problems/Level-Order-Binary-Tree-to-Linked-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 436 | [Level Order Binary Tree to Linked List](https://binarysearch.com/problems/Level-Order-Binary-Tree-to-Linked-List) | :orange_circle: | [cpp](solutions/Level-Order-Binary-Tree-to-Linked-List.cpp) | [](notes)
 :white_check_mark: | 437 | [Longest Alliteration](https://binarysearch.com/problems/Longest-Alliteration) | :green_circle: | [cpp](solutions/Longest-Alliteration.cpp) | [](notes)
 :white_check_mark: | 440 | [Index Into an Infinite String](https://binarysearch.com/problems/Index-Into-an-Infinite-String) | :green_circle: | [cpp](solutions/Index-Into-an-Infinite-String.cpp) | [](notes)
 [](check) | 442 | [Bomber Man](https://binarysearch.com/problems/Bomber-Man) | :orange_circle: | [](solution) | [](notes)
