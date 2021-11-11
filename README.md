@@ -81,7 +81,7 @@
 [](check) | 132 | [Kth Smallest in a Binary Search Tree](https://binarysearch.com/problems/Kth-Smallest-in-a-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 133 | [Invert Tree](https://binarysearch.com/problems/Invert-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 135 | [Sudoku Solver](https://binarysearch.com/problems/Sudoku-Solver) | :orange_circle: | [](solution) | [](notes)
-[](check) | 136 | [Search in a Binary Search Tree](https://binarysearch.com/problems/Search-in-a-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 136 | [Search in a Binary Search Tree](https://binarysearch.com/problems/Search-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Search-in-a-Binary-Search-Tree.cpp) | [](notes)
 [](check) | 137 | [Making Change](https://binarysearch.com/problems/Making-Change) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 138 | [Merging Binary Trees](https://binarysearch.com/problems/Merging-Binary-Trees) | :orange_circle: | [cpp](solutions/Merging-Binary-Trees.cpp) | [](notes)
 [](check) | 139 | [Anagram Partitioning](https://binarysearch.com/problems/Anagram-Partitioning) | :orange_circle: | [](solution) | [](notes)
