@@ -865,7 +865,7 @@
 [](check) | 1342 | [Angry Owner](https://binarysearch.com/problems/Angry-Owner) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1343 | [Eat Bananas in K Hours](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1344 | [Permute to Make List Larger](https://binarysearch.com/problems/Permute-to-Make-List-Larger) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1345 | [Sum of Two Numbers in BSTs](https://binarysearch.com/problems/Sum-of-Two-Numbers-in-BSTs) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1345 | [Sum of Two Numbers in BSTs](https://binarysearch.com/problems/Sum-of-Two-Numbers-in-BSTs) | :orange_circle: | [cpp](solutions/Sum-of-Two-Numbers-in-BSTs.cpp) | [](notes)
 [](check) | 1346 | [Earliest Uniques in a Stream](https://binarysearch.com/problems/Earliest-Uniques-in-a-Stream) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1347 | [Sliding Window Product](https://binarysearch.com/problems/Sliding-Window-Product) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1348 | [Maximize Roster Rating](https://binarysearch.com/problems/Maximize-Roster-Rating) | :orange_circle: | [](solution) | [](notes)
