@@ -77,7 +77,7 @@
 [](check) | 127 | [Set Bits](https://binarysearch.com/problems/Set-Bits) | :orange_circle: | [](solution) | [](notes)
 [](check) | 129 | [Longest Anagram Subsequence](https://binarysearch.com/problems/Longest-Anagram-Subsequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 130 | [Binary Search Tree Validation](https://binarysearch.com/problems/Binary-Search-Tree-Validation) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Validation.cpp) | [](notes)
-[](check) | 131 | [Level Order Traversal](https://binarysearch.com/problems/Level-Order-Traversal) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 131 | [Level Order Traversal](https://binarysearch.com/problems/Level-Order-Traversal) | :orange_circle: | [cpp](solutions/Level-Order-Traversal.cpp) | [](notes)
 :white_check_mark: | 132 | [Kth Smallest in a Binary Search Tree](https://binarysearch.com/problems/Kth-Smallest-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Kth-Smallest-in-a-Binary-Search-Tree.cpp) | [](notes)
 [](check) | 133 | [Invert Tree](https://binarysearch.com/problems/Invert-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 135 | [Sudoku Solver](https://binarysearch.com/problems/Sudoku-Solver) | :orange_circle: | [](solution) | [](notes)
