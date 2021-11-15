@@ -572,7 +572,7 @@ python update_readme.py
 [](check) | 864 | [Every Pair of Absolute Difference](https://binarysearch.com/problems/Every-Pair-of-Absolute-Difference) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 865 | [Furthest From Origin](https://binarysearch.com/problems/Furthest-From-Origin) | :green_circle: | [cpp](solutions/Furthest-From-Origin.cpp) | [](notes)
 [](check) | 866 | [Flipped Matrix Prequel](https://binarysearch.com/problems/Flipped-Matrix-Prequel) | :green_circle: | [](solution) | [](notes)
-[](check) | 868 | [Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 868 | [Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal) | :orange_circle: | [cpp](solutions/Diagonal-Tree-Traversal.cpp) | [](notes)
 :white_check_mark: | 870 | [Flip to Zeros](https://binarysearch.com/problems/Flip-to-Zeros) | :green_circle: | [cpp](solutions/Flip-to-Zeros.cpp) | [](notes)
 [](check) | 871 | [Latin Square Solver](https://binarysearch.com/problems/Latin-Square-Solver) | :orange_circle: | [](solution) | [](notes)
 [](check) | 874 | [Area Under Histogram](https://binarysearch.com/problems/Area-Under-Histogram) | :red_circle: | [](solution) | [](notes)
