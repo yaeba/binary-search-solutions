@@ -290,7 +290,7 @@ python update_readme.py
 :white_check_mark: | 393 | [3 and 7](https://binarysearch.com/problems/3-and-7) | :green_circle: | [cpp](solutions/3-and-7.cpp) | [](notes)
 :white_check_mark: | 395 | [A Number and Its Triple](https://binarysearch.com/problems/A-Number-and-Its-Triple) | :green_circle: | [cpp](solutions/A-Number-and-Its-Triple.cpp) | [](notes)
 :white_check_mark: | 396 | [Equivalent Value and Frequency](https://binarysearch.com/problems/Equivalent-Value-and-Frequency) | :green_circle: | [py](solutions/Equivalent-Value-and-Frequency.py) | [](notes)
-[](check) | 397 | [Elephant Tree](https://binarysearch.com/problems/Elephant-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 397 | [Elephant Tree](https://binarysearch.com/problems/Elephant-Tree) | :orange_circle: | [cpp](solutions/Elephant-Tree.cpp) | [](notes)
 [](check) | 398 | [Escape Maze](https://binarysearch.com/problems/Escape-Maze) | :orange_circle: | [](solution) | [](notes)
 [](check) | 400 | [Subsequence Picking](https://binarysearch.com/problems/Subsequence-Picking) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 405 | [Target Number with Operations Sequel](https://binarysearch.com/problems/Target-Number-with-Operations-Sequel) | :orange_circle: | [](solution) | [](notes)
