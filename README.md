@@ -204,7 +204,7 @@ python update_readme.py
 [](check) | 283 | [Ascending Cards](https://binarysearch.com/problems/Ascending-Cards) | :orange_circle: | [](solution) | [](notes)
 [](check) | 284 | [Flight Itinerary Sequel](https://binarysearch.com/problems/Flight-Itinerary-Sequel) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 285 | [Odd Number of Digits](https://binarysearch.com/problems/Odd-Number-of-Digits) | :green_circle: | [py](solutions/Odd-Number-of-Digits.py) | [](notes)
-[](check) | 286 | [Delete Even Leaves](https://binarysearch.com/problems/Delete-Even-Leaves) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 286 | [Delete Even Leaves](https://binarysearch.com/problems/Delete-Even-Leaves) | :orange_circle: | [cpp](solutions/Delete-Even-Leaves.cpp) | [](notes)
 [](check) | 288 | [Minimum Digit Delete](https://binarysearch.com/problems/Minimum-Digit-Delete) | :red_circle: | [](solution) | [](notes)
 [](check) | 289 | [Make Lists Same with Sublist Sum Operations](https://binarysearch.com/problems/Make-Lists-Same-with-Sublist-Sum-Operations) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 290 | [Swap Characters to Equalize Strings](https://binarysearch.com/problems/Swap-Characters-to-Equalize-Strings) | :green_circle: | [py](solutions/Swap-Characters-to-Equalize-Strings.py) | [](notes)
