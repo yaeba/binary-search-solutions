@@ -928,7 +928,7 @@ python update_readme.py
 [](check) | 1399 | [Permutations to Generate Binary Search Tree](https://binarysearch.com/problems/Permutations-to-Generate-Binary-Search-Tree) | :red_circle: | [](solution) | [](notes)
 [](check) | 1400 | [Three Way String Split with Equal Ones](https://binarysearch.com/problems/Three-Way-String-Split-with-Equal-Ones) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1402 | [Maximize Binary String Score](https://binarysearch.com/problems/Maximize-Binary-String-Score) | :green_circle: | [](solution) | [](notes)
-[](check) | 1403 | [Next Node on Its Right](https://binarysearch.com/problems/Next-Node-on-Its-Right) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1403 | [Next Node on Its Right](https://binarysearch.com/problems/Next-Node-on-Its-Right) | :orange_circle: | [cpp](solutions/Next-Node-on-Its-Right.cpp) | [](notes)
 [](check) | 1404 | [Number of Sublists With Odd Sum](https://binarysearch.com/problems/Number-of-Sublists-With-Odd-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1405 | [Place Zeros Above the Matrix Diagonal](https://binarysearch.com/problems/Place-Zeros-Above-the-Matrix-Diagonal) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1406 | [Leaf Pairs Less Than Target Distance Away](https://binarysearch.com/problems/Leaf-Pairs-Less-Than-Target-Distance-Away) | :orange_circle: | [](solution) | [](notes)
