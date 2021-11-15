@@ -52,7 +52,7 @@ def get_difficulty(idx):
 base_url = "https://binarysearch.com/problems"
 title = "# Binary Search Solutions"
 content = """
-Generate the table below as follows (using python3):
+Generate the table using python3:
 ```bash
 pip install -r requirements.txt
 python generate_readme.py
