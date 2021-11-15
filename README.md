@@ -524,7 +524,7 @@ python update_readme.py
 [](check) | 737 | [Odd Longest Increasing Subsequence](https://binarysearch.com/problems/Odd-Longest-Increasing-Subsequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 738 | [Special Nodes](https://binarysearch.com/problems/Special-Nodes) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 741 | [Count Next Element](https://binarysearch.com/problems/Count-Next-Element) | :green_circle: | [py](solutions/Count-Next-Element.py) | [](notes)
-[](check) | 746 | [Only Child](https://binarysearch.com/problems/Only-Child) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 746 | [Only Child](https://binarysearch.com/problems/Only-Child) | :orange_circle: | [cpp](solutions/Only-Child.cpp) | [](notes)
 :white_check_mark: | 747 | [Changing Directions](https://binarysearch.com/problems/Changing-Directions) | :green_circle: | [cpp](solutions/Changing-Directions.cpp) | [](notes)
 :white_check_mark: | 748 | [Verify Max Heap](https://binarysearch.com/problems/Verify-Max-Heap) | :green_circle: | [py](solutions/Verify-Max-Heap.py) | [](notes)
 [](check) | 756 | [Tree Coloring](https://binarysearch.com/problems/Tree-Coloring) | :orange_circle: | [](solution) | [](notes)
