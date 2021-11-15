@@ -269,7 +269,7 @@ python update_readme.py
 [](check) | 364 | [Univalue Tree](https://binarysearch.com/problems/Univalue-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 366 | [Cutting Binary Search Tree](https://binarysearch.com/problems/Cutting-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
 [](check) | 368 | [Number of Hops](https://binarysearch.com/problems/Number-of-Hops) | :orange_circle: | [](solution) | [](notes)
-[](check) | 369 | [Sum of Right Leaves](https://binarysearch.com/problems/Sum-of-Right-Leaves) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 369 | [Sum of Right Leaves](https://binarysearch.com/problems/Sum-of-Right-Leaves) | :orange_circle: | [cpp](solutions/Sum-of-Right-Leaves.cpp) | [](notes)
 [](check) | 370 | [Wildfire](https://binarysearch.com/problems/Wildfire) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 372 | [Common Words](https://binarysearch.com/problems/Common-Words) | :green_circle: | [py](solutions/Common-Words.py) | [](notes)
 [](check) | 373 | [Dictionary Nomad](https://binarysearch.com/problems/Dictionary-Nomad) | :red_circle: | [](solution) | [](notes)
