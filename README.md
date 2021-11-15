@@ -87,7 +87,7 @@ python update_readme.py
 :white_check_mark: | 130 | [Binary Search Tree Validation](https://binarysearch.com/problems/Binary-Search-Tree-Validation) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Validation.cpp) | [](notes)
 :white_check_mark: | 131 | [Level Order Traversal](https://binarysearch.com/problems/Level-Order-Traversal) | :orange_circle: | [cpp](solutions/Level-Order-Traversal.cpp) | [](notes)
 :white_check_mark: | 132 | [Kth Smallest in a Binary Search Tree](https://binarysearch.com/problems/Kth-Smallest-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Kth-Smallest-in-a-Binary-Search-Tree.cpp) | [](notes)
-[](check) | 133 | [Invert Tree](https://binarysearch.com/problems/Invert-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 133 | [Invert Tree](https://binarysearch.com/problems/Invert-Tree) | :orange_circle: | [cpp](solutions/Invert-Tree.cpp) | [](notes)
 [](check) | 135 | [Sudoku Solver](https://binarysearch.com/problems/Sudoku-Solver) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 136 | [Search in a Binary Search Tree](https://binarysearch.com/problems/Search-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Search-in-a-Binary-Search-Tree.cpp) | [](notes)
 [](check) | 137 | [Making Change](https://binarysearch.com/problems/Making-Change) | :orange_circle: | [](solution) | [](notes)
