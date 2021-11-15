@@ -1,6 +1,14 @@
 # Binary Search Solutions
 
 
+Generate the table below as follows (using python3):
+```bash
+pip install -r requirements.txt
+python generate_readme.py
+python update_readme.py
+```
+
+
 - :green_circle:: **Easy**
 - :orange_circle:: **Medium**
 - :red_circle:: **Hard**

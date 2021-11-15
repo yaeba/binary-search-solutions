@@ -51,6 +51,14 @@ def get_difficulty(idx):
 
 base_url = "https://binarysearch.com/problems"
 title = "# Binary Search Solutions"
+content = """
+Generate the table below as follows (using python3):
+```bash
+pip install -r requirements.txt
+python generate_readme.py
+python update_readme.py
+```
+"""
 color_legend = """
 - :green_circle:: **Easy**
 - :orange_circle:: **Medium**
@@ -62,6 +70,7 @@ table_border = ":---: | :---: | --- | :---: | :---: | ---"
 
 with open("README.md", "w") as fp:
     fp.write(title + "\n\n")
+    fp.write(content + "\n")
     fp.write(color_legend + "\n")
     fp.write(table_headers + "\n")
     fp.write(table_border + "\n")
