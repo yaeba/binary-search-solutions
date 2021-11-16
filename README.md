@@ -211,7 +211,7 @@ python update_readme.py
 :white_check_mark: | 294 | [Longest Common Substring](https://binarysearch.com/problems/Longest-Common-Substring) | :orange_circle: | [cpp](solutions/Longest-Common-Substring.cpp) | [](notes)
 :white_check_mark: | 298 | [Text Editor](https://binarysearch.com/problems/Text-Editor) | :green_circle: | [cpp](solutions/Text-Editor.cpp) | [](notes)
 [](check) | 299 | [Seat Arrangement](https://binarysearch.com/problems/Seat-Arrangement) | :green_circle: | [](solution) | [](notes)
-[](check) | 300 | [Convert to Full Binary Tree](https://binarysearch.com/problems/Convert-to-Full-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 300 | [Convert to Full Binary Tree](https://binarysearch.com/problems/Convert-to-Full-Binary-Tree) | :orange_circle: | [cpp](solutions/Convert-to-Full-Binary-Tree.cpp) | [](notes)
 [](check) | 301 | [Swapping Socks](https://binarysearch.com/problems/Swapping-Socks) | :red_circle: | [](solution) | [](notes)
 [](check) | 302 | [Dividing Station](https://binarysearch.com/problems/Dividing-Station) | :red_circle: | [](solution) | [](notes)
 [](check) | 303 | [Level Order Alternating](https://binarysearch.com/problems/Level-Order-Alternating) | :orange_circle: | [](solution) | [](notes)
