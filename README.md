@@ -299,7 +299,7 @@ python update_readme.py
 :white_check_mark: | 410 | [City Blocks](https://binarysearch.com/problems/City-Blocks) | :green_circle: | [py](solutions/City-Blocks.py) | [](notes)
 :white_check_mark: | 412 | [Tree Traversal](https://binarysearch.com/problems/Tree-Traversal) | :orange_circle: | [py](solutions/Tree-Traversal.py) | [](notes)
 [](check) | 415 | [8 Puzzle](https://binarysearch.com/problems/8-Puzzle) | :red_circle: | [](solution) | [](notes)
-[](check) | 416 | [Palindromic Tree](https://binarysearch.com/problems/Palindromic-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 416 | [Palindromic Tree](https://binarysearch.com/problems/Palindromic-Tree) | :orange_circle: | [py](solutions/Palindromic-Tree.py) | [](notes)
 [](check) | 417 | [Parity Jump](https://binarysearch.com/problems/Parity-Jump) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 418 | [Inverse Factorial](https://binarysearch.com/problems/Inverse-Factorial) | :green_circle: | [cpp](solutions/Inverse-Factorial.cpp) | [](notes)
 :white_check_mark: | 419 | [Remove One Letter](https://binarysearch.com/problems/Remove-One-Letter) | :green_circle: | [cpp](solutions/Remove-One-Letter.cpp) | [](notes)
