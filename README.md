@@ -81,7 +81,7 @@ python update_readme.py
 :white_check_mark: | 118 | [Tree Sum](https://binarysearch.com/problems/Tree-Sum) | :orange_circle: | [cpp](solutions/Tree-Sum.cpp) | [](notes)
 [](check) | 120 | [Leftmost Deepest Tree Node](https://binarysearch.com/problems/Leftmost-Deepest-Tree-Node) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 124 | [Sum of the Deepest Nodes](https://binarysearch.com/problems/Sum-of-the-Deepest-Nodes) | :orange_circle: | [cpp](solutions/Sum-of-the-Deepest-Nodes.cpp) | [](notes)
-[](check) | 125 | [Twin Trees](https://binarysearch.com/problems/Twin-Trees) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 125 | [Twin Trees](https://binarysearch.com/problems/Twin-Trees) | :orange_circle: | [cpp](solutions/Twin-Trees.cpp) | [](notes)
 [](check) | 127 | [Set Bits](https://binarysearch.com/problems/Set-Bits) | :orange_circle: | [](solution) | [](notes)
 [](check) | 129 | [Longest Anagram Subsequence](https://binarysearch.com/problems/Longest-Anagram-Subsequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 130 | [Binary Search Tree Validation](https://binarysearch.com/problems/Binary-Search-Tree-Validation) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Validation.cpp) | [](notes)
