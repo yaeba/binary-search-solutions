@@ -190,7 +190,7 @@ python update_readme.py
 [](check) | 262 | [Reverse Words Sequel](https://binarysearch.com/problems/Reverse-Words-Sequel) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 265 | [Clock Angle](https://binarysearch.com/problems/Clock-Angle) | :orange_circle: | [java](solutions/Clock-Angle.java) | [](notes)
 :white_check_mark: | 266 | [Median Minimization](https://binarysearch.com/problems/Median-Minimization) | :green_circle: | [cpp](solutions/Median-Minimization.cpp) | [](notes)
-[](check) | 269 | [Left Side View of a Tree](https://binarysearch.com/problems/Left-Side-View-of-a-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 269 | [Left Side View of a Tree](https://binarysearch.com/problems/Left-Side-View-of-a-Tree) | :orange_circle: | [cpp](solutions/Left-Side-View-of-a-Tree.cpp) | [](notes)
 [](check) | 271 | [Reverse Linked List Groups](https://binarysearch.com/problems/Reverse-Linked-List-Groups) | :orange_circle: | [](solution) | [](notes)
 [](check) | 272 | [Stack Sequence](https://binarysearch.com/problems/Stack-Sequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 273 | [Minimum Bracket Addition](https://binarysearch.com/problems/Minimum-Bracket-Addition) | :green_circle: | [cpp](solutions/Minimum-Bracket-Addition.cpp) | [](notes)
