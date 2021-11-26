@@ -267,7 +267,7 @@ python update_readme.py
 [](check) | 362 | [The Auditor](https://binarysearch.com/problems/The-Auditor) | :orange_circle: | [](solution) | [](notes)
 [](check) | 363 | [Linked List to Binary Search Tree](https://binarysearch.com/problems/Linked-List-to-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 364 | [Univalue Tree](https://binarysearch.com/problems/Univalue-Tree) | :orange_circle: | [cpp](solutions/Univalue-Tree.cpp) | [](notes)
-[](check) | 366 | [Cutting Binary Search Tree](https://binarysearch.com/problems/Cutting-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 366 | [Cutting Binary Search Tree](https://binarysearch.com/problems/Cutting-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Cutting-Binary-Search-Tree.cpp) | [](notes)
 [](check) | 368 | [Number of Hops](https://binarysearch.com/problems/Number-of-Hops) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 369 | [Sum of Right Leaves](https://binarysearch.com/problems/Sum-of-Right-Leaves) | :orange_circle: | [cpp](solutions/Sum-of-Right-Leaves.cpp) | [](notes)
 [](check) | 370 | [Wildfire](https://binarysearch.com/problems/Wildfire) | :orange_circle: | [](solution) | [](notes)
