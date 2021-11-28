@@ -967,7 +967,7 @@ python update_readme.py
 [](check) | 1441 | [Rank of a Matrix](https://binarysearch.com/problems/Rank-of-a-Matrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 1442 | [Trail to Minimize Effort](https://binarysearch.com/problems/Trail-to-Minimize-Effort) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1443 | [Reduce Binary Number to One](https://binarysearch.com/problems/Reduce-Binary-Number-to-One) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1444 | [Subtree with Maximum Average](https://binarysearch.com/problems/Subtree-with-Maximum-Average) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1444 | [Subtree with Maximum Average](https://binarysearch.com/problems/Subtree-with-Maximum-Average) | :orange_circle: | [cpp](solutions/Subtree-with-Maximum-Average.cpp) | [](notes)
 [](check) | 1445 | [Swap Characters Once to Minimize Differences](https://binarysearch.com/problems/Swap-Characters-Once-to-Minimize-Differences) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1446 | [Consecutive Ones](https://binarysearch.com/problems/Consecutive-Ones) | :green_circle: | [cpp](solutions/Consecutive-Ones.cpp) | [](notes)
 [](check) | 1447 | [Window Limits](https://binarysearch.com/problems/Window-Limits) | :orange_circle: | [](solution) | [](notes)
