@@ -147,7 +147,7 @@ python update_readme.py
 [](check) | 206 | [Largest Binary Search Subtree in Nodes](https://binarysearch.com/problems/Largest-Binary-Search-Subtree-in-Nodes) | :red_circle: | [](solution) | [](notes)
 [](check) | 208 | [Longest Consecutive Sequence](https://binarysearch.com/problems/Longest-Consecutive-Sequence) | :orange_circle: | [](solution) | [](notes)
 [](check) | 209 | [Tromino Theory](https://binarysearch.com/problems/Tromino-Theory) | :red_circle: | [](solution) | [](notes)
-[](check) | 210 | [Height Balanced Tree](https://binarysearch.com/problems/Height-Balanced-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 210 | [Height Balanced Tree](https://binarysearch.com/problems/Height-Balanced-Tree) | :orange_circle: | [cpp](solutions/Height-Balanced-Tree.cpp) | [](notes)
 :white_check_mark: | 213 | [Collatz Sequence](https://binarysearch.com/problems/Collatz-Sequence) | :green_circle: | [cpp](solutions/Collatz-Sequence.cpp) | [](notes)
 :white_check_mark: | 214 | [Count BST Nodes in a Range](https://binarysearch.com/problems/Count-BST-Nodes-in-a-Range) | :orange_circle: | [cpp](solutions/Count-BST-Nodes-in-a-Range.cpp) | [](notes)
 :white_check_mark: | 215 | [Transpose of a Matrix](https://binarysearch.com/problems/Transpose-of-a-Matrix) | :green_circle: | [py](solutions/Transpose-of-a-Matrix.py) | [](notes)
