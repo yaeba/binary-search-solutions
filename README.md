@@ -745,7 +745,7 @@ python update_readme.py
 :white_check_mark: | 1161 | [Minimum Stack](https://binarysearch.com/problems/Minimum-Stack) | :green_circle: | [cpp](solutions/Minimum-Stack.cpp) | [](notes)
 [](check) | 1162 | [Zipped Iterator](https://binarysearch.com/problems/Zipped-Iterator) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1163 | [Rolling Median](https://binarysearch.com/problems/Rolling-Median) | :red_circle: | [](solution) | [](notes)
-[](check) | 1164 | [Binary Search Tree Iterator](https://binarysearch.com/problems/Binary-Search-Tree-Iterator) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1164 | [Binary Search Tree Iterator](https://binarysearch.com/problems/Binary-Search-Tree-Iterator) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Iterator.cpp) | [](notes)
 [](check) | 1166 | [Maximum Stack](https://binarysearch.com/problems/Maximum-Stack) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1167 | [Two Dimensional List Iterator](https://binarysearch.com/problems/Two-Dimensional-List-Iterator) | :orange_circle: | [py](solutions/Two-Dimensional-List-Iterator.py) | [](notes)
 [](check) | 1168 | [Peekable Iterator](https://binarysearch.com/problems/Peekable-Iterator) | :orange_circle: | [](solution) | [](notes)
