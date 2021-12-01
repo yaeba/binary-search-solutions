@@ -195,7 +195,7 @@ python update_readme.py
 [](check) | 272 | [Stack Sequence](https://binarysearch.com/problems/Stack-Sequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 273 | [Minimum Bracket Addition](https://binarysearch.com/problems/Minimum-Bracket-Addition) | :green_circle: | [cpp](solutions/Minimum-Bracket-Addition.cpp) | [](notes)
 [](check) | 275 | [Conway's Game of Life](https://binarysearch.com/problems/Conway's-Game-of-Life) | :orange_circle: | [](solution) | [](notes)
-[](check) | 276 | [Complete Binary Tree](https://binarysearch.com/problems/Complete-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 276 | [Complete Binary Tree](https://binarysearch.com/problems/Complete-Binary-Tree) | :orange_circle: | [cpp](solutions/Complete-Binary-Tree.cpp) | [](notes)
 :white_check_mark: | 278 | [Sum Tree](https://binarysearch.com/problems/Sum-Tree) | :orange_circle: | [cpp](solutions/Sum-Tree.cpp) | [](notes)
 [](check) | 279 | [Interval Overlaps](https://binarysearch.com/problems/Interval-Overlaps) | :orange_circle: | [](solution) | [](notes)
 [](check) | 280 | [Candy Race](https://binarysearch.com/problems/Candy-Race) | :red_circle: | [](solution) | [](notes)
