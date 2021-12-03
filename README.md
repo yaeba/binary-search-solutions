@@ -455,7 +455,7 @@ python update_readme.py
 [](check) | 639 | [Back to Front Linked List](https://binarysearch.com/problems/Back-to-Front-Linked-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 641 | [Sentence Reversal](https://binarysearch.com/problems/Sentence-Reversal) | :orange_circle: | [cpp](solutions/Sentence-Reversal.cpp) | [](notes)
 [](check) | 642 | [Flipped Matrix](https://binarysearch.com/problems/Flipped-Matrix) | :orange_circle: | [](solution) | [](notes)
-[](check) | 644 | [Inorder Successor](https://binarysearch.com/problems/Inorder-Successor) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 644 | [Inorder Successor](https://binarysearch.com/problems/Inorder-Successor) | :orange_circle: | [cpp](solutions/Inorder-Successor.cpp) | [](notes)
 [](check) | 645 | [Bear of Wall Street](https://binarysearch.com/problems/Bear-of-Wall-Street) | :orange_circle: | [](solution) | [](notes)
 [](check) | 646 | [Interval Carving](https://binarysearch.com/problems/Interval-Carving) | :orange_circle: | [](solution) | [](notes)
 [](check) | 647 | [Last to Toggle Wins](https://binarysearch.com/problems/Last-to-Toggle-Wins) | :red_circle: | [](solution) | [](notes)
