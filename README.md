@@ -79,7 +79,7 @@ python update_readme.py
 :white_check_mark: | 116 | [Recurring Character](https://binarysearch.com/problems/Recurring-Character) | :green_circle: | [cpp](solutions/Recurring-Character.cpp) | [](notes)
 [](check) | 117 | [The Accountant](https://binarysearch.com/problems/The-Accountant) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 118 | [Tree Sum](https://binarysearch.com/problems/Tree-Sum) | :orange_circle: | [cpp](solutions/Tree-Sum.cpp) | [](notes)
-[](check) | 120 | [Leftmost Deepest Tree Node](https://binarysearch.com/problems/Leftmost-Deepest-Tree-Node) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 120 | [Leftmost Deepest Tree Node](https://binarysearch.com/problems/Leftmost-Deepest-Tree-Node) | :orange_circle: | [cpp](solutions/Leftmost-Deepest-Tree-Node.cpp) | [](notes)
 :white_check_mark: | 124 | [Sum of the Deepest Nodes](https://binarysearch.com/problems/Sum-of-the-Deepest-Nodes) | :orange_circle: | [cpp](solutions/Sum-of-the-Deepest-Nodes.cpp) | [](notes)
 :white_check_mark: | 125 | [Twin Trees](https://binarysearch.com/problems/Twin-Trees) | :orange_circle: | [cpp](solutions/Twin-Trees.cpp) | [](notes)
 [](check) | 127 | [Set Bits](https://binarysearch.com/problems/Set-Bits) | :orange_circle: | [](solution) | [](notes)
