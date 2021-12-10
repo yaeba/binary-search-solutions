@@ -265,7 +265,7 @@ python update_readme.py
 [](check) | 360 | [Lowest Common Ancestor](https://binarysearch.com/problems/Lowest-Common-Ancestor) | :orange_circle: | [](solution) | [](notes)
 [](check) | 361 | [Top View of a Tree](https://binarysearch.com/problems/Top-View-of-a-Tree) | :red_circle: | [](solution) | [](notes)
 [](check) | 362 | [The Auditor](https://binarysearch.com/problems/The-Auditor) | :orange_circle: | [](solution) | [](notes)
-[](check) | 363 | [Linked List to Binary Search Tree](https://binarysearch.com/problems/Linked-List-to-Binary-Search-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 363 | [Linked List to Binary Search Tree](https://binarysearch.com/problems/Linked-List-to-Binary-Search-Tree) | :orange_circle: | [py](solutions/Linked-List-to-Binary-Search-Tree.py) | [](notes)
 :white_check_mark: | 364 | [Univalue Tree](https://binarysearch.com/problems/Univalue-Tree) | :orange_circle: | [cpp](solutions/Univalue-Tree.cpp) | [](notes)
 :white_check_mark: | 366 | [Cutting Binary Search Tree](https://binarysearch.com/problems/Cutting-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Cutting-Binary-Search-Tree.cpp) | [](notes)
 [](check) | 368 | [Number of Hops](https://binarysearch.com/problems/Number-of-Hops) | :orange_circle: | [](solution) | [](notes)
