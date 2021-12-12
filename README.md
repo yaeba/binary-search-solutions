@@ -448,7 +448,7 @@ python update_readme.py
 [](check) | 626 | [Minimum Distance of Two Words in a Sentence](https://binarysearch.com/problems/Minimum-Distance-of-Two-Words-in-a-Sentence) | :green_circle: | [](solution) | [](notes)
 [](check) | 633 | [Next Closest Odd Digit Number](https://binarysearch.com/problems/Next-Closest-Odd-Digit-Number) | :red_circle: | [](solution) | [](notes)
 [](check) | 634 | [Weird Clock](https://binarysearch.com/problems/Weird-Clock) | :orange_circle: | [](solution) | [](notes)
-[](check) | 635 | [Upside Down Numbers](https://binarysearch.com/problems/Upside-Down-Numbers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 635 | [Upside Down Numbers](https://binarysearch.com/problems/Upside-Down-Numbers) | :orange_circle: | [py](solutions/Upside-Down-Numbers.py) | [](notes)
 [](check) | 636 | [Rotation Groups](https://binarysearch.com/problems/Rotation-Groups) | :green_circle: | [](solution) | [](notes)
 [](check) | 637 | [Reverse an Inner Linked List](https://binarysearch.com/problems/Reverse-an-Inner-Linked-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 638 | [Longest Substring with 2 Distinct Characters](https://binarysearch.com/problems/Longest-Substring-with-2-Distinct-Characters) | :orange_circle: | [](solution) | [](notes)
