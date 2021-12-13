@@ -419,7 +419,7 @@ python update_readme.py
 [](check) | 585 | [Poly Knapsack](https://binarysearch.com/problems/Poly-Knapsack) | :orange_circle: | [](solution) | [](notes)
 [](check) | 586 | [Shipping and Receiving](https://binarysearch.com/problems/Shipping-and-Receiving) | :orange_circle: | [](solution) | [](notes)
 [](check) | 587 | [Linked List Intersection](https://binarysearch.com/problems/Linked-List-Intersection) | :orange_circle: | [](solution) | [](notes)
-[](check) | 588 | [Linked List Union](https://binarysearch.com/problems/Linked-List-Union) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 588 | [Linked List Union](https://binarysearch.com/problems/Linked-List-Union) | :orange_circle: | [cpp](solutions/Linked-List-Union.cpp) | [](notes)
 [](check) | 591 | [Make Palindrome by Adding a Suffix](https://binarysearch.com/problems/Make-Palindrome-by-Adding-a-Suffix) | :red_circle: | [](solution) | [](notes)
 [](check) | 592 | [Make a Palindrome by Inserting Characters](https://binarysearch.com/problems/Make-a-Palindrome-by-Inserting-Characters) | :orange_circle: | [](solution) | [](notes)
 [](check) | 595 | [Decimal Number](https://binarysearch.com/problems/Decimal-Number) | :red_circle: | [](solution) | [](notes)
