@@ -474,7 +474,7 @@ python update_readme.py
 [](check) | 661 | [Fleet of Palindromes](https://binarysearch.com/problems/Fleet-of-Palindromes) | :orange_circle: | [](solution) | [](notes)
 [](check) | 663 | [Broker of Wall Street](https://binarysearch.com/problems/Broker-of-Wall-Street) | :orange_circle: | [](solution) | [](notes)
 [](check) | 664 | [Small Large Medium](https://binarysearch.com/problems/Small-Large-Medium) | :red_circle: | [](solution) | [](notes)
-[](check) | 665 | [Arithmetic Sequences](https://binarysearch.com/problems/Arithmetic-Sequences) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 665 | [Arithmetic Sequences](https://binarysearch.com/problems/Arithmetic-Sequences) | :orange_circle: | [py](solutions/Arithmetic-Sequences.py) | [](notes)
 [](check) | 666 | [Arithmetic Subsequences](https://binarysearch.com/problems/Arithmetic-Subsequences) | :orange_circle: | [](solution) | [](notes)
 [](check) | 667 | [List Consecutive Split](https://binarysearch.com/problems/List-Consecutive-Split) | :orange_circle: | [](solution) | [](notes)
 [](check) | 668 | [Rod Cutting](https://binarysearch.com/problems/Rod-Cutting) | :orange_circle: | [](solution) | [](notes)
