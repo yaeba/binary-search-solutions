@@ -371,7 +371,7 @@ python update_readme.py
 [](check) | 518 | [Steady Speed](https://binarysearch.com/problems/Steady-Speed) | :orange_circle: | [](solution) | [](notes)
 [](check) | 519 | [Next Binary Permutation](https://binarysearch.com/problems/Next-Binary-Permutation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 520 | [Dominos](https://binarysearch.com/problems/Dominos) | :red_circle: | [](solution) | [](notes)
-[](check) | 521 | [Range Update](https://binarysearch.com/problems/Range-Update) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 521 | [Range Update](https://binarysearch.com/problems/Range-Update) | :orange_circle: | [py](solutions/Range-Update.py) | [](notes)
 [](check) | 522 | [Light Bulb Toggling](https://binarysearch.com/problems/Light-Bulb-Toggling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 524 | [Cut Matrix](https://binarysearch.com/problems/Cut-Matrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 525 | [Knight Remains](https://binarysearch.com/problems/Knight-Remains) | :orange_circle: | [](solution) | [](notes)
