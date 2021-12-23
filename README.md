@@ -253,7 +253,7 @@ python update_readme.py
 :white_check_mark: | 346 | [Ancient Astronaut Theory](https://binarysearch.com/problems/Ancient-Astronaut-Theory) | :green_circle: | [py](solutions/Ancient-Astronaut-Theory.py) | [](notes)
 [](check) | 347 | [Spiky Plants](https://binarysearch.com/problems/Spiky-Plants) | :red_circle: | [](solution) | [](notes)
 [](check) | 348 | [Binary Tree Width](https://binarysearch.com/problems/Binary-Tree-Width) | :orange_circle: | [](solution) | [](notes)
-[](check) | 349 | [Uber Pool](https://binarysearch.com/problems/Uber-Pool) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 349 | [Uber Pool](https://binarysearch.com/problems/Uber-Pool) | :orange_circle: | [py](solutions/Uber-Pool.py) | [](notes)
 [](check) | 350 | [Fair Pay](https://binarysearch.com/problems/Fair-Pay) | :orange_circle: | [](solution) | [](notes)
 [](check) | 351 | [Minimum Window Substring](https://binarysearch.com/problems/Minimum-Window-Substring) | :red_circle: | [](solution) | [](notes)
 [](check) | 353 | [Triangle Triplets](https://binarysearch.com/problems/Triangle-Triplets) | :orange_circle: | [](solution) | [](notes)
