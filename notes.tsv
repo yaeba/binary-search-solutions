@@ -5,3 +5,4 @@ Generate-Primes	Sieve of Eratosthenes
 Longest-Consecutive-Run-of-1s-in-Binary	Bit Trick
 Longest-Common-Subsequence	Dynamic Programming
 Kth-Smallest-Element	Quickselect
+Area-Under-Histogram	Increasing Stack

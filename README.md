@@ -575,7 +575,7 @@ python update_readme.py
 :white_check_mark: | 868 | [Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal) | :orange_circle: | [cpp](solutions/Diagonal-Tree-Traversal.cpp) | [](notes)
 :white_check_mark: | 870 | [Flip to Zeros](https://binarysearch.com/problems/Flip-to-Zeros) | :green_circle: | [cpp](solutions/Flip-to-Zeros.cpp) | [](notes)
 [](check) | 871 | [Latin Square Solver](https://binarysearch.com/problems/Latin-Square-Solver) | :orange_circle: | [](solution) | [](notes)
-[](check) | 874 | [Area Under Histogram](https://binarysearch.com/problems/Area-Under-Histogram) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 874 | [Area Under Histogram](https://binarysearch.com/problems/Area-Under-Histogram) | :red_circle: | [py](solutions/Area-Under-Histogram.py) | Increasing Stack
 [](check) | 875 | [Hill Maker](https://binarysearch.com/problems/Hill-Maker) | :orange_circle: | [](solution) | [](notes)
 [](check) | 876 | [Hop Cost](https://binarysearch.com/problems/Hop-Cost) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 879 | [Split List](https://binarysearch.com/problems/Split-List) | :green_circle: | [cpp](solutions/Split-List.cpp) | [](notes)
