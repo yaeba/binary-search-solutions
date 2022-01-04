@@ -19,7 +19,7 @@ python update_readme.py
 :white_check_mark: | 1 | [Sum of Two Numbers](https://binarysearch.com/problems/Sum-of-Two-Numbers) | :green_circle: | [cpp](solutions/Sum-of-Two-Numbers.cpp) | [](notes)
 :white_check_mark: | 2 | [Balanced Brackets](https://binarysearch.com/problems/Balanced-Brackets) | :orange_circle: | [py](solutions/Balanced-Brackets.py) | [](notes)
 [](check) | 3 | [Regular Expression Matching](https://binarysearch.com/problems/Regular-Expression-Matching) | :red_circle: | [](solution) | [](notes)
-[](check) | 4 | [Hoppable](https://binarysearch.com/problems/Hoppable) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 4 | [Hoppable](https://binarysearch.com/problems/Hoppable) | :orange_circle: | [cpp](solutions/Hoppable.cpp) | [](notes)
 :white_check_mark: | 6 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | :green_circle: | [cpp](solutions/Palindromic-Integer.cpp) | [](notes)
 [](check) | 7 | [Special Product List](https://binarysearch.com/problems/Special-Product-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 8 | [First Missing Positive](https://binarysearch.com/problems/First-Missing-Positive) | :orange_circle: | [](solution) | [](notes)
