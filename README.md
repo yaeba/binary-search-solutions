@@ -22,7 +22,7 @@ python update_readme.py
 :white_check_mark: | 4 | [Hoppable](https://binarysearch.com/problems/Hoppable) | :orange_circle: | [cpp](solutions/Hoppable.cpp) | [](notes)
 :white_check_mark: | 6 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | :green_circle: | [cpp](solutions/Palindromic-Integer.cpp) | [](notes)
 [](check) | 7 | [Special Product List](https://binarysearch.com/problems/Special-Product-List) | :orange_circle: | [](solution) | [](notes)
-[](check) | 8 | [First Missing Positive](https://binarysearch.com/problems/First-Missing-Positive) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 8 | [First Missing Positive](https://binarysearch.com/problems/First-Missing-Positive) | :orange_circle: | [cpp](solutions/First-Missing-Positive.cpp) | [](notes)
 [](check) | 9 | [Decode Message](https://binarysearch.com/problems/Decode-Message) | :orange_circle: | [](solution) | [](notes)
 [](check) | 10 | [Largest Sum of Non Adjacent Numbers](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 12 | [A Flight of Stairs](https://binarysearch.com/problems/A-Flight-of-Stairs) | :orange_circle: | [](solution) | [](notes)
