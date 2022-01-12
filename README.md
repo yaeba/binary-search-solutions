@@ -24,7 +24,7 @@ python update_readme.py
 [](check) | 7 | [Special Product List](https://binarysearch.com/problems/Special-Product-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 8 | [First Missing Positive](https://binarysearch.com/problems/First-Missing-Positive) | :orange_circle: | [cpp](solutions/First-Missing-Positive.cpp) | [](notes)
 [](check) | 9 | [Decode Message](https://binarysearch.com/problems/Decode-Message) | :orange_circle: | [](solution) | [](notes)
-[](check) | 10 | [Largest Sum of Non Adjacent Numbers](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 10 | [Largest Sum of Non Adjacent Numbers](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers) | :orange_circle: | [cpp](solutions/Largest-Sum-of-Non-Adjacent-Numbers.cpp) | DP
 [](check) | 12 | [A Flight of Stairs](https://binarysearch.com/problems/A-Flight-of-Stairs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 13 | [Univalue Tree Count](https://binarysearch.com/problems/Univalue-Tree-Count) | :orange_circle: | [cpp](solutions/Univalue-Tree-Count.cpp) | [](notes)
 [](check) | 14 | [Longest Sublist with K Distinct Numbers](https://binarysearch.com/problems/Longest-Sublist-with-K-Distinct-Numbers) | :red_circle: | [](solution) | [](notes)
