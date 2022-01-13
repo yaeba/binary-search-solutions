@@ -511,7 +511,7 @@ python update_readme.py
 [](check) | 715 | [Ugly Number Sequel](https://binarysearch.com/problems/Ugly-Number-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 718 | [Divisible Numbers](https://binarysearch.com/problems/Divisible-Numbers) | :red_circle: | [](solution) | [](notes)
 [](check) | 719 | [Minimum Sum Subsequence](https://binarysearch.com/problems/Minimum-Sum-Subsequence) | :orange_circle: | [](solution) | [](notes)
-[](check) | 720 | [Longest Sign Alternating Subsequence](https://binarysearch.com/problems/Longest-Sign-Alternating-Subsequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 720 | [Longest Sign Alternating Subsequence](https://binarysearch.com/problems/Longest-Sign-Alternating-Subsequence) | :orange_circle: | [py](solutions/Longest-Sign-Alternating-Subsequence.py) | [](notes)
 [](check) | 721 | [ABC Subsequences](https://binarysearch.com/problems/ABC-Subsequences) | :orange_circle: | [](solution) | [](notes)
 [](check) | 722 | [K Distinct Window](https://binarysearch.com/problems/K-Distinct-Window) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 723 | [Social Distancing](https://binarysearch.com/problems/Social-Distancing) | :green_circle: | [py](solutions/Social-Distancing.py) | [](notes)
