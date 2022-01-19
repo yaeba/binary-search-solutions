@@ -487,7 +487,7 @@ python update_readme.py
 [](check) | 675 | [K Compare](https://binarysearch.com/problems/K-Compare) | :orange_circle: | [](solution) | [](notes)
 [](check) | 676 | [Popularity](https://binarysearch.com/problems/Popularity) | :red_circle: | [](solution) | [](notes)
 [](check) | 677 | [K Subsequence](https://binarysearch.com/problems/K-Subsequence) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 679 | [Increasing Digits](https://binarysearch.com/problems/Increasing-Digits) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 679 | [Increasing Digits](https://binarysearch.com/problems/Increasing-Digits) | :orange_circle: | [cpp](solutions/Increasing-Digits.cpp) | [](notes)
 :white_check_mark: | 681 | [Wolves of Wall Street](https://binarysearch.com/problems/Wolves-of-Wall-Street) | :green_circle: | [java](solutions/Wolves-of-Wall-Street.java) | [](notes)
 [](check) | 682 | [Bull of Wall Street](https://binarysearch.com/problems/Bull-of-Wall-Street) | :red_circle: | [](solution) | [](notes)
 [](check) | 683 | [Palindrome Count](https://binarysearch.com/problems/Palindrome-Count) | :green_circle: | [](solution) | [](notes)
