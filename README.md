@@ -28,7 +28,7 @@ python update_readme.py
 [](check) | 12 | [A Flight of Stairs](https://binarysearch.com/problems/A-Flight-of-Stairs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 13 | [Univalue Tree Count](https://binarysearch.com/problems/Univalue-Tree-Count) | :orange_circle: | [cpp](solutions/Univalue-Tree-Count.cpp) | [](notes)
 [](check) | 14 | [Longest Sublist with K Distinct Numbers](https://binarysearch.com/problems/Longest-Sublist-with-K-Distinct-Numbers) | :red_circle: | [](solution) | [](notes)
-[](check) | 15 | [Collecting Coins](https://binarysearch.com/problems/Collecting-Coins) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 15 | [Collecting Coins](https://binarysearch.com/problems/Collecting-Coins) | :orange_circle: | [cpp](solutions/Collecting-Coins.cpp) | [](notes)
 [](check) | 16 | [Sliding Window Max](https://binarysearch.com/problems/Sliding-Window-Max) | :red_circle: | [](solution) | [](notes)
 [](check) | 20 | [Painting Houses](https://binarysearch.com/problems/Painting-Houses) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 23 | [3 6 9](https://binarysearch.com/problems/3-6-9) | :green_circle: | [cpp](solutions/3-6-9.cpp) | [](notes)
