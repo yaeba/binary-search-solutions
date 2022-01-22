@@ -65,7 +65,7 @@ python update_readme.py
 [](check) | 85 | [Largest K Divisible Subsequence](https://binarysearch.com/problems/Largest-K-Divisible-Subsequence) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 88 | [Sinking Islands](https://binarysearch.com/problems/Sinking-Islands) | :red_circle: | [](solution) | [](notes)
 [](check) | 89 | [Farthest Point From Water](https://binarysearch.com/problems/Farthest-Point-From-Water) | :red_circle: | [](solution) | [](notes)
-[](check) | 90 | [Longest Increasing Subsequence](https://binarysearch.com/problems/Longest-Increasing-Subsequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 90 | [Longest Increasing Subsequence](https://binarysearch.com/problems/Longest-Increasing-Subsequence) | :orange_circle: | [cpp](solutions/Longest-Increasing-Subsequence.cpp) | [](notes)
 [](check) | 91 | [Split String Into Palindromes](https://binarysearch.com/problems/Split-String-Into-Palindromes) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 92 | [Rotate Linked List by K](https://binarysearch.com/problems/Rotate-Linked-List-by-K) | :orange_circle: | [cpp](solutions/Rotate-Linked-List-by-K.cpp) | [](notes)
 [](check) | 93 | [Create Largest Number From a List](https://binarysearch.com/problems/Create-Largest-Number-From-a-List) | :red_circle: | [](solution) | [](notes)
