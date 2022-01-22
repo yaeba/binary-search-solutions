@@ -975,7 +975,7 @@ python update_readme.py
 :white_check_mark: | 1449 | [Search in a Virtually Complete Binary Tree](https://binarysearch.com/problems/Search-in-a-Virtually-Complete-Binary-Tree) | :green_circle: | [cpp](solutions/Search-in-a-Virtually-Complete-Binary-Tree.cpp) | [](notes)
 [](check) | 1450 | [Compressed Vector Product](https://binarysearch.com/problems/Compressed-Vector-Product) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1452 | [Fix Flight Itinerary](https://binarysearch.com/problems/Fix-Flight-Itinerary) | :red_circle: | [](solution) | [](notes)
-[](check) | 1453 | [Virtual Boolean Array](https://binarysearch.com/problems/Virtual-Boolean-Array) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1453 | [Virtual Boolean Array](https://binarysearch.com/problems/Virtual-Boolean-Array) | :orange_circle: | [py](solutions/Virtual-Boolean-Array.py) | [](notes)
 [](check) | 1454 | [Kth User to Visit Website](https://binarysearch.com/problems/Kth-User-to-Visit-Website) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1455 | [Bulk Shift Letters](https://binarysearch.com/problems/Bulk-Shift-Letters) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1456 | [Sort List by Reversing Once](https://binarysearch.com/problems/Sort-List-by-Reversing-Once) | :orange_circle: | [cpp](solutions/Sort-List-by-Reversing-Once.cpp) | [](notes)
