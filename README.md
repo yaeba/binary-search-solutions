@@ -360,7 +360,7 @@ python update_readme.py
 :white_check_mark: | 501 | [FizzBuzz](https://binarysearch.com/problems/FizzBuzz) | :green_circle: | [cpp](solutions/FizzBuzz.cpp) | [](notes)
 [](check) | 503 | [Weekly Contest](https://binarysearch.com/problems/Weekly-Contest) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 505 | [The Meeting Place Sequel](https://binarysearch.com/problems/The-Meeting-Place-Sequel) | :red_circle: | [](solution) | [](notes)
-[](check) | 506 | [One Integer](https://binarysearch.com/problems/One-Integer) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 506 | [One Integer](https://binarysearch.com/problems/One-Integer) | :orange_circle: | [py](solutions/One-Integer.py) | [](notes)
 [](check) | 507 | [Largest Square Submatrix](https://binarysearch.com/problems/Largest-Square-Submatrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 509 | [Points on a Line](https://binarysearch.com/problems/Points-on-a-Line) | :red_circle: | [](solution) | [](notes)
 [](check) | 510 | [Contiguous Intervals](https://binarysearch.com/problems/Contiguous-Intervals) | :orange_circle: | [](solution) | [](notes)
