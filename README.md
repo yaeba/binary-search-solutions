@@ -114,7 +114,7 @@ python update_readme.py
 :white_check_mark: | 166 | [Interleaved String](https://binarysearch.com/problems/Interleaved-String) | :green_circle: | [cpp](solutions/Interleaved-String.cpp) | [](notes)
 :white_check_mark: | 167 | [Check Palindrome](https://binarysearch.com/problems/Check-Palindrome) | :green_circle: | [cpp](solutions/Check-Palindrome.cpp) | [](notes)
 [](check) | 168 | [Anagram Checks](https://binarysearch.com/problems/Anagram-Checks) | :green_circle: | [](solution) | [](notes)
-[](check) | 169 | [List Partitioning](https://binarysearch.com/problems/List-Partitioning) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 169 | [List Partitioning](https://binarysearch.com/problems/List-Partitioning) | :orange_circle: | [cpp](solutions/List-Partitioning.cpp) | [](notes)
 :white_check_mark: | 171 | [Max Product of Two Numbers](https://binarysearch.com/problems/Max-Product-of-Two-Numbers) | :green_circle: | [cpp](solutions/Max-Product-of-Two-Numbers.cpp) | [](notes)
 [](check) | 172 | [Removing Parentheses](https://binarysearch.com/problems/Removing-Parentheses) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 174 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | :green_circle: | [cpp](solutions/Longest-Consecutive-Duplicate-String.cpp) | [](notes)
