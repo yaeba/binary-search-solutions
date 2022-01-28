@@ -603,7 +603,7 @@ python update_readme.py
 [](check) | 926 | [Largest Difference Between Node and a Descendant](https://binarysearch.com/problems/Largest-Difference-Between-Node-and-a-Descendant) | :orange_circle: | [](solution) | [](notes)
 [](check) | 928 | [Hop Cost Sequel](https://binarysearch.com/problems/Hop-Cost-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 929 | [Tree Sum Count](https://binarysearch.com/problems/Tree-Sum-Count) | :orange_circle: | [](solution) | [](notes)
-[](check) | 930 | [Kth Missing Number](https://binarysearch.com/problems/Kth-Missing-Number) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 930 | [Kth Missing Number](https://binarysearch.com/problems/Kth-Missing-Number) | :orange_circle: | [cpp](solutions/Kth-Missing-Number.cpp) | [](notes)
 [](check) | 932 | [Binary Tree Nodes Around Radius](https://binarysearch.com/problems/Binary-Tree-Nodes-Around-Radius) | :orange_circle: | [](solution) | [](notes)
 [](check) | 933 | [Repeated String Replacement to Target](https://binarysearch.com/problems/Repeated-String-Replacement-to-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 935 | [Maximum of the Smallest Chunk](https://binarysearch.com/problems/Maximum-of-the-Smallest-Chunk) | :red_circle: | [](solution) | [](notes)
