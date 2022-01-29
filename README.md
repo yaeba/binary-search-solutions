@@ -277,7 +277,7 @@ python update_readme.py
 [](check) | 375 | [Diverse Words](https://binarysearch.com/problems/Diverse-Words) | :red_circle: | [](solution) | [](notes)
 [](check) | 376 | [Best Interval to Remove](https://binarysearch.com/problems/Best-Interval-to-Remove) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 377 | [Sublist Sum](https://binarysearch.com/problems/Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
-[](check) | 381 | [Sorting Mail](https://binarysearch.com/problems/Sorting-Mail) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 381 | [Sorting Mail](https://binarysearch.com/problems/Sorting-Mail) | :orange_circle: | [py](solutions/Sorting-Mail.py) | [](notes)
 [](check) | 382 | [All Sublists Sum](https://binarysearch.com/problems/All-Sublists-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 384 | [Look and Say](https://binarysearch.com/problems/Look-and-Say) | :orange_circle: | [](solution) | [](notes)
 [](check) | 385 | [Minimum Difference](https://binarysearch.com/problems/Minimum-Difference) | :orange_circle: | [](solution) | [](notes)
