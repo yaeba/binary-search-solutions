@@ -1,0 +1,12 @@
+name: Upload to Gist
+
+on: push
+
+jobs:
+  publish:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - run: bash sync_gist.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }}
