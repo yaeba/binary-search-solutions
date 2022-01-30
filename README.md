@@ -279,7 +279,7 @@ python update_readme.py
 [](check) | 377 | [Sublist Sum](https://binarysearch.com/problems/Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 381 | [Sorting Mail](https://binarysearch.com/problems/Sorting-Mail) | :orange_circle: | [py](solutions/Sorting-Mail.py) | [](notes)
 [](check) | 382 | [All Sublists Sum](https://binarysearch.com/problems/All-Sublists-Sum) | :orange_circle: | [](solution) | [](notes)
-[](check) | 384 | [Look and Say](https://binarysearch.com/problems/Look-and-Say) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 384 | [Look and Say](https://binarysearch.com/problems/Look-and-Say) | :orange_circle: | [py](solutions/Look-and-Say.py) | [](notes)
 [](check) | 385 | [Minimum Difference](https://binarysearch.com/problems/Minimum-Difference) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 387 | [Buying Cars](https://binarysearch.com/problems/Buying-Cars) | :green_circle: | [cpp](solutions/Buying-Cars.cpp) | [](notes)
 :white_check_mark: | 388 | [Mixed Sorting](https://binarysearch.com/problems/Mixed-Sorting) | :green_circle: | [cpp](solutions/Mixed-Sorting.cpp), [py](solutions/Mixed-Sorting.py) | [](notes)
