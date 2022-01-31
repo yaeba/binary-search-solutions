@@ -155,7 +155,7 @@ python update_readme.py
 :white_check_mark: | 218 | [Integer to Base 3](https://binarysearch.com/problems/Integer-to-Base-3) | :green_circle: | [cpp](solutions/Integer-to-Base-3.cpp) | [](notes)
 :white_check_mark: | 219 | [Line Segment](https://binarysearch.com/problems/Line-Segment) | :orange_circle: | [py](solutions/Line-Segment.py) | [](notes)
 :white_check_mark: | 220 | [Consecutive Duplicates](https://binarysearch.com/problems/Consecutive-Duplicates) | :green_circle: | [cpp](solutions/Consecutive-Duplicates.cpp) | [](notes)
-[](check) | 221 | [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 221 | [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary) | :orange_circle: | [py](solutions/Flight-Itinerary.py) | [](notes)
 :white_check_mark: | 222 | [Toeplitz Matrix](https://binarysearch.com/problems/Toeplitz-Matrix) | :green_circle: | [cpp](solutions/Toeplitz-Matrix.cpp) | [](notes)
 [](check) | 223 | [Interleaved Linked List](https://binarysearch.com/problems/Interleaved-Linked-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 224 | [Sort a Linked List](https://binarysearch.com/problems/Sort-a-Linked-List) | :orange_circle: | [](solution) | [](notes)
