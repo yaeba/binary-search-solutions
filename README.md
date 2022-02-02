@@ -241,7 +241,7 @@ python update_readme.py
 [](check) | 332 | [Reverse Graph](https://binarysearch.com/problems/Reverse-Graph) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 333 | [Pythagorean Triplets](https://binarysearch.com/problems/Pythagorean-Triplets) | :green_circle: | [cpp](solutions/Pythagorean-Triplets.cpp) | [](notes)
 :white_check_mark: | 334 | [List to Binary Search Tree](https://binarysearch.com/problems/List-to-Binary-Search-Tree) | :orange_circle: | [py](solutions/List-to-Binary-Search-Tree.py) | [](notes)
-[](check) | 335 | [Movie Theatres](https://binarysearch.com/problems/Movie-Theatres) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 335 | [Movie Theatres](https://binarysearch.com/problems/Movie-Theatres) | :orange_circle: | [py](solutions/Movie-Theatres.py) | [](notes)
 :white_check_mark: | 337 | [Dice Throw](https://binarysearch.com/problems/Dice-Throw) | :orange_circle: | [py](solutions/Dice-Throw.py) | [](notes)
 [](check) | 338 | [Valid N Queens](https://binarysearch.com/problems/Valid-N-Queens) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 339 | [Prime Factorization](https://binarysearch.com/problems/Prime-Factorization) | :green_circle: | [cpp](solutions/Prime-Factorization.cpp) | [](notes)
