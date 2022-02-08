@@ -444,7 +444,7 @@ python update_readme.py
 [](check) | 620 | [Subsequence Widths](https://binarysearch.com/problems/Subsequence-Widths) | :red_circle: | [](solution) | [](notes)
 [](check) | 621 | [Longest Path in a Graph](https://binarysearch.com/problems/Longest-Path-in-a-Graph) | :red_circle: | [](solution) | [](notes)
 [](check) | 622 | [2048](https://binarysearch.com/problems/2048) | :orange_circle: | [](solution) | [](notes)
-[](check) | 625 | [Bubble Swap](https://binarysearch.com/problems/Bubble-Swap) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 625 | [Bubble Swap](https://binarysearch.com/problems/Bubble-Swap) | :orange_circle: | [py](solutions/Bubble-Swap.py) | [](notes)
 [](check) | 626 | [Minimum Distance of Two Words in a Sentence](https://binarysearch.com/problems/Minimum-Distance-of-Two-Words-in-a-Sentence) | :green_circle: | [](solution) | [](notes)
 [](check) | 633 | [Next Closest Odd Digit Number](https://binarysearch.com/problems/Next-Closest-Odd-Digit-Number) | :red_circle: | [](solution) | [](notes)
 [](check) | 634 | [Weird Clock](https://binarysearch.com/problems/Weird-Clock) | :orange_circle: | [](solution) | [](notes)
