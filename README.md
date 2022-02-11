@@ -23,7 +23,7 @@ python update_readme.py
 :white_check_mark: | 6 | [Palindromic Integer](https://binarysearch.com/problems/Palindromic-Integer) | :green_circle: | [cpp](solutions/Palindromic-Integer.cpp) | [](notes)
 [](check) | 7 | [Special Product List](https://binarysearch.com/problems/Special-Product-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 8 | [First Missing Positive](https://binarysearch.com/problems/First-Missing-Positive) | :orange_circle: | [cpp](solutions/First-Missing-Positive.cpp) | [](notes)
-[](check) | 9 | [Decode Message](https://binarysearch.com/problems/Decode-Message) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 9 | [Decode Message](https://binarysearch.com/problems/Decode-Message) | :orange_circle: | [py](solutions/Decode-Message.py) | [](notes)
 :white_check_mark: | 10 | [Largest Sum of Non Adjacent Numbers](https://binarysearch.com/problems/Largest-Sum-of-Non-Adjacent-Numbers) | :orange_circle: | [cpp](solutions/Largest-Sum-of-Non-Adjacent-Numbers.cpp) | DP
 [](check) | 12 | [A Flight of Stairs](https://binarysearch.com/problems/A-Flight-of-Stairs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 13 | [Univalue Tree Count](https://binarysearch.com/problems/Univalue-Tree-Count) | :orange_circle: | [cpp](solutions/Univalue-Tree-Count.cpp) | [](notes)
