@@ -957,7 +957,7 @@ python update_readme.py
 [](check) | 1429 | [Distinct Substrings](https://binarysearch.com/problems/Distinct-Substrings) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1432 | [Stack of Stacks](https://binarysearch.com/problems/Stack-of-Stacks) | :red_circle: | [](solution) | [](notes)
 [](check) | 1433 | [Continuous Path to Escape Mines](https://binarysearch.com/problems/Continuous-Path-to-Escape-Mines) | :red_circle: | [](solution) | [](notes)
-[](check) | 1434 | [Replace Linked List on Index](https://binarysearch.com/problems/Replace-Linked-List-on-Index) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1434 | [Replace Linked List on Index](https://binarysearch.com/problems/Replace-Linked-List-on-Index) | :orange_circle: | [cpp](solutions/Replace-Linked-List-on-Index.cpp) | [](notes)
 [](check) | 1435 | [Middle Operable Deque](https://binarysearch.com/problems/Middle-Operable-Deque) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1436 | [Sort List by Hamming Weight](https://binarysearch.com/problems/Sort-List-by-Hamming-Weight) | :green_circle: | [py](solutions/Sort-List-by-Hamming-Weight.py) | [](notes)
 [](check) | 1437 | [Circular Queue](https://binarysearch.com/problems/Circular-Queue) | :orange_circle: | [](solution) | [](notes)
