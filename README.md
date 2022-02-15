@@ -866,7 +866,7 @@ python update_readme.py
 [](check) | 1334 | [Minimum Updates to Make Bitwise OR Equal to Target](https://binarysearch.com/problems/Minimum-Updates-to-Make-Bitwise-OR-Equal-to-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1335 | [Find a Linked List in a Binary Tree](https://binarysearch.com/problems/Find-a-Linked-List-in-a-Binary-Tree) | :red_circle: | [](solution) | [](notes)
 [](check) | 1336 | [Bitwise AND of Range of Numbers](https://binarysearch.com/problems/Bitwise-AND-of-Range-of-Numbers) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1338 | [Rate Limiter](https://binarysearch.com/problems/Rate-Limiter) | :green_circle: | [](solution) | [](notes)
+:white_check_mark: | 1338 | [Rate Limiter](https://binarysearch.com/problems/Rate-Limiter) | :green_circle: | [py](solutions/Rate-Limiter.py) | [](notes)
 [](check) | 1339 | [Flight Scheduling](https://binarysearch.com/problems/Flight-Scheduling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1340 | [Crush Numbers](https://binarysearch.com/problems/Crush-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1341 | [Meeting Schedule For Two People](https://binarysearch.com/problems/Meeting-Schedule-For-Two-People) | :orange_circle: | [](solution) | [](notes)
