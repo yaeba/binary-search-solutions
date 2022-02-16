@@ -408,7 +408,7 @@ python update_readme.py
 [](check) | 570 | [Split Product](https://binarysearch.com/problems/Split-Product) | :orange_circle: | [](solution) | [](notes)
 [](check) | 571 | [String Construction](https://binarysearch.com/problems/String-Construction) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 573 | [Parentheses Grouping](https://binarysearch.com/problems/Parentheses-Grouping) | :green_circle: | [py](solutions/Parentheses-Grouping.py) | [](notes)
-[](check) | 574 | [Majority Vote](https://binarysearch.com/problems/Majority-Vote) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 574 | [Majority Vote](https://binarysearch.com/problems/Majority-Vote) | :orange_circle: | [cpp](solutions/Majority-Vote.cpp) | [](notes)
 [](check) | 575 | [Class Scheduling](https://binarysearch.com/problems/Class-Scheduling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 576 | [Linked List Delete Last Occurrence of Value](https://binarysearch.com/problems/Linked-List-Delete-Last-Occurrence-of-Value) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 577 | [Remove Last Duplicate Entries](https://binarysearch.com/problems/Remove-Last-Duplicate-Entries) | :green_circle: | [py](solutions/Remove-Last-Duplicate-Entries.py) | [](notes)
