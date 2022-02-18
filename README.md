@@ -946,7 +946,7 @@ python update_readme.py
 :white_check_mark: | 1418 | [Tic Tac Toe](https://binarysearch.com/problems/Tic-Tac-Toe) | :orange_circle: | [py](solutions/Tic-Tac-Toe.py) | [](notes)
 [](check) | 1419 | [Stock Span](https://binarysearch.com/problems/Stock-Span) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1420 | [Maximum Unique Sublist Sum](https://binarysearch.com/problems/Maximum-Unique-Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1421 | [Three Player Coin Game](https://binarysearch.com/problems/Three-Player-Coin-Game) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1421 | [Three Player Coin Game](https://binarysearch.com/problems/Three-Player-Coin-Game) | :orange_circle: | [py](solutions/Three-Player-Coin-Game.py) | [](notes)
 [](check) | 1422 | [Kth Largest Numbers From Stream](https://binarysearch.com/problems/Kth-Largest-Numbers-From-Stream) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1423 | [Number of Moves to Capture the King](https://binarysearch.com/problems/Number-of-Moves-to-Capture-the-King) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1424 | [Recursive Voting](https://binarysearch.com/problems/Recursive-Voting) | :orange_circle: | [](solution) | [](notes)
