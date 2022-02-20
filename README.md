@@ -762,7 +762,7 @@ python update_readme.py
 [](check) | 1183 | [Cut Rods for Profit](https://binarysearch.com/problems/Cut-Rods-for-Profit) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1184 | [Collecting Disappearing Coins](https://binarysearch.com/problems/Collecting-Disappearing-Coins) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1185 | [Pick Up Gold in Two Locations](https://binarysearch.com/problems/Pick-Up-Gold-in-Two-Locations) | :red_circle: | [](solution) | [](notes)
-[](check) | 1186 | [Web Browser](https://binarysearch.com/problems/Web-Browser) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1186 | [Web Browser](https://binarysearch.com/problems/Web-Browser) | :orange_circle: | [cpp](solutions/Web-Browser.cpp) | [](notes)
 [](check) | 1187 | [Unique Numbers From Sublist Bitwise ORs](https://binarysearch.com/problems/Unique-Numbers-From-Sublist-Bitwise-ORs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1188 | [Minimum Initial Value for Positive Prefix Sums](https://binarysearch.com/problems/Minimum-Initial-Value-for-Positive-Prefix-Sums) | :green_circle: | [cpp](solutions/Minimum-Initial-Value-for-Positive-Prefix-Sums.cpp) | [](notes)
 :white_check_mark: | 1190 | [Check if Number Is Perfect Square](https://binarysearch.com/problems/Check-if-Number-Is-Perfect-Square) | :green_circle: | [cpp](solutions/Check-if-Number-Is-Perfect-Square.cpp) | [](notes)
