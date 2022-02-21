@@ -494,7 +494,7 @@ python update_readme.py
 [](check) | 687 | [K Maximum Sums](https://binarysearch.com/problems/K-Maximum-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 688 | [Minimum Adjacent Swaps to Palindrome](https://binarysearch.com/problems/Minimum-Adjacent-Swaps-to-Palindrome) | :red_circle: | [](solution) | [](notes)
 [](check) | 690 | [Communication Towers](https://binarysearch.com/problems/Communication-Towers) | :orange_circle: | [](solution) | [](notes)
-[](check) | 691 | [Skydivers](https://binarysearch.com/problems/Skydivers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 691 | [Skydivers](https://binarysearch.com/problems/Skydivers) | :orange_circle: | [cpp](solutions/Skydivers.cpp) | [](notes)
 [](check) | 696 | [Planar Edges](https://binarysearch.com/problems/Planar-Edges) | :red_circle: | [](solution) | [](notes)
 [](check) | 697 | [Largest Equivalent Set of Pairs](https://binarysearch.com/problems/Largest-Equivalent-Set-of-Pairs) | :red_circle: | [](solution) | [](notes)
 [](check) | 698 | [Largest K Sublist Sum](https://binarysearch.com/problems/Largest-K-Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
