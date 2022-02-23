@@ -823,7 +823,7 @@ python update_readme.py
 [](check) | 1275 | [Binary Sublist with Target Sum](https://binarysearch.com/problems/Binary-Sublist-with-Target-Sum) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1276 | [Sum of Two Numbers Less Than Target](https://binarysearch.com/problems/Sum-of-Two-Numbers-Less-Than-Target) | :green_circle: | [cpp](solutions/Sum-of-Two-Numbers-Less-Than-Target.cpp) | [](notes)
 [](check) | 1277 | [Balance the Directions](https://binarysearch.com/problems/Balance-the-Directions) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1278 | [Split List to Minimize Largest Sum](https://binarysearch.com/problems/Split-List-to-Minimize-Largest-Sum) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1278 | [Split List to Minimize Largest Sum](https://binarysearch.com/problems/Split-List-to-Minimize-Largest-Sum) | :red_circle: | [cpp](solutions/Split-List-to-Minimize-Largest-Sum.cpp) | [](notes)
 [](check) | 1280 | [Bounded Robot Moves](https://binarysearch.com/problems/Bounded-Robot-Moves) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1282 | [Longest Repeating Sublist After K Updates](https://binarysearch.com/problems/Longest-Repeating-Sublist-After-K-Updates) | :green_circle: | [](solution) | [](notes)
 [](check) | 1283 | [Remove Smaller Coordinates](https://binarysearch.com/problems/Remove-Smaller-Coordinates) | :orange_circle: | [](solution) | [](notes)
