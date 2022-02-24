@@ -351,7 +351,7 @@ python update_readme.py
 :white_check_mark: | 489 | [Minimum Cost Sort](https://binarysearch.com/problems/Minimum-Cost-Sort) | :green_circle: | [py](solutions/Minimum-Cost-Sort.py) | [](notes)
 :white_check_mark: | 491 | [Leaf Equivalent Trees](https://binarysearch.com/problems/Leaf-Equivalent-Trees) | :orange_circle: | [py](solutions/Leaf-Equivalent-Trees.py) | [](notes)
 [](check) | 492 | [Max Character Distinct Words](https://binarysearch.com/problems/Max-Character-Distinct-Words) | :orange_circle: | [](solution) | [](notes)
-[](check) | 494 | [Longest Even Value Path](https://binarysearch.com/problems/Longest-Even-Value-Path) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 494 | [Longest Even Value Path](https://binarysearch.com/problems/Longest-Even-Value-Path) | :orange_circle: | [cpp](solutions/Longest-Even-Value-Path.cpp) | [](notes)
 :white_check_mark: | 495 | [Rectangular Overlap](https://binarysearch.com/problems/Rectangular-Overlap) | :green_circle: | [py](solutions/Rectangular-Overlap.py) | [](notes)
 [](check) | 496 | [Longest Even Sum Path](https://binarysearch.com/problems/Longest-Even-Sum-Path) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 498 | [Robinhood](https://binarysearch.com/problems/Robinhood) | :green_circle: | [java](solutions/Robinhood.java) | [](notes)
