@@ -96,7 +96,7 @@ python update_readme.py
 :white_check_mark: | 140 | [Zero Matrix](https://binarysearch.com/problems/Zero-Matrix) | :orange_circle: | [cpp](solutions/Zero-Matrix.cpp) | [](notes)
 :white_check_mark: | 141 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) | :green_circle: | [cpp](solutions/Merging-Two-Sorted-Lists.cpp) | [](notes)
 :white_check_mark: | 142 | [Tree Pruning](https://binarysearch.com/problems/Tree-Pruning) | :orange_circle: | [cpp](solutions/Tree-Pruning.cpp) | [](notes)
-[](check) | 143 | [Central Linked List](https://binarysearch.com/problems/Central-Linked-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 143 | [Central Linked List](https://binarysearch.com/problems/Central-Linked-List) | :orange_circle: | [cpp](solutions/Central-Linked-List.cpp) | [](notes)
 [](check) | 145 | [Largest Root to Leaf Sum](https://binarysearch.com/problems/Largest-Root-to-Leaf-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 146 | [Most Frequent Subtree Sum](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 147 | [Spiral Matrix](https://binarysearch.com/problems/Spiral-Matrix) | :orange_circle: | [](solution) | [](notes)
