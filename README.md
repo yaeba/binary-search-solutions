@@ -55,7 +55,7 @@ python update_readme.py
 :white_check_mark: | 73 | [Unidirectional Word Search](https://binarysearch.com/problems/Unidirectional-Word-Search) | :green_circle: | [py](solutions/Unidirectional-Word-Search.py) | [](notes)
 [](check) | 75 | [Longest Arithmetic Subsequence](https://binarysearch.com/problems/Longest-Arithmetic-Subsequence) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 76 | [Length of a Linked List](https://binarysearch.com/problems/Length-of-a-Linked-List) | :green_circle: | [cpp](solutions/Length-of-a-Linked-List.cpp) | [](notes)
-[](check) | 77 | [Kth Last Node of a Linked List](https://binarysearch.com/problems/Kth-Last-Node-of-a-Linked-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 77 | [Kth Last Node of a Linked List](https://binarysearch.com/problems/Kth-Last-Node-of-a-Linked-List) | :orange_circle: | [cpp](solutions/Kth-Last-Node-of-a-Linked-List.cpp) | [](notes)
 :white_check_mark: | 78 | [Reverse a Linked List](https://binarysearch.com/problems/Reverse-a-Linked-List) | :orange_circle: | [cpp](solutions/Reverse-a-Linked-List.cpp) | [](notes)
 :white_check_mark: | 79 | [Palindrome Linked List](https://binarysearch.com/problems/Palindrome-Linked-List) | :orange_circle: | [cpp](solutions/Palindrome-Linked-List.cpp) | [](notes)
 :white_check_mark: | 80 | [Rotate List Left by K](https://binarysearch.com/problems/Rotate-List-Left-by-K) | :green_circle: | [cpp](solutions/Rotate-List-Left-by-K.cpp) | [](notes)
