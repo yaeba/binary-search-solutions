@@ -882,7 +882,7 @@ python update_readme.py
 [](check) | 1352 | [Enlarge BST](https://binarysearch.com/problems/Enlarge-BST) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1353 | [Max Sum Partitioning](https://binarysearch.com/problems/Max-Sum-Partitioning) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1354 | [Every Sublist Min Sum](https://binarysearch.com/problems/Every-Sublist-Min-Sum) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1355 | [Count Nodes in Complete Binary Tree](https://binarysearch.com/problems/Count-Nodes-in-Complete-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1355 | [Count Nodes in Complete Binary Tree](https://binarysearch.com/problems/Count-Nodes-in-Complete-Binary-Tree) | :orange_circle: | [cpp](solutions/Count-Nodes-in-Complete-Binary-Tree.cpp) | [](notes)
 [](check) | 1356 | [Number of K Divisible Pairs](https://binarysearch.com/problems/Number-of-K-Divisible-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1357 | [String Equivalence Relations](https://binarysearch.com/problems/String-Equivalence-Relations) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1358 | [Airplane Seat Shuffling](https://binarysearch.com/problems/Airplane-Seat-Shuffling) | :orange_circle: | [](solution) | [](notes)
