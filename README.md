@@ -309,7 +309,7 @@ python update_readme.py
 :white_check_mark: | 424 | [Target Number with Operations](https://binarysearch.com/problems/Target-Number-with-Operations) | :green_circle: | [cpp](solutions/Target-Number-with-Operations.cpp) | [](notes)
 :white_check_mark: | 425 | [Latin Square](https://binarysearch.com/problems/Latin-Square) | :green_circle: | [py](solutions/Latin-Square.py) | [](notes)
 :white_check_mark: | 426 | [Symmetric Binary Tree](https://binarysearch.com/problems/Symmetric-Binary-Tree) | :orange_circle: | [cpp](solutions/Symmetric-Binary-Tree.cpp) | [](notes)
-[](check) | 428 | [Partition Tree](https://binarysearch.com/problems/Partition-Tree) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 428 | [Partition Tree](https://binarysearch.com/problems/Partition-Tree) | :orange_circle: | [py](solutions/Partition-Tree.py) | [](notes)
 :white_check_mark: | 429 | [Vertical Cipher](https://binarysearch.com/problems/Vertical-Cipher) | :green_circle: | [py](solutions/Vertical-Cipher.py) | [](notes)
 :white_check_mark: | 430 | [Leaderboard](https://binarysearch.com/problems/Leaderboard) | :green_circle: | [py](solutions/Leaderboard.py) | [](notes)
 :white_check_mark: | 431 | [Word Formation](https://binarysearch.com/problems/Word-Formation) | :green_circle: | [py](solutions/Word-Formation.py) | [](notes)
