@@ -176,7 +176,7 @@ python update_readme.py
 [](check) | 244 | [Largest Sublist Sum](https://binarysearch.com/problems/Largest-Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 245 | [Matrix Search](https://binarysearch.com/problems/Matrix-Search) | :orange_circle: | [](solution) | [](notes)
 [](check) | 248 | [Foo Bar Qaz Qux](https://binarysearch.com/problems/Foo-Bar-Qaz-Qux) | :red_circle: | [](solution) | [](notes)
-[](check) | 249 | [Palindromic Anagram](https://binarysearch.com/problems/Palindromic-Anagram) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 249 | [Palindromic Anagram](https://binarysearch.com/problems/Palindromic-Anagram) | :orange_circle: | [py](solutions/Palindromic-Anagram.py) | [](notes)
 [](check) | 250 | [Long Distance](https://binarysearch.com/problems/Long-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 251 | [Sort String by Flipping](https://binarysearch.com/problems/Sort-String-by-Flipping) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 252 | [Kth Smallest Element](https://binarysearch.com/problems/Kth-Smallest-Element) | :orange_circle: | [cpp](solutions/Kth-Smallest-Element.cpp) | Quickselect
