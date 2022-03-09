@@ -395,7 +395,7 @@ python update_readme.py
 [](check) | 555 | [Sum of Four Numbers](https://binarysearch.com/problems/Sum-of-Four-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 556 | [String Multiplication](https://binarysearch.com/problems/String-Multiplication) | :orange_circle: | [](solution) | [](notes)
 [](check) | 557 | [K Largest Pairs](https://binarysearch.com/problems/K-Largest-Pairs) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 558 | [N Lexicographic Integers](https://binarysearch.com/problems/N-Lexicographic-Integers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 558 | [N Lexicographic Integers](https://binarysearch.com/problems/N-Lexicographic-Integers) | :orange_circle: | [py](solutions/N-Lexicographic-Integers.py) | [](notes)
 [](check) | 559 | [Minimum Set of Pairs](https://binarysearch.com/problems/Minimum-Set-of-Pairs) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 560 | [Selling Products](https://binarysearch.com/problems/Selling-Products) | :orange_circle: | [py](solutions/Selling-Products.py) | [](notes)
 :white_check_mark: | 563 | [Factorial Sum](https://binarysearch.com/problems/Factorial-Sum) | :orange_circle: | [py](solutions/Factorial-Sum.py) | [](notes)
