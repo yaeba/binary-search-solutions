@@ -164,7 +164,7 @@ python update_readme.py
 :white_check_mark: | 227 | [Unix Path Resolution](https://binarysearch.com/problems/Unix-Path-Resolution) | :green_circle: | [cpp](solutions/Unix-Path-Resolution.cpp) | [](notes)
 :white_check_mark: | 228 | [Linked List to Integer](https://binarysearch.com/problems/Linked-List-to-Integer) | :green_circle: | [cpp](solutions/Linked-List-to-Integer.cpp) | [](notes)
 [](check) | 230 | [S Expression Evaluation](https://binarysearch.com/problems/S-Expression-Evaluation) | :red_circle: | [](solution) | [](notes)
-[](check) | 231 | [No New Friends](https://binarysearch.com/problems/No-New-Friends) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 231 | [No New Friends](https://binarysearch.com/problems/No-New-Friends) | :orange_circle: | [py](solutions/No-New-Friends.py) | [](notes)
 :white_check_mark: | 232 | [Friend Groups](https://binarysearch.com/problems/Friend-Groups) | :orange_circle: | [py](solutions/Friend-Groups.py) | [](notes)
 :white_check_mark: | 235 | [Hamming Distance](https://binarysearch.com/problems/Hamming-Distance) | :green_circle: | [cpp](solutions/Hamming-Distance.cpp) | [](notes)
 :white_check_mark: | 237 | [Rotate by 90 Degrees Counter Clockwise](https://binarysearch.com/problems/Rotate-by-90-Degrees-Counter-Clockwise) | :orange_circle: | [py](solutions/Rotate-by-90-Degrees-Counter-Clockwise.py) | [](notes)
