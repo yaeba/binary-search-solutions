@@ -481,7 +481,7 @@ python update_readme.py
 [](check) | 669 | [Count of Sublists with Same First and Last Values](https://binarysearch.com/problems/Count-of-Sublists-with-Same-First-and-Last-Values) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 670 | [Lexicographic Swap](https://binarysearch.com/problems/Lexicographic-Swap) | :green_circle: | [py](solutions/Lexicographic-Swap.py) | [](notes)
 [](check) | 671 | [Calculator](https://binarysearch.com/problems/Calculator) | :red_circle: | [](solution) | [](notes)
-[](check) | 672 | [Length of Longest Balanced Subsequence](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 672 | [Length of Longest Balanced Subsequence](https://binarysearch.com/problems/Length-of-Longest-Balanced-Subsequence) | :orange_circle: | [cpp](solutions/Length-of-Longest-Balanced-Subsequence.cpp) | [](notes)
 [](check) | 673 | [Longest Bitonic Subsequence](https://binarysearch.com/problems/Longest-Bitonic-Subsequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 674 | [K Prefix](https://binarysearch.com/problems/K-Prefix) | :green_circle: | [cpp](solutions/K-Prefix.cpp) | [](notes)
 [](check) | 675 | [K Compare](https://binarysearch.com/problems/K-Compare) | :orange_circle: | [](solution) | [](notes)
