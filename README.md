@@ -932,7 +932,7 @@ python update_readme.py
 [](check) | 1404 | [Number of Sublists With Odd Sum](https://binarysearch.com/problems/Number-of-Sublists-With-Odd-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1405 | [Place Zeros Above the Matrix Diagonal](https://binarysearch.com/problems/Place-Zeros-Above-the-Matrix-Diagonal) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1406 | [Leaf Pairs Less Than Target Distance Away](https://binarysearch.com/problems/Leaf-Pairs-Less-Than-Target-Distance-Away) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1407 | [Count Substrings With All 1s](https://binarysearch.com/problems/Count-Substrings-With-All-1s) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1407 | [Count Substrings With All 1s](https://binarysearch.com/problems/Count-Substrings-With-All-1s) | :orange_circle: | [cpp](solutions/Count-Substrings-With-All-1s.cpp) | [](notes)
 :white_check_mark: | 1408 | [Equivalent Pairs](https://binarysearch.com/problems/Equivalent-Pairs) | :green_circle: | [py](solutions/Equivalent-Pairs.py) | [](notes)
 [](check) | 1409 | [Sum of Sublist Range Sum](https://binarysearch.com/problems/Sum-of-Sublist-Range-Sum) | :red_circle: | [](solution) | [](notes)
 [](check) | 1410 | [Candy Race Taking Square Candies](https://binarysearch.com/problems/Candy-Race-Taking-Square-Candies) | :red_circle: | [](solution) | [](notes)
