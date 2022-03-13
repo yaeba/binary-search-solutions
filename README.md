@@ -319,7 +319,7 @@ python update_readme.py
 :white_check_mark: | 437 | [Longest Alliteration](https://binarysearch.com/problems/Longest-Alliteration) | :green_circle: | [cpp](solutions/Longest-Alliteration.cpp) | [](notes)
 :white_check_mark: | 440 | [Index Into an Infinite String](https://binarysearch.com/problems/Index-Into-an-Infinite-String) | :green_circle: | [cpp](solutions/Index-Into-an-Infinite-String.cpp) | [](notes)
 [](check) | 442 | [Bomber Man](https://binarysearch.com/problems/Bomber-Man) | :orange_circle: | [](solution) | [](notes)
-[](check) | 448 | [Linked List to ZigZag Tree Path](https://binarysearch.com/problems/Linked-List-to-ZigZag-Tree-Path) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 448 | [Linked List to ZigZag Tree Path](https://binarysearch.com/problems/Linked-List-to-ZigZag-Tree-Path) | :orange_circle: | [cpp](solutions/Linked-List-to-ZigZag-Tree-Path.cpp) | [](notes)
 [](check) | 449 | [Distinct Palindromes](https://binarysearch.com/problems/Distinct-Palindromes) | :orange_circle: | [](solution) | [](notes)
 [](check) | 450 | [Number of Swaps to Sort](https://binarysearch.com/problems/Number-of-Swaps-to-Sort) | :orange_circle: | [](solution) | [](notes)
 [](check) | 453 | [Word Formation Sequel](https://binarysearch.com/problems/Word-Formation-Sequel) | :orange_circle: | [](solution) | [](notes)
