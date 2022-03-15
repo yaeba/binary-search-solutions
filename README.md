@@ -116,7 +116,7 @@ python update_readme.py
 :white_check_mark: | 168 | [Anagram Checks](https://binarysearch.com/problems/Anagram-Checks) | :green_circle: | [cpp](solutions/Anagram-Checks.cpp), [py](solutions/Anagram-Checks.py) | [](notes)
 :white_check_mark: | 169 | [List Partitioning](https://binarysearch.com/problems/List-Partitioning) | :orange_circle: | [cpp](solutions/List-Partitioning.cpp) | [](notes)
 :white_check_mark: | 171 | [Max Product of Two Numbers](https://binarysearch.com/problems/Max-Product-of-Two-Numbers) | :green_circle: | [cpp](solutions/Max-Product-of-Two-Numbers.cpp) | [](notes)
-[](check) | 172 | [Removing Parentheses](https://binarysearch.com/problems/Removing-Parentheses) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 172 | [Removing Parentheses](https://binarysearch.com/problems/Removing-Parentheses) | :orange_circle: | [cpp](solutions/Removing-Parentheses.cpp) | [](notes)
 :white_check_mark: | 174 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | :green_circle: | [cpp](solutions/Longest-Consecutive-Duplicate-String.cpp) | [](notes)
 [](check) | 175 | [Next Integer Permutation](https://binarysearch.com/problems/Next-Integer-Permutation) | :red_circle: | [](solution) | [](notes)
 [](check) | 176 | [Unique Subsequences Equal to Target](https://binarysearch.com/problems/Unique-Subsequences-Equal-to-Target) | :red_circle: | [](solution) | [](notes)
