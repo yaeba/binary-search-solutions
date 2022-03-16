@@ -238,7 +238,7 @@ python update_readme.py
 [](check) | 328 | [Moo](https://binarysearch.com/problems/Moo) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 329 | [Roman Numeral to Integer](https://binarysearch.com/problems/Roman-Numeral-to-Integer) | :orange_circle: | [py](solutions/Roman-Numeral-to-Integer.py) | [](notes)
 [](check) | 330 | [Remove Interval Overlaps](https://binarysearch.com/problems/Remove-Interval-Overlaps) | :orange_circle: | [](solution) | [](notes)
-[](check) | 332 | [Reverse Graph](https://binarysearch.com/problems/Reverse-Graph) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 332 | [Reverse Graph](https://binarysearch.com/problems/Reverse-Graph) | :orange_circle: | [py](solutions/Reverse-Graph.py) | [](notes)
 :white_check_mark: | 333 | [Pythagorean Triplets](https://binarysearch.com/problems/Pythagorean-Triplets) | :green_circle: | [cpp](solutions/Pythagorean-Triplets.cpp) | [](notes)
 :white_check_mark: | 334 | [List to Binary Search Tree](https://binarysearch.com/problems/List-to-Binary-Search-Tree) | :orange_circle: | [py](solutions/List-to-Binary-Search-Tree.py) | [](notes)
 :white_check_mark: | 335 | [Movie Theatres](https://binarysearch.com/problems/Movie-Theatres) | :orange_circle: | [py](solutions/Movie-Theatres.py) | [](notes)
