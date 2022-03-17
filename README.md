@@ -38,7 +38,7 @@ python update_readme.py
 :white_check_mark: | 46 | [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) | :green_circle: | [cpp](solutions/Largest-Number-By-Two-Times.cpp) | [](notes)
 [](check) | 47 | [Subsequence Strings](https://binarysearch.com/problems/Subsequence-Strings) | :orange_circle: | [](solution) | [](notes)
 [](check) | 49 | [Add Binary Numbers](https://binarysearch.com/problems/Add-Binary-Numbers) | :orange_circle: | [](solution) | [](notes)
-[](check) | 50 | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 50 | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | :orange_circle: | [cpp](solutions/Number-of-Islands.cpp) | [](notes)
 :white_check_mark: | 56 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | :green_circle: | [py](solutions/Generate-Primes.py) | Sieve of Eratosthenes
 :white_check_mark: | 57 | [Unique Occurrences](https://binarysearch.com/problems/Unique-Occurrences) | :orange_circle: | [py](solutions/Unique-Occurrences.py) | [](notes)
 [](check) | 58 | [Longest Palindromic Subsequence](https://binarysearch.com/problems/Longest-Palindromic-Subsequence) | :red_circle: | [](solution) | [](notes)
