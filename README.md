@@ -1009,7 +1009,7 @@ python update_readme.py
 [](check) | 1488 | [Longest Palindrome From Concatenating Two Subsequences](https://binarysearch.com/problems/Longest-Palindrome-From-Concatenating-Two-Subsequences) | :red_circle: | [](solution) | [](notes)
 [](check) | 1492 | [Largest One Submatrix with Column Swaps](https://binarysearch.com/problems/Largest-One-Submatrix-with-Column-Swaps) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1493 | [Shortest Path in a Graph](https://binarysearch.com/problems/Shortest-Path-in-a-Graph) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1494 | [Swap Kth Node Values](https://binarysearch.com/problems/Swap-Kth-Node-Values) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1494 | [Swap Kth Node Values](https://binarysearch.com/problems/Swap-Kth-Node-Values) | :orange_circle: | [cpp](solutions/Swap-Kth-Node-Values.cpp) | [](notes)
 [](check) | 1495 | [Equivalent Product Pairs](https://binarysearch.com/problems/Equivalent-Product-Pairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1497 | [Integer to English](https://binarysearch.com/problems/Integer-to-English) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1498 | [Shift to Create Range](https://binarysearch.com/problems/Shift-to-Create-Range) | :green_circle: | [cpp](solutions/Shift-to-Create-Range.cpp), [py](solutions/Shift-to-Create-Range.py) | [](notes)
