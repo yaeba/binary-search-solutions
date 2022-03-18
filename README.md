@@ -658,7 +658,7 @@ python update_readme.py
 [](check) | 1008 | [Package Matching](https://binarysearch.com/problems/Package-Matching) | :red_circle: | [](solution) | [](notes)
 [](check) | 1015 | [Candy Race with Different Types](https://binarysearch.com/problems/Candy-Race-with-Different-Types) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1016 | [Number of K Divisible Sublists](https://binarysearch.com/problems/Number-of-K-Divisible-Sublists) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1018 | [Number of K Length Sublists with Average at Least Target](https://binarysearch.com/problems/Number-of-K-Length-Sublists-with-Average-at-Least-Target) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1018 | [Number of K Length Sublists with Average at Least Target](https://binarysearch.com/problems/Number-of-K-Length-Sublists-with-Average-at-Least-Target) | :orange_circle: | [py](solutions/Number-of-K-Length-Sublists-with-Average-at-Least-Target.py) | [](notes)
 [](check) | 1019 | [Partition List to Pairs that Are Divisible by K](https://binarysearch.com/problems/Partition-List-to-Pairs-that-Are-Divisible-by-K) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1020 | [Minimum Number of Operations to Make Lists Increasing](https://binarysearch.com/problems/Minimum-Number-of-Operations-to-Make-Lists-Increasing) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1021 | [Costly Flight of Stairs](https://binarysearch.com/problems/Costly-Flight-of-Stairs) | :orange_circle: | [](solution) | [](notes)
