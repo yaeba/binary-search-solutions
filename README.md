@@ -379,7 +379,7 @@ python update_readme.py
 :white_check_mark: | 529 | [Shortest String](https://binarysearch.com/problems/Shortest-String) | :green_circle: | [cpp](solutions/Shortest-String.cpp) | [](notes)
 [](check) | 530 | [Odd Palindrome](https://binarysearch.com/problems/Odd-Palindrome) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 533 | [Line of People](https://binarysearch.com/problems/Line-of-People) | :green_circle: | [cpp](solutions/Line-of-People.cpp) | [](notes)
-[](check) | 536 | [K Unique String](https://binarysearch.com/problems/K-Unique-String) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 536 | [K Unique String](https://binarysearch.com/problems/K-Unique-String) | :orange_circle: | [py](solutions/K-Unique-String.py) | [](notes)
 [](check) | 537 | [Trailing Zeros](https://binarysearch.com/problems/Trailing-Zeros) | :red_circle: | [](solution) | [](notes)
 [](check) | 538 | [Bunnyhopping](https://binarysearch.com/problems/Bunnyhopping) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 539 | [Sum of First N Odd Integers](https://binarysearch.com/problems/Sum-of-First-N-Odd-Integers) | :green_circle: | [cpp](solutions/Sum-of-First-N-Odd-Integers.cpp) | [](notes)
