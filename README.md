@@ -173,7 +173,7 @@ python update_readme.py
 :white_check_mark: | 240 | [Merging K Sorted Lists](https://binarysearch.com/problems/Merging-K-Sorted-Lists) | :orange_circle: | [java](solutions/Merging-K-Sorted-Lists.java) | [](notes)
 :white_check_mark: | 241 | [Column Sort](https://binarysearch.com/problems/Column-Sort) | :green_circle: | [py](solutions/Column-Sort.py) | [](notes)
 [](check) | 242 | [Diagonal Sort](https://binarysearch.com/problems/Diagonal-Sort) | :orange_circle: | [](solution) | [](notes)
-[](check) | 244 | [Largest Sublist Sum](https://binarysearch.com/problems/Largest-Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 244 | [Largest Sublist Sum](https://binarysearch.com/problems/Largest-Sublist-Sum) | :orange_circle: | [cpp](solutions/Largest-Sublist-Sum.cpp) | [](notes)
 [](check) | 245 | [Matrix Search](https://binarysearch.com/problems/Matrix-Search) | :orange_circle: | [](solution) | [](notes)
 [](check) | 248 | [Foo Bar Qaz Qux](https://binarysearch.com/problems/Foo-Bar-Qaz-Qux) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 249 | [Palindromic Anagram](https://binarysearch.com/problems/Palindromic-Anagram) | :orange_circle: | [py](solutions/Palindromic-Anagram.py) | [](notes)
