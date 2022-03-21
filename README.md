@@ -743,7 +743,7 @@ python update_readme.py
 [](check) | 1159 | [Least Recently Used Cache](https://binarysearch.com/problems/Least-Recently-Used-Cache) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1160 | [Least Frequently Used Cache](https://binarysearch.com/problems/Least-Frequently-Used-Cache) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1161 | [Minimum Stack](https://binarysearch.com/problems/Minimum-Stack) | :green_circle: | [cpp](solutions/Minimum-Stack.cpp) | [](notes)
-[](check) | 1162 | [Zipped Iterator](https://binarysearch.com/problems/Zipped-Iterator) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1162 | [Zipped Iterator](https://binarysearch.com/problems/Zipped-Iterator) | :orange_circle: | [cpp](solutions/Zipped-Iterator.cpp) | [](notes)
 [](check) | 1163 | [Rolling Median](https://binarysearch.com/problems/Rolling-Median) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1164 | [Binary Search Tree Iterator](https://binarysearch.com/problems/Binary-Search-Tree-Iterator) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Iterator.cpp) | [](notes)
 [](check) | 1166 | [Maximum Stack](https://binarysearch.com/problems/Maximum-Stack) | :red_circle: | [](solution) | [](notes)
