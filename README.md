@@ -83,7 +83,7 @@ python update_readme.py
 :white_check_mark: | 124 | [Sum of the Deepest Nodes](https://binarysearch.com/problems/Sum-of-the-Deepest-Nodes) | :orange_circle: | [cpp](solutions/Sum-of-the-Deepest-Nodes.cpp) | [](notes)
 :white_check_mark: | 125 | [Twin Trees](https://binarysearch.com/problems/Twin-Trees) | :orange_circle: | [cpp](solutions/Twin-Trees.cpp) | [](notes)
 [](check) | 127 | [Set Bits](https://binarysearch.com/problems/Set-Bits) | :orange_circle: | [](solution) | [](notes)
-[](check) | 129 | [Longest Anagram Subsequence](https://binarysearch.com/problems/Longest-Anagram-Subsequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 129 | [Longest Anagram Subsequence](https://binarysearch.com/problems/Longest-Anagram-Subsequence) | :orange_circle: | [cpp](solutions/Longest-Anagram-Subsequence.cpp), [py](solutions/Longest-Anagram-Subsequence.py) | [](notes)
 :white_check_mark: | 130 | [Binary Search Tree Validation](https://binarysearch.com/problems/Binary-Search-Tree-Validation) | :orange_circle: | [cpp](solutions/Binary-Search-Tree-Validation.cpp) | [](notes)
 :white_check_mark: | 131 | [Level Order Traversal](https://binarysearch.com/problems/Level-Order-Traversal) | :orange_circle: | [cpp](solutions/Level-Order-Traversal.cpp) | [](notes)
 :white_check_mark: | 132 | [Kth Smallest in a Binary Search Tree](https://binarysearch.com/problems/Kth-Smallest-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Kth-Smallest-in-a-Binary-Search-Tree.cpp) | [](notes)
