@@ -363,7 +363,7 @@ python update_readme.py
 :white_check_mark: | 506 | [One Integer](https://binarysearch.com/problems/One-Integer) | :orange_circle: | [py](solutions/One-Integer.py) | [](notes)
 [](check) | 507 | [Largest Square Submatrix](https://binarysearch.com/problems/Largest-Square-Submatrix) | :red_circle: | [](solution) | [](notes)
 [](check) | 509 | [Points on a Line](https://binarysearch.com/problems/Points-on-a-Line) | :red_circle: | [](solution) | [](notes)
-[](check) | 510 | [Contiguous Intervals](https://binarysearch.com/problems/Contiguous-Intervals) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 510 | [Contiguous Intervals](https://binarysearch.com/problems/Contiguous-Intervals) | :orange_circle: | [py](solutions/Contiguous-Intervals.py) | [](notes)
 [](check) | 511 | [Ways to Sum Consecutive Numbers to N](https://binarysearch.com/problems/Ways-to-Sum-Consecutive-Numbers-to-N) | :orange_circle: | [](solution) | [](notes)
 [](check) | 513 | [Count Submatrices That Sum Target](https://binarysearch.com/problems/Count-Submatrices-That-Sum-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 514 | [Linked List Partitioning](https://binarysearch.com/problems/Linked-List-Partitioning) | :orange_circle: | [](solution) | [](notes)
