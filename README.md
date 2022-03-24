@@ -960,7 +960,7 @@ python update_readme.py
 :white_check_mark: | 1434 | [Replace Linked List on Index](https://binarysearch.com/problems/Replace-Linked-List-on-Index) | :orange_circle: | [cpp](solutions/Replace-Linked-List-on-Index.cpp) | [](notes)
 [](check) | 1435 | [Middle Operable Deque](https://binarysearch.com/problems/Middle-Operable-Deque) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1436 | [Sort List by Hamming Weight](https://binarysearch.com/problems/Sort-List-by-Hamming-Weight) | :green_circle: | [py](solutions/Sort-List-by-Hamming-Weight.py) | [](notes)
-[](check) | 1437 | [Circular Queue](https://binarysearch.com/problems/Circular-Queue) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1437 | [Circular Queue](https://binarysearch.com/problems/Circular-Queue) | :orange_circle: | [cpp](solutions/Circular-Queue.cpp) | [](notes)
 [](check) | 1438 | [Maximum Length of Sublist with Positive Product](https://binarysearch.com/problems/Maximum-Length-of-Sublist-with-Positive-Product) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1439 | [Snapshottable List](https://binarysearch.com/problems/Snapshottable-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1440 | [Number of Sublists with Max in Interval](https://binarysearch.com/problems/Number-of-Sublists-with-Max-in-Interval) | :orange_circle: | [](solution) | [](notes)
