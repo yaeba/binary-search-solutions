@@ -345,7 +345,7 @@ python update_readme.py
 :white_check_mark: | 483 | [Leaves in Same Level](https://binarysearch.com/problems/Leaves-in-Same-Level) | :orange_circle: | [cpp](solutions/Leaves-in-Same-Level.cpp) | [](notes)
 :white_check_mark: | 484 | [123 Number Flip](https://binarysearch.com/problems/123-Number-Flip) | :green_circle: | [cpp](solutions/123-Number-Flip.cpp) | [](notes)
 [](check) | 485 | [Task Schedule](https://binarysearch.com/problems/Task-Schedule) | :orange_circle: | [](solution) | [](notes)
-[](check) | 486 | [Largest and Smallest Difference](https://binarysearch.com/problems/Largest-and-Smallest-Difference) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 486 | [Largest and Smallest Difference](https://binarysearch.com/problems/Largest-and-Smallest-Difference) | :orange_circle: | [py](solutions/Largest-and-Smallest-Difference.py) | [](notes)
 :white_check_mark: | 487 | [Swappable Trees](https://binarysearch.com/problems/Swappable-Trees) | :orange_circle: | [cpp](solutions/Swappable-Trees.cpp) | [](notes)
 [](check) | 488 | [Longest Interval](https://binarysearch.com/problems/Longest-Interval) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 489 | [Minimum Cost Sort](https://binarysearch.com/problems/Minimum-Cost-Sort) | :green_circle: | [py](solutions/Minimum-Cost-Sort.py) | [](notes)
