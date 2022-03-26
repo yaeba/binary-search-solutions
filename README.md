@@ -249,7 +249,7 @@ python update_readme.py
 :white_check_mark: | 341 | [Binary Tree to Linked List](https://binarysearch.com/problems/Binary-Tree-to-Linked-List) | :orange_circle: | [cpp](solutions/Binary-Tree-to-Linked-List.cpp) | [](notes)
 [](check) | 342 | [Justify Text](https://binarysearch.com/problems/Justify-Text) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 344 | [Roomba](https://binarysearch.com/problems/Roomba) | :green_circle: | [py](solutions/Roomba.py) | [](notes)
-[](check) | 345 | [Largest Tree Sum Path](https://binarysearch.com/problems/Largest-Tree-Sum-Path) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 345 | [Largest Tree Sum Path](https://binarysearch.com/problems/Largest-Tree-Sum-Path) | :orange_circle: | [cpp](solutions/Largest-Tree-Sum-Path.cpp) | [](notes)
 :white_check_mark: | 346 | [Ancient Astronaut Theory](https://binarysearch.com/problems/Ancient-Astronaut-Theory) | :green_circle: | [py](solutions/Ancient-Astronaut-Theory.py) | [](notes)
 [](check) | 347 | [Spiky Plants](https://binarysearch.com/problems/Spiky-Plants) | :red_circle: | [](solution) | [](notes)
 [](check) | 348 | [Binary Tree Width](https://binarysearch.com/problems/Binary-Tree-Width) | :orange_circle: | [](solution) | [](notes)
