@@ -636,7 +636,7 @@ python update_readme.py
 :white_check_mark: | 975 | [Linked List Jumps](https://binarysearch.com/problems/Linked-List-Jumps) | :green_circle: | [cpp](solutions/Linked-List-Jumps.cpp) | [](notes)
 [](check) | 976 | [Separate Predators](https://binarysearch.com/problems/Separate-Predators) | :orange_circle: | [](solution) | [](notes)
 [](check) | 977 | [Minimum Adjacent Elements](https://binarysearch.com/problems/Minimum-Adjacent-Elements) | :red_circle: | [](solution) | [](notes)
-[](check) | 980 | [Unlock Rooms](https://binarysearch.com/problems/Unlock-Rooms) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 980 | [Unlock Rooms](https://binarysearch.com/problems/Unlock-Rooms) | :orange_circle: | [py](solutions/Unlock-Rooms.py) | [](notes)
 [](check) | 981 | [Binary Search Tree Typo](https://binarysearch.com/problems/Binary-Search-Tree-Typo) | :red_circle: | [](solution) | [](notes)
 [](check) | 982 | [Matrix Nearest Zero](https://binarysearch.com/problems/Matrix-Nearest-Zero) | :orange_circle: | [](solution) | [](notes)
 [](check) | 984 | [Minimum Number of Transfers to Settle Debts](https://binarysearch.com/problems/Minimum-Number-of-Transfers-to-Settle-Debts) | :red_circle: | [](solution) | [](notes)
