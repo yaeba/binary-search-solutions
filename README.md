@@ -862,7 +862,7 @@ python update_readme.py
 [](check) | 1330 | [Lexicographically Smallest Leaf to Root Path](https://binarysearch.com/problems/Lexicographically-Smallest-Leaf-to-Root-Path) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1331 | [Enclosed Islands](https://binarysearch.com/problems/Enclosed-Islands) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1332 | [Tree Detection](https://binarysearch.com/problems/Tree-Detection) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1333 | [Split Tree to Maximize Product](https://binarysearch.com/problems/Split-Tree-to-Maximize-Product) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1333 | [Split Tree to Maximize Product](https://binarysearch.com/problems/Split-Tree-to-Maximize-Product) | :orange_circle: | [cpp](solutions/Split-Tree-to-Maximize-Product.cpp) | [](notes)
 [](check) | 1334 | [Minimum Updates to Make Bitwise OR Equal to Target](https://binarysearch.com/problems/Minimum-Updates-to-Make-Bitwise-OR-Equal-to-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1335 | [Find a Linked List in a Binary Tree](https://binarysearch.com/problems/Find-a-Linked-List-in-a-Binary-Tree) | :red_circle: | [](solution) | [](notes)
 [](check) | 1336 | [Bitwise AND of Range of Numbers](https://binarysearch.com/problems/Bitwise-AND-of-Range-of-Numbers) | :orange_circle: | [](solution) | [](notes)
