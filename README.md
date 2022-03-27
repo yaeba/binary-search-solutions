@@ -814,7 +814,7 @@ python update_readme.py
 [](check) | 1266 | [Shortest Sublist to Remove to Make Sorted List](https://binarysearch.com/problems/Shortest-Sublist-to-Remove-to-Make-Sorted-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1267 | [Number of Decrements to Reach Zero](https://binarysearch.com/problems/Number-of-Decrements-to-Reach-Zero) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1268 | [Almost Same Strings](https://binarysearch.com/problems/Almost-Same-Strings) | :orange_circle: | [py](solutions/Almost-Same-Strings.py) | [](notes)
-[](check) | 1269 | [Remove Duplicates Occurring More Than Twice](https://binarysearch.com/problems/Remove-Duplicates-Occurring-More-Than-Twice) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1269 | [Remove Duplicates Occurring More Than Twice](https://binarysearch.com/problems/Remove-Duplicates-Occurring-More-Than-Twice) | :orange_circle: | [cpp](solutions/Remove-Duplicates-Occurring-More-Than-Twice.cpp) | [](notes)
 :white_check_mark: | 1270 | [Sum of Two Numbers with Sorted List](https://binarysearch.com/problems/Sum-of-Two-Numbers-with-Sorted-List) | :green_circle: | [cpp](solutions/Sum-of-Two-Numbers-with-Sorted-List.cpp) | [](notes)
 :white_check_mark: | 1271 | [Quadratic Application](https://binarysearch.com/problems/Quadratic-Application) | :orange_circle: | [py](solutions/Quadratic-Application.py) | [](notes)
 [](check) | 1272 | [Circular Cyclic Loop](https://binarysearch.com/problems/Circular-Cyclic-Loop) | :orange_circle: | [](solution) | [](notes)
