@@ -355,7 +355,7 @@ python update_readme.py
 :white_check_mark: | 495 | [Rectangular Overlap](https://binarysearch.com/problems/Rectangular-Overlap) | :green_circle: | [py](solutions/Rectangular-Overlap.py) | [](notes)
 [](check) | 496 | [Longest Even Sum Path](https://binarysearch.com/problems/Longest-Even-Sum-Path) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 498 | [Robinhood](https://binarysearch.com/problems/Robinhood) | :green_circle: | [java](solutions/Robinhood.java) | [](notes)
-[](check) | 499 | [Linked List Folding](https://binarysearch.com/problems/Linked-List-Folding) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 499 | [Linked List Folding](https://binarysearch.com/problems/Linked-List-Folding) | :orange_circle: | [cpp](solutions/Linked-List-Folding.cpp) | [](notes)
 [](check) | 500 | [The Meeting Place](https://binarysearch.com/problems/The-Meeting-Place) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 501 | [FizzBuzz](https://binarysearch.com/problems/FizzBuzz) | :green_circle: | [cpp](solutions/FizzBuzz.cpp) | [](notes)
 [](check) | 503 | [Weekly Contest](https://binarysearch.com/problems/Weekly-Contest) | :large_blue_circle: | [](solution) | [](notes)
