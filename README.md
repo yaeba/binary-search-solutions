@@ -200,7 +200,7 @@ python update_readme.py
 :white_check_mark: | 279 | [Interval Overlaps](https://binarysearch.com/problems/Interval-Overlaps) | :orange_circle: | [py](solutions/Interval-Overlaps.py) | [](notes)
 [](check) | 280 | [Candy Race](https://binarysearch.com/problems/Candy-Race) | :red_circle: | [](solution) | [](notes)
 [](check) | 281 | [Median of Two Sorted Lists](https://binarysearch.com/problems/Median-of-Two-Sorted-Lists) | :red_circle: | [](solution) | [](notes)
-[](check) | 282 | [Condo Developers](https://binarysearch.com/problems/Condo-Developers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 282 | [Condo Developers](https://binarysearch.com/problems/Condo-Developers) | :orange_circle: | [py](solutions/Condo-Developers.py) | [](notes)
 [](check) | 283 | [Ascending Cards](https://binarysearch.com/problems/Ascending-Cards) | :orange_circle: | [](solution) | [](notes)
 [](check) | 284 | [Flight Itinerary Sequel](https://binarysearch.com/problems/Flight-Itinerary-Sequel) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 285 | [Odd Number of Digits](https://binarysearch.com/problems/Odd-Number-of-Digits) | :green_circle: | [py](solutions/Odd-Number-of-Digits.py) | [](notes)
