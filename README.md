@@ -347,7 +347,7 @@ python update_readme.py
 [](check) | 485 | [Task Schedule](https://binarysearch.com/problems/Task-Schedule) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 486 | [Largest and Smallest Difference](https://binarysearch.com/problems/Largest-and-Smallest-Difference) | :orange_circle: | [py](solutions/Largest-and-Smallest-Difference.py) | [](notes)
 :white_check_mark: | 487 | [Swappable Trees](https://binarysearch.com/problems/Swappable-Trees) | :orange_circle: | [cpp](solutions/Swappable-Trees.cpp) | [](notes)
-[](check) | 488 | [Longest Interval](https://binarysearch.com/problems/Longest-Interval) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 488 | [Longest Interval](https://binarysearch.com/problems/Longest-Interval) | :orange_circle: | [py](solutions/Longest-Interval.py) | LineSweep
 :white_check_mark: | 489 | [Minimum Cost Sort](https://binarysearch.com/problems/Minimum-Cost-Sort) | :green_circle: | [py](solutions/Minimum-Cost-Sort.py) | [](notes)
 :white_check_mark: | 491 | [Leaf Equivalent Trees](https://binarysearch.com/problems/Leaf-Equivalent-Trees) | :orange_circle: | [py](solutions/Leaf-Equivalent-Trees.py) | [](notes)
 [](check) | 492 | [Max Character Distinct Words](https://binarysearch.com/problems/Max-Character-Distinct-Words) | :orange_circle: | [](solution) | [](notes)
