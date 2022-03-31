@@ -337,7 +337,7 @@ python update_readme.py
 :white_check_mark: | 473 | [Unique Ab Strings](https://binarysearch.com/problems/Unique-Ab-Strings) | :green_circle: | [cpp](solutions/Unique-Ab-Strings.cpp) | [](notes)
 :white_check_mark: | 474 | [Largest Anagram Group](https://binarysearch.com/problems/Largest-Anagram-Group) | :orange_circle: | [py](solutions/Largest-Anagram-Group.py) | [](notes)
 [](check) | 477 | [Trimmed Palindromes](https://binarysearch.com/problems/Trimmed-Palindromes) | :orange_circle: | [](solution) | [](notes)
-[](check) | 478 | [Interval Duration](https://binarysearch.com/problems/Interval-Duration) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 478 | [Interval Duration](https://binarysearch.com/problems/Interval-Duration) | :orange_circle: | [py](solutions/Interval-Duration.py) | [](notes)
 [](check) | 479 | [Longest Alternating Subsequence](https://binarysearch.com/problems/Longest-Alternating-Subsequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 480 | [Bus Fare](https://binarysearch.com/problems/Bus-Fare) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 481 | [Tree From PreInorder Traversals](https://binarysearch.com/problems/Tree-From-PreInorder-Traversals) | :orange_circle: | [py](solutions/Tree-From-PreInorder-Traversals.py) | [](notes)
