@@ -477,7 +477,7 @@ python update_readme.py
 :white_check_mark: | 665 | [Arithmetic Sequences](https://binarysearch.com/problems/Arithmetic-Sequences) | :orange_circle: | [py](solutions/Arithmetic-Sequences.py) | [](notes)
 [](check) | 666 | [Arithmetic Subsequences](https://binarysearch.com/problems/Arithmetic-Subsequences) | :orange_circle: | [](solution) | [](notes)
 [](check) | 667 | [List Consecutive Split](https://binarysearch.com/problems/List-Consecutive-Split) | :orange_circle: | [](solution) | [](notes)
-[](check) | 668 | [Rod Cutting](https://binarysearch.com/problems/Rod-Cutting) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 668 | [Rod Cutting](https://binarysearch.com/problems/Rod-Cutting) | :orange_circle: | [py](solutions/Rod-Cutting.py) | [](notes)
 :white_check_mark: | 669 | [Count of Sublists with Same First and Last Values](https://binarysearch.com/problems/Count-of-Sublists-with-Same-First-and-Last-Values) | :orange_circle: | [cpp](solutions/Count-of-Sublists-with-Same-First-and-Last-Values.cpp) | [](notes)
 :white_check_mark: | 670 | [Lexicographic Swap](https://binarysearch.com/problems/Lexicographic-Swap) | :green_circle: | [py](solutions/Lexicographic-Swap.py) | [](notes)
 [](check) | 671 | [Calculator](https://binarysearch.com/problems/Calculator) | :red_circle: | [](solution) | [](notes)
