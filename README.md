@@ -717,7 +717,7 @@ python update_readme.py
 [](check) | 1108 | [Sum of Four Numbers Less Than Target](https://binarysearch.com/problems/Sum-of-Four-Numbers-Less-Than-Target) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1109 | [Lowest Sum of Pair Larger than Target](https://binarysearch.com/problems/Lowest-Sum-of-Pair-Larger-than-Target) | :orange_circle: | [cpp](solutions/Lowest-Sum-of-Pair-Larger-than-Target.cpp) | [](notes)
 [](check) | 1111 | [Smallest Pair Sum with Distance Constraint](https://binarysearch.com/problems/Smallest-Pair-Sum-with-Distance-Constraint) | :green_circle: | [](solution) | [](notes)
-[](check) | 1113 | [Delete Repeated Characters with Costs](https://binarysearch.com/problems/Delete-Repeated-Characters-with-Costs) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1113 | [Delete Repeated Characters with Costs](https://binarysearch.com/problems/Delete-Repeated-Characters-with-Costs) | :orange_circle: | [py](solutions/Delete-Repeated-Characters-with-Costs.py) | [](notes)
 [](check) | 1118 | [Minimum Time to Finish K Tasks](https://binarysearch.com/problems/Minimum-Time-to-Finish-K-Tasks) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1119 | [Maximum XOR Queries](https://binarysearch.com/problems/Maximum-XOR-Queries) | :red_circle: | [](solution) | [](notes)
 [](check) | 1120 | [Pair Matches Larger Than Target](https://binarysearch.com/problems/Pair-Matches-Larger-Than-Target) | :orange_circle: | [](solution) | [](notes)
