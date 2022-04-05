@@ -922,7 +922,7 @@ python update_readme.py
 [](check) | 1393 | [Vertical Word Arrangement](https://binarysearch.com/problems/Vertical-Word-Arrangement) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1394 | [Remove Half of the List](https://binarysearch.com/problems/Remove-Half-of-the-List) | :orange_circle: | [py](solutions/Remove-Half-of-the-List.py) | [](notes)
 [](check) | 1395 | [Minimum Starting Nodes to Visit Graph](https://binarysearch.com/problems/Minimum-Starting-Nodes-to-Visit-Graph) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1396 | [Minimum Dropping Path Sum](https://binarysearch.com/problems/Minimum-Dropping-Path-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1396 | [Minimum Dropping Path Sum](https://binarysearch.com/problems/Minimum-Dropping-Path-Sum) | :orange_circle: | [cpp](solutions/Minimum-Dropping-Path-Sum.cpp) | [](notes)
 :white_check_mark: | 1397 | [Minimum Dropping Path Sum With Column Distance Constraint](https://binarysearch.com/problems/Minimum-Dropping-Path-Sum-With-Column-Distance-Constraint) | :orange_circle: | [cpp](solutions/Minimum-Dropping-Path-Sum-With-Column-Distance-Constraint.cpp) | [](notes)
 :white_check_mark: | 1398 | [Largest Elements in Their Row and Column](https://binarysearch.com/problems/Largest-Elements-in-Their-Row-and-Column) | :green_circle: | [py](solutions/Largest-Elements-in-Their-Row-and-Column.py) | [](notes)
 [](check) | 1399 | [Permutations to Generate Binary Search Tree](https://binarysearch.com/problems/Permutations-to-Generate-Binary-Search-Tree) | :red_circle: | [](solution) | [](notes)
