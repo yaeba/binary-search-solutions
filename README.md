@@ -99,7 +99,7 @@ python update_readme.py
 :white_check_mark: | 143 | [Central Linked List](https://binarysearch.com/problems/Central-Linked-List) | :orange_circle: | [cpp](solutions/Central-Linked-List.cpp) | [](notes)
 :white_check_mark: | 145 | [Largest Root to Leaf Sum](https://binarysearch.com/problems/Largest-Root-to-Leaf-Sum) | :orange_circle: | [cpp](solutions/Largest-Root-to-Leaf-Sum.cpp) | [](notes)
 :white_check_mark: | 146 | [Most Frequent Subtree Sum](https://binarysearch.com/problems/Most-Frequent-Subtree-Sum) | :orange_circle: | [py](solutions/Most-Frequent-Subtree-Sum.py) | [](notes)
-[](check) | 147 | [Spiral Matrix](https://binarysearch.com/problems/Spiral-Matrix) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 147 | [Spiral Matrix](https://binarysearch.com/problems/Spiral-Matrix) | :orange_circle: | [cpp](solutions/Spiral-Matrix.cpp) | [](notes)
 :white_check_mark: | 148 | [Sum of the Digits](https://binarysearch.com/problems/Sum-of-the-Digits) | :green_circle: | [cpp](solutions/Sum-of-the-Digits.cpp) | [](notes)
 [](check) | 149 | [Break String Into Words](https://binarysearch.com/problems/Break-String-Into-Words) | :red_circle: | [](solution) | [](notes)
 [](check) | 150 | [Connected Cities](https://binarysearch.com/problems/Connected-Cities) | :orange_circle: | [](solution) | [](notes)
