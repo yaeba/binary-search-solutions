@@ -721,7 +721,7 @@ python update_readme.py
 [](check) | 1118 | [Minimum Time to Finish K Tasks](https://binarysearch.com/problems/Minimum-Time-to-Finish-K-Tasks) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1119 | [Maximum XOR Queries](https://binarysearch.com/problems/Maximum-XOR-Queries) | :red_circle: | [](solution) | [](notes)
 [](check) | 1120 | [Pair Matches Larger Than Target](https://binarysearch.com/problems/Pair-Matches-Larger-Than-Target) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1121 | [Smallest Intersecting Element](https://binarysearch.com/problems/Smallest-Intersecting-Element) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1121 | [Smallest Intersecting Element](https://binarysearch.com/problems/Smallest-Intersecting-Element) | :orange_circle: | [cpp](solutions/Smallest-Intersecting-Element.cpp), [py](solutions/Smallest-Intersecting-Element.py) | [](notes)
 [](check) | 1122 | [Removing Palindromic Sublists](https://binarysearch.com/problems/Removing-Palindromic-Sublists) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1123 | [Largest Sum After K Negations](https://binarysearch.com/problems/Largest-Sum-After-K-Negations) | :green_circle: | [cpp](solutions/Largest-Sum-After-K-Negations.cpp) | [](notes)
 [](check) | 1124 | [Next Smaller Permutation](https://binarysearch.com/problems/Next-Smaller-Permutation) | :orange_circle: | [](solution) | [](notes)
