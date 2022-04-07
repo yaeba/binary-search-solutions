@@ -368,7 +368,7 @@ python update_readme.py
 [](check) | 513 | [Count Submatrices That Sum Target](https://binarysearch.com/problems/Count-Submatrices-That-Sum-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 514 | [Linked List Partitioning](https://binarysearch.com/problems/Linked-List-Partitioning) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 517 | [Number of Sublists With Sum of Target](https://binarysearch.com/problems/Number-of-Sublists-With-Sum-of-Target) | :orange_circle: | [py](solutions/Number-of-Sublists-With-Sum-of-Target.py) | [](notes)
-[](check) | 518 | [Steady Speed](https://binarysearch.com/problems/Steady-Speed) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 518 | [Steady Speed](https://binarysearch.com/problems/Steady-Speed) | :orange_circle: | [py](solutions/Steady-Speed.py) | [](notes)
 [](check) | 519 | [Next Binary Permutation](https://binarysearch.com/problems/Next-Binary-Permutation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 520 | [Dominos](https://binarysearch.com/problems/Dominos) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 521 | [Range Update](https://binarysearch.com/problems/Range-Update) | :orange_circle: | [py](solutions/Range-Update.py) | [](notes)
