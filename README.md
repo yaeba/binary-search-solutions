@@ -914,7 +914,7 @@ python update_readme.py
 :white_check_mark: | 1385 | [Underground Tunnel](https://binarysearch.com/problems/Underground-Tunnel) | :orange_circle: | [py](solutions/Underground-Tunnel.py) | [](notes)
 [](check) | 1386 | [Ancestor Queries](https://binarysearch.com/problems/Ancestor-Queries) | :red_circle: | [](solution) | [](notes)
 [](check) | 1387 | [XOR Range Queries](https://binarysearch.com/problems/XOR-Range-Queries) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1388 | [Number of Sublists With Small Left Value](https://binarysearch.com/problems/Number-of-Sublists-With-Small-Left-Value) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1388 | [Number of Sublists With Small Left Value](https://binarysearch.com/problems/Number-of-Sublists-With-Small-Left-Value) | :red_circle: | [py](solutions/Number-of-Sublists-With-Small-Left-Value.py) | [](notes)
 [](check) | 1389 | [Largest Binary Search Subtree in Value](https://binarysearch.com/problems/Largest-Binary-Search-Subtree-in-Value) | :red_circle: | [](solution) | [](notes)
 [](check) | 1390 | [Contiguously Increasing Numbers](https://binarysearch.com/problems/Contiguously-Increasing-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1391 | [Make Target List with Increment and Double Operations](https://binarysearch.com/problems/Make-Target-List-with-Increment-and-Double-Operations) | :orange_circle: | [](solution) | [](notes)
