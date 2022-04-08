@@ -103,7 +103,7 @@ python update_readme.py
 :white_check_mark: | 148 | [Sum of the Digits](https://binarysearch.com/problems/Sum-of-the-Digits) | :green_circle: | [cpp](solutions/Sum-of-the-Digits.cpp) | [](notes)
 [](check) | 149 | [Break String Into Words](https://binarysearch.com/problems/Break-String-Into-Words) | :red_circle: | [](solution) | [](notes)
 [](check) | 150 | [Connected Cities](https://binarysearch.com/problems/Connected-Cities) | :orange_circle: | [](solution) | [](notes)
-[](check) | 151 | [Sort by Frequency and Value](https://binarysearch.com/problems/Sort-by-Frequency-and-Value) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 151 | [Sort by Frequency and Value](https://binarysearch.com/problems/Sort-by-Frequency-and-Value) | :orange_circle: | [py](solutions/Sort-by-Frequency-and-Value.py) | [](notes)
 :white_check_mark: | 152 | [Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf) | :orange_circle: | [cpp](solutions/Longest-Tree-Sum-Path-From-Root-to-Leaf.cpp) | [](notes)
 :white_check_mark: | 154 | [Rain Catcher](https://binarysearch.com/problems/Rain-Catcher) | :orange_circle: | [py](solutions/Rain-Catcher.py) | [](notes)
 :white_check_mark: | 155 | [Inorder Traversal](https://binarysearch.com/problems/Inorder-Traversal) | :orange_circle: | [py](solutions/Inorder-Traversal.py) | [](notes)
