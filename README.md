@@ -779,7 +779,7 @@ python update_readme.py
 :white_check_mark: | 1201 | [Shortest Sublist With Max Frequency](https://binarysearch.com/problems/Shortest-Sublist-With-Max-Frequency) | :green_circle: | [py](solutions/Shortest-Sublist-With-Max-Frequency.py) | [](notes)
 [](check) | 1202 | [Binary Search Tree Iterator Sequel](https://binarysearch.com/problems/Binary-Search-Tree-Iterator-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1203 | [Frequency Stack](https://binarysearch.com/problems/Frequency-Stack) | :red_circle: | [](solution) | [](notes)
-[](check) | 1204 | [Split String Into K Palindromes](https://binarysearch.com/problems/Split-String-Into-K-Palindromes) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1204 | [Split String Into K Palindromes](https://binarysearch.com/problems/Split-String-Into-K-Palindromes) | :red_circle: | [py](solutions/Split-String-Into-K-Palindromes.py) | [](notes)
 [](check) | 1205 | [Matrix Rectangular Sums](https://binarysearch.com/problems/Matrix-Rectangular-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1206 | [Number of Islands Online Version](https://binarysearch.com/problems/Number-of-Islands-Online-Version) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1208 | [Closest Distance to Character](https://binarysearch.com/problems/Closest-Distance-to-Character) | :green_circle: | [cpp](solutions/Closest-Distance-to-Character.cpp) | [](notes)
