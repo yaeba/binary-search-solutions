@@ -41,7 +41,7 @@ python update_readme.py
 :white_check_mark: | 50 | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | :orange_circle: | [cpp](solutions/Number-of-Islands.cpp) | [](notes)
 :white_check_mark: | 56 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | :green_circle: | [py](solutions/Generate-Primes.py) | Sieve of Eratosthenes
 :white_check_mark: | 57 | [Unique Occurrences](https://binarysearch.com/problems/Unique-Occurrences) | :orange_circle: | [py](solutions/Unique-Occurrences.py) | [](notes)
-[](check) | 58 | [Longest Palindromic Subsequence](https://binarysearch.com/problems/Longest-Palindromic-Subsequence) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 58 | [Longest Palindromic Subsequence](https://binarysearch.com/problems/Longest-Palindromic-Subsequence) | :red_circle: | [cpp](solutions/Longest-Palindromic-Subsequence.cpp), [py](solutions/Longest-Palindromic-Subsequence.py) | [](notes)
 :white_check_mark: | 59 | [Longest Common Subsequence](https://binarysearch.com/problems/Longest-Common-Subsequence) | :orange_circle: | [cpp](solutions/Longest-Common-Subsequence.cpp) | Dynamic Programming
 :white_check_mark: | 60 | [A Unique String](https://binarysearch.com/problems/A-Unique-String) | :green_circle: | [py](solutions/A-Unique-String.py) | [](notes)
 :white_check_mark: | 62 | [Compress String](https://binarysearch.com/problems/Compress-String) | :green_circle: | [cpp](solutions/Compress-String.cpp) | [](notes)
