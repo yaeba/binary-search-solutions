@@ -499,7 +499,7 @@ python update_readme.py
 [](check) | 697 | [Largest Equivalent Set of Pairs](https://binarysearch.com/problems/Largest-Equivalent-Set-of-Pairs) | :red_circle: | [](solution) | [](notes)
 [](check) | 698 | [Largest K Sublist Sum](https://binarysearch.com/problems/Largest-K-Sublist-Sum) | :orange_circle: | [](solution) | [](notes)
 [](check) | 699 | [Skip Tasks to Minimize Work](https://binarysearch.com/problems/Skip-Tasks-to-Minimize-Work) | :orange_circle: | [](solution) | [](notes)
-[](check) | 700 | [Shortest Common Supersequence](https://binarysearch.com/problems/Shortest-Common-Supersequence) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 700 | [Shortest Common Supersequence](https://binarysearch.com/problems/Shortest-Common-Supersequence) | :red_circle: | [cpp](solutions/Shortest-Common-Supersequence.cpp) | [](notes)
 [](check) | 701 | [Making Change Trequel](https://binarysearch.com/problems/Making-Change-Trequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 702 | [Job Scheduling to Maximize Profit](https://binarysearch.com/problems/Job-Scheduling-to-Maximize-Profit) | :red_circle: | [](solution) | [](notes)
 [](check) | 703 | [Largest Square Matrix with Same Value](https://binarysearch.com/problems/Largest-Square-Matrix-with-Same-Value) | :red_circle: | [](solution) | [](notes)
