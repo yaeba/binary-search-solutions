@@ -48,7 +48,7 @@ python update_readme.py
 :white_check_mark: | 63 | [Rotation of Another String](https://binarysearch.com/problems/Rotation-of-Another-String) | :green_circle: | [cpp](solutions/Rotation-of-Another-String.cpp) | [](notes)
 [](check) | 64 | [One Edit Distance](https://binarysearch.com/problems/One-Edit-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 65 | [First Missing Positive Sequel](https://binarysearch.com/problems/First-Missing-Positive-Sequel) | :orange_circle: | [](solution) | [](notes)
-[](check) | 67 | [Find the Largest Number in a Rotated List](https://binarysearch.com/problems/Find-the-Largest-Number-in-a-Rotated-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 67 | [Find the Largest Number in a Rotated List](https://binarysearch.com/problems/Find-the-Largest-Number-in-a-Rotated-List) | :orange_circle: | [cpp](solutions/Find-the-Largest-Number-in-a-Rotated-List.cpp) | [](notes)
 :white_check_mark: | 69 | [Insertion Index in Sorted List](https://binarysearch.com/problems/Insertion-Index-in-Sorted-List) | :orange_circle: | [java](solutions/Insertion-Index-in-Sorted-List.java) | [](notes)
 :white_check_mark: | 71 | [Packing Boxes](https://binarysearch.com/problems/Packing-Boxes) | :orange_circle: | [cpp](solutions/Packing-Boxes.cpp), [py](solutions/Packing-Boxes.py) | [](notes)
 :white_check_mark: | 72 | [Balanced Brackets Sequel](https://binarysearch.com/problems/Balanced-Brackets-Sequel) | :orange_circle: | [py](solutions/Balanced-Brackets-Sequel.py) | [](notes)
