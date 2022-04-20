@@ -879,7 +879,7 @@ python update_readme.py
 [](check) | 1348 | [Maximize Roster Rating](https://binarysearch.com/problems/Maximize-Roster-Rating) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1350 | [Crush Consecutive Numbers](https://binarysearch.com/problems/Crush-Consecutive-Numbers) | :red_circle: | [](solution) | [](notes)
 [](check) | 1351 | [Next Greater Element of a Linked List](https://binarysearch.com/problems/Next-Greater-Element-of-a-Linked-List) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1352 | [Enlarge BST](https://binarysearch.com/problems/Enlarge-BST) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1352 | [Enlarge BST](https://binarysearch.com/problems/Enlarge-BST) | :orange_circle: | [cpp](solutions/Enlarge-BST.cpp) | [](notes)
 [](check) | 1353 | [Max Sum Partitioning](https://binarysearch.com/problems/Max-Sum-Partitioning) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1354 | [Every Sublist Min Sum](https://binarysearch.com/problems/Every-Sublist-Min-Sum) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1355 | [Count Nodes in Complete Binary Tree](https://binarysearch.com/problems/Count-Nodes-in-Complete-Binary-Tree) | :orange_circle: | [cpp](solutions/Count-Nodes-in-Complete-Binary-Tree.cpp) | [](notes)
