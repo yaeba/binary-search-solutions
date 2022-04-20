@@ -36,7 +36,7 @@ python update_readme.py
 :white_check_mark: | 31 | [Run Length Encoding](https://binarysearch.com/problems/Run-Length-Encoding) | :green_circle: | [cpp](solutions/Run-Length-Encoding.cpp) | [](notes)
 :white_check_mark: | 45 | [Strictly Increasing or Strictly Decreasing](https://binarysearch.com/problems/Strictly-Increasing-or-Strictly-Decreasing) | :green_circle: | [cpp](solutions/Strictly-Increasing-or-Strictly-Decreasing.cpp) | [](notes)
 :white_check_mark: | 46 | [Largest Number By Two Times](https://binarysearch.com/problems/Largest-Number-By-Two-Times) | :green_circle: | [cpp](solutions/Largest-Number-By-Two-Times.cpp) | [](notes)
-[](check) | 47 | [Subsequence Strings](https://binarysearch.com/problems/Subsequence-Strings) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 47 | [Subsequence Strings](https://binarysearch.com/problems/Subsequence-Strings) | :orange_circle: | [cpp](solutions/Subsequence-Strings.cpp) | [](notes)
 [](check) | 49 | [Add Binary Numbers](https://binarysearch.com/problems/Add-Binary-Numbers) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 50 | [Number of Islands](https://binarysearch.com/problems/Number-of-Islands) | :orange_circle: | [cpp](solutions/Number-of-Islands.cpp) | [](notes)
 :white_check_mark: | 56 | [Generate Primes](https://binarysearch.com/problems/Generate-Primes) | :green_circle: | [py](solutions/Generate-Primes.py) | Sieve of Eratosthenes
