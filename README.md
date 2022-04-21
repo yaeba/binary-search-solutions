@@ -416,7 +416,7 @@ python update_readme.py
 [](check) | 582 | [DDoS Protection](https://binarysearch.com/problems/DDoS-Protection) | :red_circle: | [](solution) | [](notes)
 [](check) | 583 | [Multi Knapsack](https://binarysearch.com/problems/Multi-Knapsack) | :red_circle: | [](solution) | [](notes)
 [](check) | 584 | [0 1 Knapsack](https://binarysearch.com/problems/0-1-Knapsack) | :orange_circle: | [](solution) | [](notes)
-[](check) | 585 | [Poly Knapsack](https://binarysearch.com/problems/Poly-Knapsack) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 585 | [Poly Knapsack](https://binarysearch.com/problems/Poly-Knapsack) | :orange_circle: | [cpp](solutions/Poly-Knapsack.cpp), [py](solutions/Poly-Knapsack.py) | [](notes)
 [](check) | 586 | [Shipping and Receiving](https://binarysearch.com/problems/Shipping-and-Receiving) | :orange_circle: | [](solution) | [](notes)
 [](check) | 587 | [Linked List Intersection](https://binarysearch.com/problems/Linked-List-Intersection) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 588 | [Linked List Union](https://binarysearch.com/problems/Linked-List-Union) | :orange_circle: | [cpp](solutions/Linked-List-Union.cpp) | [](notes)
