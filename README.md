@@ -771,7 +771,7 @@ python update_readme.py
 [](check) | 1193 | [K Distinct Sublists](https://binarysearch.com/problems/K-Distinct-Sublists) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1194 | [Arithmetic Sequence Permutation](https://binarysearch.com/problems/Arithmetic-Sequence-Permutation) | :green_circle: | [py](solutions/Arithmetic-Sequence-Permutation.py) | [](notes)
 [](check) | 1195 | [Historical Map](https://binarysearch.com/problems/Historical-Map) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1196 | [Delete Characters to Equalize Strings](https://binarysearch.com/problems/Delete-Characters-to-Equalize-Strings) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1196 | [Delete Characters to Equalize Strings](https://binarysearch.com/problems/Delete-Characters-to-Equalize-Strings) | :orange_circle: | [cpp](solutions/Delete-Characters-to-Equalize-Strings.cpp) | [](notes)
 [](check) | 1197 | [Triple Inversion](https://binarysearch.com/problems/Triple-Inversion) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1198 | [Fixed Point](https://binarysearch.com/problems/Fixed-Point) | :green_circle: | [cpp](solutions/Fixed-Point.cpp) | [](notes)
 [](check) | 1199 | [Playlist Count](https://binarysearch.com/problems/Playlist-Count) | :red_circle: | [](solution) | [](notes)
