@@ -174,7 +174,7 @@ python update_readme.py
 :white_check_mark: | 241 | [Column Sort](https://binarysearch.com/problems/Column-Sort) | :green_circle: | [py](solutions/Column-Sort.py) | [](notes)
 [](check) | 242 | [Diagonal Sort](https://binarysearch.com/problems/Diagonal-Sort) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 244 | [Largest Sublist Sum](https://binarysearch.com/problems/Largest-Sublist-Sum) | :orange_circle: | [cpp](solutions/Largest-Sublist-Sum.cpp) | [](notes)
-[](check) | 245 | [Matrix Search](https://binarysearch.com/problems/Matrix-Search) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 245 | [Matrix Search](https://binarysearch.com/problems/Matrix-Search) | :orange_circle: | [cpp](solutions/Matrix-Search.cpp), [py](solutions/Matrix-Search.py) | [](notes)
 [](check) | 248 | [Foo Bar Qaz Qux](https://binarysearch.com/problems/Foo-Bar-Qaz-Qux) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 249 | [Palindromic Anagram](https://binarysearch.com/problems/Palindromic-Anagram) | :orange_circle: | [py](solutions/Palindromic-Anagram.py) | [](notes)
 [](check) | 250 | [Long Distance](https://binarysearch.com/problems/Long-Distance) | :orange_circle: | [](solution) | [](notes)
