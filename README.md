@@ -1017,7 +1017,7 @@ python update_readme.py
 [](check) | 1501 | [Traverse Coordinates](https://binarysearch.com/problems/Traverse-Coordinates) | :red_circle: | [](solution) | [](notes)
 [](check) | 1502 | [Matrix Relations](https://binarysearch.com/problems/Matrix-Relations) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1503 | [Pair Sums to Power of Two](https://binarysearch.com/problems/Pair-Sums-to-Power-of-Two) | :green_circle: | [cpp](solutions/Pair-Sums-to-Power-of-Two.cpp) | [](notes)
-[](check) | 1504 | [Dropped Sensor Metric](https://binarysearch.com/problems/Dropped-Sensor-Metric) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1504 | [Dropped Sensor Metric](https://binarysearch.com/problems/Dropped-Sensor-Metric) | :orange_circle: | [cpp](solutions/Dropped-Sensor-Metric.cpp) | [](notes)
 [](check) | 1505 | [Drop a Ball Down the Stairs](https://binarysearch.com/problems/Drop-a-Ball-Down-the-Stairs) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1506 | [Shortest Absolute Value Distance](https://binarysearch.com/problems/Shortest-Absolute-Value-Distance) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1507 | [Sustainable Consumption](https://binarysearch.com/problems/Sustainable-Consumption) | :red_circle: | [](solution) | [](notes)
