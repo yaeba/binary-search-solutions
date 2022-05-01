@@ -857,7 +857,7 @@ python update_readme.py
 [](check) | 1321 | [Minimum Removals to Make Mountain List](https://binarysearch.com/problems/Minimum-Removals-to-Make-Mountain-List) | :red_circle: | [](solution) | [](notes)
 [](check) | 1322 | [Lowest Common Ancestor of List of Values](https://binarysearch.com/problems/Lowest-Common-Ancestor-of-List-of-Values) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1327 | [Equalize Even and Odd Index Sums](https://binarysearch.com/problems/Equalize-Even-and-Odd-Index-Sums) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1328 | [Lexicographically Smallest String of Distance K](https://binarysearch.com/problems/Lexicographically-Smallest-String-of-Distance-K) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1328 | [Lexicographically Smallest String of Distance K](https://binarysearch.com/problems/Lexicographically-Smallest-String-of-Distance-K) | :orange_circle: | [py](solutions/Lexicographically-Smallest-String-of-Distance-K.py) | [](notes)
 [](check) | 1329 | [Number of Operations to Decrement Target to Zero](https://binarysearch.com/problems/Number-of-Operations-to-Decrement-Target-to-Zero) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1330 | [Lexicographically Smallest Leaf to Root Path](https://binarysearch.com/problems/Lexicographically-Smallest-Leaf-to-Root-Path) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1331 | [Enclosed Islands](https://binarysearch.com/problems/Enclosed-Islands) | :orange_circle: | [](solution) | [](notes)
