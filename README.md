@@ -808,7 +808,7 @@ python update_readme.py
 [](check) | 1260 | [Ball Moves](https://binarysearch.com/problems/Ball-Moves) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1261 | [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius) | :red_circle: | [](solution) | [](notes)
 [](check) | 1262 | [Lazy Run Length Decoding](https://binarysearch.com/problems/Lazy-Run-Length-Decoding) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1263 | [Cycle Detection in a Matrix](https://binarysearch.com/problems/Cycle-Detection-in-a-Matrix) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1263 | [Cycle Detection in a Matrix](https://binarysearch.com/problems/Cycle-Detection-in-a-Matrix) | :red_circle: | [py](solutions/Cycle-Detection-in-a-Matrix.py) | [](notes)
 :white_check_mark: | 1264 | [Split String with Same Distinct Counts](https://binarysearch.com/problems/Split-String-with-Same-Distinct-Counts) | :orange_circle: | [py](solutions/Split-String-with-Same-Distinct-Counts.py) | [](notes)
 [](check) | 1265 | [Number Stream to Intervals](https://binarysearch.com/problems/Number-Stream-to-Intervals) | :red_circle: | [](solution) | [](notes)
 [](check) | 1266 | [Shortest Sublist to Remove to Make Sorted List](https://binarysearch.com/problems/Shortest-Sublist-to-Remove-to-Make-Sorted-List) | :orange_circle: | [](solution) | [](notes)
