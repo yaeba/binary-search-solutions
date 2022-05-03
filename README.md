@@ -361,7 +361,7 @@ python update_readme.py
 [](check) | 503 | [Weekly Contest](https://binarysearch.com/problems/Weekly-Contest) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 505 | [The Meeting Place Sequel](https://binarysearch.com/problems/The-Meeting-Place-Sequel) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 506 | [One Integer](https://binarysearch.com/problems/One-Integer) | :orange_circle: | [py](solutions/One-Integer.py) | [](notes)
-[](check) | 507 | [Largest Square Submatrix](https://binarysearch.com/problems/Largest-Square-Submatrix) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 507 | [Largest Square Submatrix](https://binarysearch.com/problems/Largest-Square-Submatrix) | :red_circle: | [py](solutions/Largest-Square-Submatrix.py) | [](notes)
 [](check) | 509 | [Points on a Line](https://binarysearch.com/problems/Points-on-a-Line) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 510 | [Contiguous Intervals](https://binarysearch.com/problems/Contiguous-Intervals) | :orange_circle: | [py](solutions/Contiguous-Intervals.py) | [](notes)
 [](check) | 511 | [Ways to Sum Consecutive Numbers to N](https://binarysearch.com/problems/Ways-to-Sum-Consecutive-Numbers-to-N) | :orange_circle: | [](solution) | [](notes)
