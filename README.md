@@ -502,7 +502,7 @@ python update_readme.py
 :white_check_mark: | 700 | [Shortest Common Supersequence](https://binarysearch.com/problems/Shortest-Common-Supersequence) | :red_circle: | [cpp](solutions/Shortest-Common-Supersequence.cpp) | [](notes)
 [](check) | 701 | [Making Change Trequel](https://binarysearch.com/problems/Making-Change-Trequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 702 | [Job Scheduling to Maximize Profit](https://binarysearch.com/problems/Job-Scheduling-to-Maximize-Profit) | :red_circle: | [](solution) | [](notes)
-[](check) | 703 | [Largest Square Matrix with Same Value](https://binarysearch.com/problems/Largest-Square-Matrix-with-Same-Value) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 703 | [Largest Square Matrix with Same Value](https://binarysearch.com/problems/Largest-Square-Matrix-with-Same-Value) | :red_circle: | [py](solutions/Largest-Square-Matrix-with-Same-Value.py) | [](notes)
 [](check) | 706 | [Circular Longest Increasing Subsequence](https://binarysearch.com/problems/Circular-Longest-Increasing-Subsequence) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 707 | [Count Square Submatrices](https://binarysearch.com/problems/Count-Square-Submatrices) | :orange_circle: | [py](solutions/Count-Square-Submatrices.py) | [](notes)
 [](check) | 709 | [Stepping Numbers](https://binarysearch.com/problems/Stepping-Numbers) | :orange_circle: | [](solution) | [](notes)
