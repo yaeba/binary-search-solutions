@@ -504,7 +504,7 @@ python update_readme.py
 [](check) | 702 | [Job Scheduling to Maximize Profit](https://binarysearch.com/problems/Job-Scheduling-to-Maximize-Profit) | :red_circle: | [](solution) | [](notes)
 [](check) | 703 | [Largest Square Matrix with Same Value](https://binarysearch.com/problems/Largest-Square-Matrix-with-Same-Value) | :red_circle: | [](solution) | [](notes)
 [](check) | 706 | [Circular Longest Increasing Subsequence](https://binarysearch.com/problems/Circular-Longest-Increasing-Subsequence) | :red_circle: | [](solution) | [](notes)
-[](check) | 707 | [Count Square Submatrices](https://binarysearch.com/problems/Count-Square-Submatrices) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 707 | [Count Square Submatrices](https://binarysearch.com/problems/Count-Square-Submatrices) | :orange_circle: | [py](solutions/Count-Square-Submatrices.py) | [](notes)
 [](check) | 709 | [Stepping Numbers](https://binarysearch.com/problems/Stepping-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 710 | [K Maximum Non Overlapping Sums](https://binarysearch.com/problems/K-Maximum-Non-Overlapping-Sums) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 714 | [Ugly Number](https://binarysearch.com/problems/Ugly-Number) | :green_circle: | [cpp](solutions/Ugly-Number.cpp) | [](notes)
