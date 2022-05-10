@@ -192,7 +192,7 @@ python update_readme.py
 :white_check_mark: | 266 | [Median Minimization](https://binarysearch.com/problems/Median-Minimization) | :green_circle: | [cpp](solutions/Median-Minimization.cpp) | [](notes)
 :white_check_mark: | 269 | [Left Side View of a Tree](https://binarysearch.com/problems/Left-Side-View-of-a-Tree) | :orange_circle: | [cpp](solutions/Left-Side-View-of-a-Tree.cpp) | [](notes)
 [](check) | 271 | [Reverse Linked List Groups](https://binarysearch.com/problems/Reverse-Linked-List-Groups) | :orange_circle: | [](solution) | [](notes)
-[](check) | 272 | [Stack Sequence](https://binarysearch.com/problems/Stack-Sequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 272 | [Stack Sequence](https://binarysearch.com/problems/Stack-Sequence) | :orange_circle: | [py](solutions/Stack-Sequence.py) | [](notes)
 :white_check_mark: | 273 | [Minimum Bracket Addition](https://binarysearch.com/problems/Minimum-Bracket-Addition) | :green_circle: | [cpp](solutions/Minimum-Bracket-Addition.cpp) | [](notes)
 :white_check_mark: | 275 | [Conway's Game of Life](https://binarysearch.com/problems/Conway's-Game-of-Life) | :orange_circle: | [py](solutions/Conway's-Game-of-Life.py) | [](notes)
 :white_check_mark: | 276 | [Complete Binary Tree](https://binarysearch.com/problems/Complete-Binary-Tree) | :orange_circle: | [cpp](solutions/Complete-Binary-Tree.cpp) | [](notes)
