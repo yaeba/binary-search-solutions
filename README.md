@@ -1036,7 +1036,7 @@ python update_readme.py
 [](check) | 1525 | [Blocked Pipeline](https://binarysearch.com/problems/Blocked-Pipeline) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1526 | [Best Currency Path](https://binarysearch.com/problems/Best-Currency-Path) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1527 | [Insert Into Linked List](https://binarysearch.com/problems/Insert-Into-Linked-List) | :green_circle: | [cpp](solutions/Insert-Into-Linked-List.cpp) | [](notes)
-[](check) | 1528 | [Subtree with Maximum Value](https://binarysearch.com/problems/Subtree-with-Maximum-Value) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1528 | [Subtree with Maximum Value](https://binarysearch.com/problems/Subtree-with-Maximum-Value) | :orange_circle: | [cpp](solutions/Subtree-with-Maximum-Value.cpp) | [](notes)
 [](check) | 1530 | [Longest Matrix Path Length](https://binarysearch.com/problems/Longest-Matrix-Path-Length) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1531 | [Ticket Order](https://binarysearch.com/problems/Ticket-Order) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1532 | [Pair and Triples](https://binarysearch.com/problems/Pair-and-Triples) | :green_circle: | [py](solutions/Pair-and-Triples.py) | [](notes)
