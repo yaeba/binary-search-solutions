@@ -515,7 +515,7 @@ python update_readme.py
 [](check) | 721 | [ABC Subsequences](https://binarysearch.com/problems/ABC-Subsequences) | :orange_circle: | [](solution) | [](notes)
 [](check) | 722 | [K Distinct Window](https://binarysearch.com/problems/K-Distinct-Window) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 723 | [Social Distancing](https://binarysearch.com/problems/Social-Distancing) | :green_circle: | [py](solutions/Social-Distancing.py) | [](notes)
-[](check) | 724 | [Optimal Decrement](https://binarysearch.com/problems/Optimal-Decrement) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 724 | [Optimal Decrement](https://binarysearch.com/problems/Optimal-Decrement) | :orange_circle: | [py](solutions/Optimal-Decrement.py) | [](notes)
 [](check) | 725 | [Particular Paths](https://binarysearch.com/problems/Particular-Paths) | :red_circle: | [](solution) | [](notes)
 [](check) | 726 | [Inverted Inversions](https://binarysearch.com/problems/Inverted-Inversions) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 728 | [Maximum Sum Removing K Numbers From Ends](https://binarysearch.com/problems/Maximum-Sum-Removing-K-Numbers-From-Ends) | :orange_circle: | [](solution) | [](notes)
