@@ -418,7 +418,7 @@ python update_readme.py
 :white_check_mark: | 584 | [0 1 Knapsack](https://binarysearch.com/problems/0-1-Knapsack) | :orange_circle: | [py](solutions/0-1-Knapsack.py) | [](notes)
 :white_check_mark: | 585 | [Poly Knapsack](https://binarysearch.com/problems/Poly-Knapsack) | :orange_circle: | [cpp](solutions/Poly-Knapsack.cpp), [py](solutions/Poly-Knapsack.py) | [](notes)
 [](check) | 586 | [Shipping and Receiving](https://binarysearch.com/problems/Shipping-and-Receiving) | :orange_circle: | [](solution) | [](notes)
-[](check) | 587 | [Linked List Intersection](https://binarysearch.com/problems/Linked-List-Intersection) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 587 | [Linked List Intersection](https://binarysearch.com/problems/Linked-List-Intersection) | :orange_circle: | [cpp](solutions/Linked-List-Intersection.cpp) | [](notes)
 :white_check_mark: | 588 | [Linked List Union](https://binarysearch.com/problems/Linked-List-Union) | :orange_circle: | [cpp](solutions/Linked-List-Union.cpp) | [](notes)
 [](check) | 591 | [Make Palindrome by Adding a Suffix](https://binarysearch.com/problems/Make-Palindrome-by-Adding-a-Suffix) | :red_circle: | [](solution) | [](notes)
 [](check) | 592 | [Make a Palindrome by Inserting Characters](https://binarysearch.com/problems/Make-a-Palindrome-by-Inserting-Characters) | :orange_circle: | [](solution) | [](notes)
