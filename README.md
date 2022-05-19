@@ -158,7 +158,7 @@ python update_readme.py
 :white_check_mark: | 221 | [Flight Itinerary](https://binarysearch.com/problems/Flight-Itinerary) | :orange_circle: | [py](solutions/Flight-Itinerary.py) | [](notes)
 :white_check_mark: | 222 | [Toeplitz Matrix](https://binarysearch.com/problems/Toeplitz-Matrix) | :green_circle: | [cpp](solutions/Toeplitz-Matrix.cpp) | [](notes)
 :white_check_mark: | 223 | [Interleaved Linked List](https://binarysearch.com/problems/Interleaved-Linked-List) | :orange_circle: | [cpp](solutions/Interleaved-Linked-List.cpp) | [](notes)
-[](check) | 224 | [Sort a Linked List](https://binarysearch.com/problems/Sort-a-Linked-List) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 224 | [Sort a Linked List](https://binarysearch.com/problems/Sort-a-Linked-List) | :orange_circle: | [cpp](solutions/Sort-a-Linked-List.cpp), [py](solutions/Sort-a-Linked-List.py) | [](notes)
 [](check) | 225 | [Sort by Permutation](https://binarysearch.com/problems/Sort-by-Permutation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 226 | [String Expansion](https://binarysearch.com/problems/String-Expansion) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 227 | [Unix Path Resolution](https://binarysearch.com/problems/Unix-Path-Resolution) | :green_circle: | [cpp](solutions/Unix-Path-Resolution.cpp) | [](notes)
