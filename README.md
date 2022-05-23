@@ -586,7 +586,7 @@ python update_readme.py
 [](check) | 891 | [Valid State of List](https://binarysearch.com/problems/Valid-State-of-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 893 | [Lossy Run Length Encoding](https://binarysearch.com/problems/Lossy-Run-Length-Encoding) | :orange_circle: | [](solution) | [](notes)
 [](check) | 894 | [Turn Into Non Increasing List](https://binarysearch.com/problems/Turn-Into-Non-Increasing-List) | :red_circle: | [](solution) | [](notes)
-[](check) | 896 | [Palindrome Splitting](https://binarysearch.com/problems/Palindrome-Splitting) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 896 | [Palindrome Splitting](https://binarysearch.com/problems/Palindrome-Splitting) | :orange_circle: | [py](solutions/Palindrome-Splitting.py) | [](notes)
 [](check) | 897 | [ZigZag Path](https://binarysearch.com/problems/ZigZag-Path) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 898 | [Lexicographically Bigger String](https://binarysearch.com/problems/Lexicographically-Bigger-String) | :orange_circle: | [py](solutions/Lexicographically-Bigger-String.py) | [](notes)
 [](check) | 899 | [Fibonacci Subset Sum](https://binarysearch.com/problems/Fibonacci-Subset-Sum) | :orange_circle: | [](solution) | [](notes)
