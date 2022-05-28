@@ -436,7 +436,7 @@ python update_readme.py
 [](check) | 608 | [Anagram Substrings](https://binarysearch.com/problems/Anagram-Substrings) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 609 | [String Addition](https://binarysearch.com/problems/String-Addition) | :green_circle: | [cpp](solutions/String-Addition.cpp) | [](notes)
 :white_check_mark: | 610 | [List Equality with Increments](https://binarysearch.com/problems/List-Equality-with-Increments) | :green_circle: | [cpp](solutions/List-Equality-with-Increments.cpp) | [](notes)
-[](check) | 611 | [Submajority Vote](https://binarysearch.com/problems/Submajority-Vote) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 611 | [Submajority Vote](https://binarysearch.com/problems/Submajority-Vote) | :orange_circle: | [cpp](solutions/Submajority-Vote.cpp) | [](notes)
 [](check) | 614 | [Count Exact Sum](https://binarysearch.com/problems/Count-Exact-Sum) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 616 | [Parse Boolean Expression](https://binarysearch.com/problems/Parse-Boolean-Expression) | :orange_circle: | [py](solutions/Parse-Boolean-Expression.py) | [](notes)
 :white_check_mark: | 618 | [Largest Gap](https://binarysearch.com/problems/Largest-Gap) | :green_circle: | [py](solutions/Largest-Gap.py) | [](notes)
