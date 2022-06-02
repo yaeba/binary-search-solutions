@@ -694,7 +694,7 @@ python update_readme.py
 [](check) | 1068 | [Connect Sticks](https://binarysearch.com/problems/Connect-Sticks) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1069 | [Most Occurring Number After K Increments](https://binarysearch.com/problems/Most-Occurring-Number-After-K-Increments) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1070 | [In Place Move Zeros to End of List](https://binarysearch.com/problems/In-Place-Move-Zeros-to-End-of-List) | :green_circle: | [cpp](solutions/In-Place-Move-Zeros-to-End-of-List.cpp) | [](notes)
-[](check) | 1072 | [Circular Greater Element to the Right](https://binarysearch.com/problems/Circular-Greater-Element-to-the-Right) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1072 | [Circular Greater Element to the Right](https://binarysearch.com/problems/Circular-Greater-Element-to-the-Right) | :orange_circle: | [py](solutions/Circular-Greater-Element-to-the-Right.py) | [](notes)
 [](check) | 1073 | [Kth Permutation Sequence](https://binarysearch.com/problems/Kth-Permutation-Sequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 1074 | [Team Voting](https://binarysearch.com/problems/Team-Voting) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1075 | [Profitable Job Matching](https://binarysearch.com/problems/Profitable-Job-Matching) | :orange_circle: | [](solution) | [](notes)
