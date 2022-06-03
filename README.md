@@ -983,7 +983,7 @@ python update_readme.py
 [](check) | 1458 | [View Over People](https://binarysearch.com/problems/View-Over-People) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1459 | [Kth Largest Pair Product](https://binarysearch.com/problems/Kth-Largest-Pair-Product) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1460 | [ASCII String to Integer](https://binarysearch.com/problems/ASCII-String-to-Integer) | :green_circle: | [py](solutions/ASCII-String-to-Integer.py) | [](notes)
-[](check) | 1461 | [Characters in Each Bracket Depth](https://binarysearch.com/problems/Characters-in-Each-Bracket-Depth) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1461 | [Characters in Each Bracket Depth](https://binarysearch.com/problems/Characters-in-Each-Bracket-Depth) | :orange_circle: | [py](solutions/Characters-in-Each-Bracket-Depth.py) | [](notes)
 [](check) | 1462 | [Longest Consecutive Sublist](https://binarysearch.com/problems/Longest-Consecutive-Sublist) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1463 | [Split Digits to Sum Closest To Target](https://binarysearch.com/problems/Split-Digits-to-Sum-Closest-To-Target) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1464 | [Mutual Followers](https://binarysearch.com/problems/Mutual-Followers) | :green_circle: | [cpp](solutions/Mutual-Followers.cpp) | [](notes)
