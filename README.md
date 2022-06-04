@@ -860,7 +860,7 @@ python update_readme.py
 :white_check_mark: | 1328 | [Lexicographically Smallest String of Distance K](https://binarysearch.com/problems/Lexicographically-Smallest-String-of-Distance-K) | :orange_circle: | [py](solutions/Lexicographically-Smallest-String-of-Distance-K.py) | [](notes)
 [](check) | 1329 | [Number of Operations to Decrement Target to Zero](https://binarysearch.com/problems/Number-of-Operations-to-Decrement-Target-to-Zero) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1330 | [Lexicographically Smallest Leaf to Root Path](https://binarysearch.com/problems/Lexicographically-Smallest-Leaf-to-Root-Path) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1331 | [Enclosed Islands](https://binarysearch.com/problems/Enclosed-Islands) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1331 | [Enclosed Islands](https://binarysearch.com/problems/Enclosed-Islands) | :orange_circle: | [cpp](solutions/Enclosed-Islands.cpp) | [](notes)
 [](check) | 1332 | [Tree Detection](https://binarysearch.com/problems/Tree-Detection) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1333 | [Split Tree to Maximize Product](https://binarysearch.com/problems/Split-Tree-to-Maximize-Product) | :orange_circle: | [cpp](solutions/Split-Tree-to-Maximize-Product.cpp) | [](notes)
 :white_check_mark: | 1334 | [Minimum Updates to Make Bitwise OR Equal to Target](https://binarysearch.com/problems/Minimum-Updates-to-Make-Bitwise-OR-Equal-to-Target) | :orange_circle: | [py](solutions/Minimum-Updates-to-Make-Bitwise-OR-Equal-to-Target.py) | [](notes)
