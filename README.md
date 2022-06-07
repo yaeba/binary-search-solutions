@@ -599,7 +599,7 @@ python update_readme.py
 [](check) | 919 | [Word Concatenation](https://binarysearch.com/problems/Word-Concatenation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 920 | [K Divisible Sublist](https://binarysearch.com/problems/K-Divisible-Sublist) | :orange_circle: | [](solution) | [](notes)
 [](check) | 921 | [List Splitting to Consecutive Subsequences](https://binarysearch.com/problems/List-Splitting-to-Consecutive-Subsequences) | :red_circle: | [](solution) | [](notes)
-[](check) | 925 | [Distinct Islands](https://binarysearch.com/problems/Distinct-Islands) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 925 | [Distinct Islands](https://binarysearch.com/problems/Distinct-Islands) | :red_circle: | [cpp](solutions/Distinct-Islands.cpp) | [](notes)
 [](check) | 926 | [Largest Difference Between Node and a Descendant](https://binarysearch.com/problems/Largest-Difference-Between-Node-and-a-Descendant) | :orange_circle: | [](solution) | [](notes)
 [](check) | 928 | [Hop Cost Sequel](https://binarysearch.com/problems/Hop-Cost-Sequel) | :orange_circle: | [](solution) | [](notes)
 [](check) | 929 | [Tree Sum Count](https://binarysearch.com/problems/Tree-Sum-Count) | :orange_circle: | [](solution) | [](notes)
