@@ -226,7 +226,7 @@ python update_readme.py
 [](check) | 315 | [Maximum Removal Subsequence String](https://binarysearch.com/problems/Maximum-Removal-Subsequence-String) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 316 | [Shortest Sublist to Sort](https://binarysearch.com/problems/Shortest-Sublist-to-Sort) | :green_circle: | [cpp](solutions/Shortest-Sublist-to-Sort.cpp) | [](notes)
 [](check) | 317 | [Collision Detection](https://binarysearch.com/problems/Collision-Detection) | :red_circle: | [](solution) | [](notes)
-[](check) | 318 | [Longest Tree Path](https://binarysearch.com/problems/Longest-Tree-Path) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 318 | [Longest Tree Path](https://binarysearch.com/problems/Longest-Tree-Path) | :orange_circle: | [cpp](solutions/Longest-Tree-Path.cpp) | [](notes)
 [](check) | 319 | [K Partitionable List](https://binarysearch.com/problems/K-Partitionable-List) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 320 | [Phone Number Combinations](https://binarysearch.com/problems/Phone-Number-Combinations) | :orange_circle: | [py](solutions/Phone-Number-Combinations.py) | [](notes)
 :white_check_mark: | 321 | [Task Hare](https://binarysearch.com/problems/Task-Hare) | :green_circle: | [cpp](solutions/Task-Hare.cpp) | [](notes)
