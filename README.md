@@ -871,7 +871,7 @@ python update_readme.py
 [](check) | 1340 | [Crush Numbers](https://binarysearch.com/problems/Crush-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1341 | [Meeting Schedule For Two People](https://binarysearch.com/problems/Meeting-Schedule-For-Two-People) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1342 | [Angry Owner](https://binarysearch.com/problems/Angry-Owner) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1343 | [Eat Bananas in K Hours](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1343 | [Eat Bananas in K Hours](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours) | :orange_circle: | [py](solutions/Eat-Bananas-in-K-Hours.py) | [](notes)
 [](check) | 1344 | [Permute to Make List Larger](https://binarysearch.com/problems/Permute-to-Make-List-Larger) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1345 | [Sum of Two Numbers in BSTs](https://binarysearch.com/problems/Sum-of-Two-Numbers-in-BSTs) | :orange_circle: | [cpp](solutions/Sum-of-Two-Numbers-in-BSTs.cpp) | [](notes)
 :white_check_mark: | 1346 | [Earliest Uniques in a Stream](https://binarysearch.com/problems/Earliest-Uniques-in-a-Stream) | :orange_circle: | [py](solutions/Earliest-Uniques-in-a-Stream.py) | [](notes)
