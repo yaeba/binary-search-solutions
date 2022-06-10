@@ -669,7 +669,7 @@ python update_readme.py
 [](check) | 1027 | [Partition Lists to Make Sorted List](https://binarysearch.com/problems/Partition-Lists-to-Make-Sorted-List) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1028 | [Recursive Parentheses Reversal](https://binarysearch.com/problems/Recursive-Parentheses-Reversal) | :red_circle: | [](solution) | [](notes)
 [](check) | 1029 | [Longest Strictly Increasing Then Decreasing Sublist](https://binarysearch.com/problems/Longest-Strictly-Increasing-Then-Decreasing-Sublist) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1030 | [Create Palindrome After Deleting at Most K Characters](https://binarysearch.com/problems/Create-Palindrome-After-Deleting-at-Most-K-Characters) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1030 | [Create Palindrome After Deleting at Most K Characters](https://binarysearch.com/problems/Create-Palindrome-After-Deleting-at-Most-K-Characters) | :red_circle: | [cpp](solutions/Create-Palindrome-After-Deleting-at-Most-K-Characters.cpp) | [](notes)
 [](check) | 1031 | [Minimum Size of Two Non Overlapping Intervals](https://binarysearch.com/problems/Minimum-Size-of-Two-Non-Overlapping-Intervals) | :green_circle: | [](solution) | [](notes)
 [](check) | 1032 | [Gene Mutation Groups](https://binarysearch.com/problems/Gene-Mutation-Groups) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1033 | [Remove Sublist to Reach Equilibrium](https://binarysearch.com/problems/Remove-Sublist-to-Reach-Equilibrium) | :orange_circle: | [](solution) | [](notes)
