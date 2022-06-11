@@ -620,7 +620,7 @@ python update_readme.py
 :white_check_mark: | 951 | [Max Sum of Two Non Overlapping Lists](https://binarysearch.com/problems/Max-Sum-of-Two-Non-Overlapping-Lists) | :orange_circle: | [cpp](solutions/Max-Sum-of-Two-Non-Overlapping-Lists.cpp) | [](notes)
 [](check) | 952 | [Two Non Overlapping Lists With Target Sums](https://binarysearch.com/problems/Two-Non-Overlapping-Lists-With-Target-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 953 | [Shortest Path by Removing K Walls](https://binarysearch.com/problems/Shortest-Path-by-Removing-K-Walls) | :red_circle: | [](solution) | [](notes)
-[](check) | 954 | [Equal Partitions](https://binarysearch.com/problems/Equal-Partitions) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 954 | [Equal Partitions](https://binarysearch.com/problems/Equal-Partitions) | :orange_circle: | [py](solutions/Equal-Partitions.py) | [](notes)
 :white_check_mark: | 956 | [Largest Sum of 3 Non Overlapping Sublists](https://binarysearch.com/problems/Largest-Sum-of-3-Non-Overlapping-Sublists) | :red_circle: | [py](solutions/Largest-Sum-of-3-Non-Overlapping-Sublists.py) | [](notes)
 :white_check_mark: | 957 | [Sum of Digit Paths in a Tree](https://binarysearch.com/problems/Sum-of-Digit-Paths-in-a-Tree) | :orange_circle: | [cpp](solutions/Sum-of-Digit-Paths-in-a-Tree.cpp) | [](notes)
 [](check) | 958 | [Longest Sublist with Absolute Difference Condition](https://binarysearch.com/problems/Longest-Sublist-with-Absolute-Difference-Condition) | :orange_circle: | [](solution) | [](notes)
