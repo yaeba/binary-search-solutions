@@ -637,7 +637,7 @@ python update_readme.py
 [](check) | 976 | [Separate Predators](https://binarysearch.com/problems/Separate-Predators) | :orange_circle: | [](solution) | [](notes)
 [](check) | 977 | [Minimum Adjacent Elements](https://binarysearch.com/problems/Minimum-Adjacent-Elements) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 980 | [Unlock Rooms](https://binarysearch.com/problems/Unlock-Rooms) | :orange_circle: | [py](solutions/Unlock-Rooms.py) | [](notes)
-[](check) | 981 | [Binary Search Tree Typo](https://binarysearch.com/problems/Binary-Search-Tree-Typo) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 981 | [Binary Search Tree Typo](https://binarysearch.com/problems/Binary-Search-Tree-Typo) | :red_circle: | [py](solutions/Binary-Search-Tree-Typo.py) | [](notes)
 [](check) | 982 | [Matrix Nearest Zero](https://binarysearch.com/problems/Matrix-Nearest-Zero) | :orange_circle: | [](solution) | [](notes)
 [](check) | 984 | [Minimum Number of Transfers to Settle Debts](https://binarysearch.com/problems/Minimum-Number-of-Transfers-to-Settle-Debts) | :red_circle: | [](solution) | [](notes)
 [](check) | 985 | [Largest Island After Land Cell Addition](https://binarysearch.com/problems/Largest-Island-After-Land-Cell-Addition) | :red_circle: | [](solution) | [](notes)
