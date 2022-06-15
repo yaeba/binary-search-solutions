@@ -589,7 +589,7 @@ python update_readme.py
 :white_check_mark: | 896 | [Palindrome Splitting](https://binarysearch.com/problems/Palindrome-Splitting) | :orange_circle: | [py](solutions/Palindrome-Splitting.py) | [](notes)
 [](check) | 897 | [ZigZag Path](https://binarysearch.com/problems/ZigZag-Path) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 898 | [Lexicographically Bigger String](https://binarysearch.com/problems/Lexicographically-Bigger-String) | :orange_circle: | [py](solutions/Lexicographically-Bigger-String.py) | [](notes)
-[](check) | 899 | [Fibonacci Subset Sum](https://binarysearch.com/problems/Fibonacci-Subset-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 899 | [Fibonacci Subset Sum](https://binarysearch.com/problems/Fibonacci-Subset-Sum) | :orange_circle: | [py](solutions/Fibonacci-Subset-Sum.py) | [](notes)
 [](check) | 901 | [Resum to Target List](https://binarysearch.com/problems/Resum-to-Target-List) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 904 | [Making List Values Equal](https://binarysearch.com/problems/Making-List-Values-Equal) | :green_circle: | [cpp](solutions/Making-List-Values-Equal.cpp) | [](notes)
 [](check) | 905 | [Finding Binary Search in a String](https://binarysearch.com/problems/Finding-Binary-Search-in-a-String) | :green_circle: | [](solution) | [](notes)
