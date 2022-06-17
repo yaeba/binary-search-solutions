@@ -143,7 +143,7 @@ python update_readme.py
 [](check) | 202 | [Number of Palindromic Substrings](https://binarysearch.com/problems/Number-of-Palindromic-Substrings) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 203 | [Detect the Only Duplicate in a List](https://binarysearch.com/problems/Detect-the-Only-Duplicate-in-a-List) | :green_circle: | [cpp](solutions/Detect-the-Only-Duplicate-in-a-List.cpp) | [](notes)
 :white_check_mark: | 204 | [Swap Consecutive Index Pairs](https://binarysearch.com/problems/Swap-Consecutive-Index-Pairs) | :green_circle: | [cpp](solutions/Swap-Consecutive-Index-Pairs.cpp) | [](notes)
-[](check) | 205 | [Paint Bucket](https://binarysearch.com/problems/Paint-Bucket) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 205 | [Paint Bucket](https://binarysearch.com/problems/Paint-Bucket) | :orange_circle: | [py](solutions/Paint-Bucket.py) | [](notes)
 [](check) | 206 | [Largest Binary Search Subtree in Nodes](https://binarysearch.com/problems/Largest-Binary-Search-Subtree-in-Nodes) | :red_circle: | [](solution) | [](notes)
 [](check) | 208 | [Longest Consecutive Sequence](https://binarysearch.com/problems/Longest-Consecutive-Sequence) | :orange_circle: | [](solution) | [](notes)
 [](check) | 209 | [Tromino Theory](https://binarysearch.com/problems/Tromino-Theory) | :red_circle: | [](solution) | [](notes)
