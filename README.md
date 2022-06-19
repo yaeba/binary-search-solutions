@@ -987,7 +987,7 @@ python update_readme.py
 [](check) | 1462 | [Longest Consecutive Sublist](https://binarysearch.com/problems/Longest-Consecutive-Sublist) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1463 | [Split Digits to Sum Closest To Target](https://binarysearch.com/problems/Split-Digits-to-Sum-Closest-To-Target) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1464 | [Mutual Followers](https://binarysearch.com/problems/Mutual-Followers) | :green_circle: | [cpp](solutions/Mutual-Followers.cpp) | [](notes)
-[](check) | 1465 | [Virtually Cloneable Stacks](https://binarysearch.com/problems/Virtually-Cloneable-Stacks) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1465 | [Virtually Cloneable Stacks](https://binarysearch.com/problems/Virtually-Cloneable-Stacks) | :orange_circle: | [py](solutions/Virtually-Cloneable-Stacks.py) | [](notes)
 [](check) | 1468 | [Cut Ribbons of Same Length](https://binarysearch.com/problems/Cut-Ribbons-of-Same-Length) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1469 | [Next Permutation From Pool](https://binarysearch.com/problems/Next-Permutation-From-Pool) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1470 | [5 Star Review Percentage](https://binarysearch.com/problems/5-Star-Review-Percentage) | :green_circle: | [cpp](solutions/5-Star-Review-Percentage.cpp) | [](notes)
