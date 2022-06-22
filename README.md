@@ -326,7 +326,7 @@ python update_readme.py
 :white_check_mark: | 456 | [Narcissistic Number](https://binarysearch.com/problems/Narcissistic-Number) | :green_circle: | [cpp](solutions/Narcissistic-Number.cpp) | [](notes)
 :white_check_mark: | 459 | [Maximum Number by Inserting Five](https://binarysearch.com/problems/Maximum-Number-by-Inserting-Five) | :green_circle: | [py](solutions/Maximum-Number-by-Inserting-Five.py) | [](notes)
 [](check) | 460 | [As Before Bs](https://binarysearch.com/problems/As-Before-Bs) | :orange_circle: | [](solution) | [](notes)
-[](check) | 461 | [Equal Piles](https://binarysearch.com/problems/Equal-Piles) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 461 | [Equal Piles](https://binarysearch.com/problems/Equal-Piles) | :orange_circle: | [py](solutions/Equal-Piles.py) | [](notes)
 [](check) | 462 | [Bounce](https://binarysearch.com/problems/Bounce) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 463 | [Run Length Decoding](https://binarysearch.com/problems/Run-Length-Decoding) | :green_circle: | [py](solutions/Run-Length-Decoding.py) | [](notes)
 [](check) | 464 | [Symmetric Blocks](https://binarysearch.com/problems/Symmetric-Blocks) | :orange_circle: | [](solution) | [](notes)
