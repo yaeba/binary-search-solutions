@@ -851,7 +851,7 @@ python update_readme.py
 [](check) | 1314 | [Largest Pair of Points](https://binarysearch.com/problems/Largest-Pair-of-Points) | :green_circle: | [](solution) | [](notes)
 [](check) | 1315 | [Tree Shifting](https://binarysearch.com/problems/Tree-Shifting) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1316 | [Logically Consistent Book](https://binarysearch.com/problems/Logically-Consistent-Book) | :red_circle: | [](solution) | [](notes)
-[](check) | 1318 | [Sum Pairs to Target](https://binarysearch.com/problems/Sum-Pairs-to-Target) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1318 | [Sum Pairs to Target](https://binarysearch.com/problems/Sum-Pairs-to-Target) | :orange_circle: | [cpp](solutions/Sum-Pairs-to-Target.cpp) | [](notes)
 [](check) | 1319 | [Equivalent Folded Sums](https://binarysearch.com/problems/Equivalent-Folded-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1320 | [Minimize Amplitude After Operations](https://binarysearch.com/problems/Minimize-Amplitude-After-Operations) | :red_circle: | [](solution) | [](notes)
 [](check) | 1321 | [Minimum Removals to Make Mountain List](https://binarysearch.com/problems/Minimum-Removals-to-Make-Mountain-List) | :red_circle: | [](solution) | [](notes)
