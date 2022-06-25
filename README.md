@@ -954,7 +954,7 @@ python update_readme.py
 [](check) | 1426 | [Number of Concatenations to Create Subsequence](https://binarysearch.com/problems/Number-of-Concatenations-to-Create-Subsequence) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1427 | [Unobstructed Buildings](https://binarysearch.com/problems/Unobstructed-Buildings) | :green_circle: | [cpp](solutions/Unobstructed-Buildings.cpp) | [](notes)
 [](check) | 1428 | [Number of Substrings with Single Character Difference](https://binarysearch.com/problems/Number-of-Substrings-with-Single-Character-Difference) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1429 | [Distinct Substrings](https://binarysearch.com/problems/Distinct-Substrings) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1429 | [Distinct Substrings](https://binarysearch.com/problems/Distinct-Substrings) | :orange_circle: | [cpp](solutions/Distinct-Substrings.cpp) | [](notes)
 [](check) | 1432 | [Stack of Stacks](https://binarysearch.com/problems/Stack-of-Stacks) | :red_circle: | [](solution) | [](notes)
 [](check) | 1433 | [Continuous Path to Escape Mines](https://binarysearch.com/problems/Continuous-Path-to-Escape-Mines) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1434 | [Replace Linked List on Index](https://binarysearch.com/problems/Replace-Linked-List-on-Index) | :orange_circle: | [cpp](solutions/Replace-Linked-List-on-Index.cpp) | [](notes)
