@@ -421,7 +421,7 @@ python update_readme.py
 :white_check_mark: | 587 | [Linked List Intersection](https://binarysearch.com/problems/Linked-List-Intersection) | :orange_circle: | [cpp](solutions/Linked-List-Intersection.cpp) | [](notes)
 :white_check_mark: | 588 | [Linked List Union](https://binarysearch.com/problems/Linked-List-Union) | :orange_circle: | [cpp](solutions/Linked-List-Union.cpp) | [](notes)
 [](check) | 591 | [Make Palindrome by Adding a Suffix](https://binarysearch.com/problems/Make-Palindrome-by-Adding-a-Suffix) | :red_circle: | [](solution) | [](notes)
-[](check) | 592 | [Make a Palindrome by Inserting Characters](https://binarysearch.com/problems/Make-a-Palindrome-by-Inserting-Characters) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 592 | [Make a Palindrome by Inserting Characters](https://binarysearch.com/problems/Make-a-Palindrome-by-Inserting-Characters) | :orange_circle: | [cpp](solutions/Make-a-Palindrome-by-Inserting-Characters.cpp) | [](notes)
 [](check) | 595 | [Decimal Number](https://binarysearch.com/problems/Decimal-Number) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 596 | [Island Shape Perimeter](https://binarysearch.com/problems/Island-Shape-Perimeter) | :orange_circle: | [py](solutions/Island-Shape-Perimeter.py) | [](notes)
 [](check) | 598 | [Smallest Sublist Sum at Least Target](https://binarysearch.com/problems/Smallest-Sublist-Sum-at-Least-Target) | :red_circle: | [](solution) | [](notes)
