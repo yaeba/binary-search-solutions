@@ -63,7 +63,7 @@ python update_readme.py
 [](check) | 82 | [Bipartite Graph](https://binarysearch.com/problems/Bipartite-Graph) | :orange_circle: | [](solution) | [](notes)
 [](check) | 83 | [Shortest Bridge](https://binarysearch.com/problems/Shortest-Bridge) | :red_circle: | [](solution) | [](notes)
 [](check) | 85 | [Largest K Divisible Subsequence](https://binarysearch.com/problems/Largest-K-Divisible-Subsequence) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 88 | [Sinking Islands](https://binarysearch.com/problems/Sinking-Islands) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 88 | [Sinking Islands](https://binarysearch.com/problems/Sinking-Islands) | :red_circle: | [cpp](solutions/Sinking-Islands.cpp) | [](notes)
 [](check) | 89 | [Farthest Point From Water](https://binarysearch.com/problems/Farthest-Point-From-Water) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 90 | [Longest Increasing Subsequence](https://binarysearch.com/problems/Longest-Increasing-Subsequence) | :orange_circle: | [cpp](solutions/Longest-Increasing-Subsequence.cpp) | [](notes)
 [](check) | 91 | [Split String Into Palindromes](https://binarysearch.com/problems/Split-String-Into-Palindromes) | :red_circle: | [](solution) | [](notes)
