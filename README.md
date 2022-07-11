@@ -118,7 +118,7 @@ python update_readme.py
 :white_check_mark: | 171 | [Max Product of Two Numbers](https://binarysearch.com/problems/Max-Product-of-Two-Numbers) | :green_circle: | [cpp](solutions/Max-Product-of-Two-Numbers.cpp) | [](notes)
 :white_check_mark: | 172 | [Removing Parentheses](https://binarysearch.com/problems/Removing-Parentheses) | :orange_circle: | [cpp](solutions/Removing-Parentheses.cpp) | [](notes)
 :white_check_mark: | 174 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | :green_circle: | [cpp](solutions/Longest-Consecutive-Duplicate-String.cpp) | [](notes)
-[](check) | 175 | [Next Integer Permutation](https://binarysearch.com/problems/Next-Integer-Permutation) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 175 | [Next Integer Permutation](https://binarysearch.com/problems/Next-Integer-Permutation) | :red_circle: | [cpp](solutions/Next-Integer-Permutation.cpp) | [](notes)
 [](check) | 176 | [Unique Subsequences Equal to Target](https://binarysearch.com/problems/Unique-Subsequences-Equal-to-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 177 | [Remove Duplicate Numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers) | :orange_circle: | [](solution) | [](notes)
 [](check) | 178 | [Postfix Notation Evaluation](https://binarysearch.com/problems/Postfix-Notation-Evaluation) | :orange_circle: | [](solution) | [](notes)
