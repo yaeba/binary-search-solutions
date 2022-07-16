@@ -831,7 +831,7 @@ python update_readme.py
 [](check) | 1286 | [CPU Scheduling](https://binarysearch.com/problems/CPU-Scheduling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1287 | [Nearest Bus Stop From a House](https://binarysearch.com/problems/Nearest-Bus-Stop-From-a-House) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1288 | [Unique String Split](https://binarysearch.com/problems/Unique-String-Split) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1291 | [List Partitioning with Inequality Relation](https://binarysearch.com/problems/List-Partitioning-with-Inequality-Relation) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1291 | [List Partitioning with Inequality Relation](https://binarysearch.com/problems/List-Partitioning-with-Inequality-Relation) | :orange_circle: | [py](solutions/List-Partitioning-with-Inequality-Relation.py) | [](notes)
 [](check) | 1292 | [Kth Pair Distance](https://binarysearch.com/problems/Kth-Pair-Distance) | :red_circle: | [](solution) | [](notes)
 [](check) | 1293 | [Longest Repeating Substring](https://binarysearch.com/problems/Longest-Repeating-Substring) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1294 | [Adjacent Square Sums](https://binarysearch.com/problems/Adjacent-Square-Sums) | :red_circle: | [](solution) | [](notes)
