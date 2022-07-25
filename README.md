@@ -392,7 +392,7 @@ python update_readme.py
 :white_check_mark: | 548 | [Consecutively Descending Integers](https://binarysearch.com/problems/Consecutively-Descending-Integers) | :green_circle: | [py](solutions/Consecutively-Descending-Integers.py) | [](notes)
 [](check) | 551 | [Overchoice](https://binarysearch.com/problems/Overchoice) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 552 | [Reflected Binary Code](https://binarysearch.com/problems/Reflected-Binary-Code) | :orange_circle: | [cpp](solutions/Reflected-Binary-Code.cpp) | [](notes)
-[](check) | 555 | [Sum of Four Numbers](https://binarysearch.com/problems/Sum-of-Four-Numbers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 555 | [Sum of Four Numbers](https://binarysearch.com/problems/Sum-of-Four-Numbers) | :orange_circle: | [py](solutions/Sum-of-Four-Numbers.py) | [](notes)
 [](check) | 556 | [String Multiplication](https://binarysearch.com/problems/String-Multiplication) | :orange_circle: | [](solution) | [](notes)
 [](check) | 557 | [K Largest Pairs](https://binarysearch.com/problems/K-Largest-Pairs) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 558 | [N Lexicographic Integers](https://binarysearch.com/problems/N-Lexicographic-Integers) | :orange_circle: | [py](solutions/N-Lexicographic-Integers.py) | [](notes)
