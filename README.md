@@ -140,7 +140,7 @@ python update_readme.py
 [](check) | 199 | [A Maniacal Walk](https://binarysearch.com/problems/A-Maniacal-Walk) | :red_circle: | [](solution) | [](notes)
 [](check) | 200 | [Longest Increasing Path](https://binarysearch.com/problems/Longest-Increasing-Path) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 201 | [Pascal's Triangle](https://binarysearch.com/problems/Pascal's-Triangle) | :green_circle: | [cpp](solutions/Pascal's-Triangle.cpp) | [](notes)
-[](check) | 202 | [Number of Palindromic Substrings](https://binarysearch.com/problems/Number-of-Palindromic-Substrings) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 202 | [Number of Palindromic Substrings](https://binarysearch.com/problems/Number-of-Palindromic-Substrings) | :orange_circle: | [cpp](solutions/Number-of-Palindromic-Substrings.cpp) | [](notes)
 :white_check_mark: | 203 | [Detect the Only Duplicate in a List](https://binarysearch.com/problems/Detect-the-Only-Duplicate-in-a-List) | :green_circle: | [cpp](solutions/Detect-the-Only-Duplicate-in-a-List.cpp) | [](notes)
 :white_check_mark: | 204 | [Swap Consecutive Index Pairs](https://binarysearch.com/problems/Swap-Consecutive-Index-Pairs) | :green_circle: | [cpp](solutions/Swap-Consecutive-Index-Pairs.cpp) | [](notes)
 :white_check_mark: | 205 | [Paint Bucket](https://binarysearch.com/problems/Paint-Bucket) | :orange_circle: | [py](solutions/Paint-Bucket.py) | [](notes)
