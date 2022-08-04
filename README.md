@@ -451,7 +451,7 @@ python update_readme.py
 :white_check_mark: | 635 | [Upside Down Numbers](https://binarysearch.com/problems/Upside-Down-Numbers) | :orange_circle: | [py](solutions/Upside-Down-Numbers.py) | [](notes)
 [](check) | 636 | [Rotation Groups](https://binarysearch.com/problems/Rotation-Groups) | :green_circle: | [](solution) | [](notes)
 :white_check_mark: | 637 | [Reverse an Inner Linked List](https://binarysearch.com/problems/Reverse-an-Inner-Linked-List) | :orange_circle: | [cpp](solutions/Reverse-an-Inner-Linked-List.cpp) | [](notes)
-[](check) | 638 | [Longest Substring with 2 Distinct Characters](https://binarysearch.com/problems/Longest-Substring-with-2-Distinct-Characters) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 638 | [Longest Substring with 2 Distinct Characters](https://binarysearch.com/problems/Longest-Substring-with-2-Distinct-Characters) | :orange_circle: | [py](solutions/Longest-Substring-with-2-Distinct-Characters.py) | [](notes)
 :white_check_mark: | 639 | [Back to Front Linked List](https://binarysearch.com/problems/Back-to-Front-Linked-List) | :orange_circle: | [py](solutions/Back-to-Front-Linked-List.py) | [](notes)
 :white_check_mark: | 641 | [Sentence Reversal](https://binarysearch.com/problems/Sentence-Reversal) | :orange_circle: | [cpp](solutions/Sentence-Reversal.cpp) | [](notes)
 [](check) | 642 | [Flipped Matrix](https://binarysearch.com/problems/Flipped-Matrix) | :orange_circle: | [](solution) | [](notes)
