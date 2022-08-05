@@ -656,7 +656,7 @@ python update_readme.py
 [](check) | 1005 | [Blocks to Spell Word](https://binarysearch.com/problems/Blocks-to-Spell-Word) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1007 | [Delete From the Ends and Reinsert to Target](https://binarysearch.com/problems/Delete-From-the-Ends-and-Reinsert-to-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1008 | [Package Matching](https://binarysearch.com/problems/Package-Matching) | :red_circle: | [](solution) | [](notes)
-[](check) | 1015 | [Candy Race with Different Types](https://binarysearch.com/problems/Candy-Race-with-Different-Types) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1015 | [Candy Race with Different Types](https://binarysearch.com/problems/Candy-Race-with-Different-Types) | :orange_circle: | [py](solutions/Candy-Race-with-Different-Types.py) | [](notes)
 [](check) | 1016 | [Number of K Divisible Sublists](https://binarysearch.com/problems/Number-of-K-Divisible-Sublists) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1018 | [Number of K Length Sublists with Average at Least Target](https://binarysearch.com/problems/Number-of-K-Length-Sublists-with-Average-at-Least-Target) | :orange_circle: | [py](solutions/Number-of-K-Length-Sublists-with-Average-at-Least-Target.py) | [](notes)
 [](check) | 1019 | [Partition List to Pairs that Are Divisible by K](https://binarysearch.com/problems/Partition-List-to-Pairs-that-Are-Divisible-by-K) | :orange_circle: | [](solution) | [](notes)
