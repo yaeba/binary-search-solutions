@@ -60,7 +60,7 @@ python update_readme.py
 :white_check_mark: | 79 | [Palindrome Linked List](https://binarysearch.com/problems/Palindrome-Linked-List) | :orange_circle: | [cpp](solutions/Palindrome-Linked-List.cpp) | [](notes)
 :white_check_mark: | 80 | [Rotate List Left by K](https://binarysearch.com/problems/Rotate-List-Left-by-K) | :green_circle: | [cpp](solutions/Rotate-List-Left-by-K.cpp) | [](notes)
 [](check) | 81 | [Largest Rectangle Submatrix](https://binarysearch.com/problems/Largest-Rectangle-Submatrix) | :red_circle: | [](solution) | [](notes)
-[](check) | 82 | [Bipartite Graph](https://binarysearch.com/problems/Bipartite-Graph) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 82 | [Bipartite Graph](https://binarysearch.com/problems/Bipartite-Graph) | :orange_circle: | [py](solutions/Bipartite-Graph.py) | [](notes)
 [](check) | 83 | [Shortest Bridge](https://binarysearch.com/problems/Shortest-Bridge) | :red_circle: | [](solution) | [](notes)
 [](check) | 85 | [Largest K Divisible Subsequence](https://binarysearch.com/problems/Largest-K-Divisible-Subsequence) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 88 | [Sinking Islands](https://binarysearch.com/problems/Sinking-Islands) | :red_circle: | [cpp](solutions/Sinking-Islands.cpp) | [](notes)
