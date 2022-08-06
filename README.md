@@ -107,7 +107,7 @@ python update_readme.py
 :white_check_mark: | 152 | [Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf) | :orange_circle: | [cpp](solutions/Longest-Tree-Sum-Path-From-Root-to-Leaf.cpp) | [](notes)
 :white_check_mark: | 154 | [Rain Catcher](https://binarysearch.com/problems/Rain-Catcher) | :orange_circle: | [py](solutions/Rain-Catcher.py) | [](notes)
 :white_check_mark: | 155 | [Inorder Traversal](https://binarysearch.com/problems/Inorder-Traversal) | :orange_circle: | [py](solutions/Inorder-Traversal.py) | [](notes)
-[](check) | 156 | [Detecting an Odd Length Cycle](https://binarysearch.com/problems/Detecting-an-Odd-Length-Cycle) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 156 | [Detecting an Odd Length Cycle](https://binarysearch.com/problems/Detecting-an-Odd-Length-Cycle) | :red_circle: | [py](solutions/Detecting-an-Odd-Length-Cycle.py) | [](notes)
 :white_check_mark: | 158 | [A Strictly Increasing Linked List](https://binarysearch.com/problems/A-Strictly-Increasing-Linked-List) | :green_circle: | [cpp](solutions/A-Strictly-Increasing-Linked-List.cpp) | [](notes)
 [](check) | 163 | [Perfect Squares](https://binarysearch.com/problems/Perfect-Squares) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 164 | [Repeated Deletion](https://binarysearch.com/problems/Repeated-Deletion) | :orange_circle: | [py](solutions/Repeated-Deletion.py) | [](notes)
