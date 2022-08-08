@@ -616,7 +616,7 @@ python update_readme.py
 :white_check_mark: | 943 | [Longest Interval Containing One Number](https://binarysearch.com/problems/Longest-Interval-Containing-One-Number) | :green_circle: | [cpp](solutions/Longest-Interval-Containing-One-Number.cpp) | [](notes)
 [](check) | 944 | [K Stack Pops](https://binarysearch.com/problems/K-Stack-Pops) | :orange_circle: | [](solution) | [](notes)
 [](check) | 948 | [Column Flips to Target](https://binarysearch.com/problems/Column-Flips-to-Target) | :orange_circle: | [](solution) | [](notes)
-[](check) | 950 | [Surrounded Islands](https://binarysearch.com/problems/Surrounded-Islands) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 950 | [Surrounded Islands](https://binarysearch.com/problems/Surrounded-Islands) | :orange_circle: | [cpp](solutions/Surrounded-Islands.cpp) | [](notes)
 :white_check_mark: | 951 | [Max Sum of Two Non Overlapping Lists](https://binarysearch.com/problems/Max-Sum-of-Two-Non-Overlapping-Lists) | :orange_circle: | [cpp](solutions/Max-Sum-of-Two-Non-Overlapping-Lists.cpp) | [](notes)
 [](check) | 952 | [Two Non Overlapping Lists With Target Sums](https://binarysearch.com/problems/Two-Non-Overlapping-Lists-With-Target-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 953 | [Shortest Path by Removing K Walls](https://binarysearch.com/problems/Shortest-Path-by-Removing-K-Walls) | :red_circle: | [](solution) | [](notes)
