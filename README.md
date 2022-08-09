@@ -941,7 +941,7 @@ python update_readme.py
 [](check) | 1413 | [Path to Maximize Probability to Destination](https://binarysearch.com/problems/Path-to-Maximize-Probability-to-Destination) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1414 | [Delete Sublist to Make Sum Divisible By K](https://binarysearch.com/problems/Delete-Sublist-to-Make-Sum-Divisible-By-K) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1415 | [Maximum Product Path in Matrix](https://binarysearch.com/problems/Maximum-Product-Path-in-Matrix) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1416 | [Permute List to Make Largest Range Sum](https://binarysearch.com/problems/Permute-List-to-Make-Largest-Range-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1416 | [Permute List to Make Largest Range Sum](https://binarysearch.com/problems/Permute-List-to-Make-Largest-Range-Sum) | :orange_circle: | [py](solutions/Permute-List-to-Make-Largest-Range-Sum.py) | [](notes)
 [](check) | 1417 | [Word Distance Queries](https://binarysearch.com/problems/Word-Distance-Queries) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1418 | [Tic Tac Toe](https://binarysearch.com/problems/Tic-Tac-Toe) | :orange_circle: | [py](solutions/Tic-Tac-Toe.py) | [](notes)
 [](check) | 1419 | [Stock Span](https://binarysearch.com/problems/Stock-Span) | :orange_circle: | [](solution) | [](notes)
