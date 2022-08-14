@@ -642,7 +642,7 @@ python update_readme.py
 [](check) | 984 | [Minimum Number of Transfers to Settle Debts](https://binarysearch.com/problems/Minimum-Number-of-Transfers-to-Settle-Debts) | :red_circle: | [](solution) | [](notes)
 [](check) | 985 | [Largest Island After Land Cell Addition](https://binarysearch.com/problems/Largest-Island-After-Land-Cell-Addition) | :red_circle: | [](solution) | [](notes)
 [](check) | 986 | [Image Intersection](https://binarysearch.com/problems/Image-Intersection) | :orange_circle: | [](solution) | [](notes)
-[](check) | 987 | [Repeated Deletion Sequel](https://binarysearch.com/problems/Repeated-Deletion-Sequel) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 987 | [Repeated Deletion Sequel](https://binarysearch.com/problems/Repeated-Deletion-Sequel) | :orange_circle: | [py](solutions/Repeated-Deletion-Sequel.py) | [](notes)
 [](check) | 988 | [Longest Substring with Character Count of at Least K](https://binarysearch.com/problems/Longest-Substring-with-Character-Count-of-at-Least-K) | :orange_circle: | [](solution) | [](notes)
 [](check) | 989 | [Minimum Tree From Leaves](https://binarysearch.com/problems/Minimum-Tree-From-Leaves) | :orange_circle: | [](solution) | [](notes)
 [](check) | 990 | [Distinct Coin Sums](https://binarysearch.com/problems/Distinct-Coin-Sums) | :orange_circle: | [](solution) | [](notes)
