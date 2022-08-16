@@ -869,7 +869,7 @@ python update_readme.py
 :white_check_mark: | 1338 | [Rate Limiter](https://binarysearch.com/problems/Rate-Limiter) | :green_circle: | [py](solutions/Rate-Limiter.py) | [](notes)
 [](check) | 1339 | [Flight Scheduling](https://binarysearch.com/problems/Flight-Scheduling) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1340 | [Crush Numbers](https://binarysearch.com/problems/Crush-Numbers) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1341 | [Meeting Schedule For Two People](https://binarysearch.com/problems/Meeting-Schedule-For-Two-People) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1341 | [Meeting Schedule For Two People](https://binarysearch.com/problems/Meeting-Schedule-For-Two-People) | :orange_circle: | [py](solutions/Meeting-Schedule-For-Two-People.py) | [](notes)
 [](check) | 1342 | [Angry Owner](https://binarysearch.com/problems/Angry-Owner) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1343 | [Eat Bananas in K Hours](https://binarysearch.com/problems/Eat-Bananas-in-K-Hours) | :orange_circle: | [py](solutions/Eat-Bananas-in-K-Hours.py) | [](notes)
 [](check) | 1344 | [Permute to Make List Larger](https://binarysearch.com/problems/Permute-to-Make-List-Larger) | :orange_circle: | [](solution) | [](notes)
