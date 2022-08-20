@@ -998,7 +998,7 @@ python update_readme.py
 [](check) | 1475 | [Point Distances with Shared Coordinate](https://binarysearch.com/problems/Point-Distances-with-Shared-Coordinate) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1476 | [Towers Without a Valley](https://binarysearch.com/problems/Towers-Without-a-Valley) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1477 | [First Fit Room](https://binarysearch.com/problems/First-Fit-Room) | :green_circle: | [java](solutions/First-Fit-Room.java) | [](notes)
-[](check) | 1478 | [Rotate a Box Under Gravity](https://binarysearch.com/problems/Rotate-a-Box-Under-Gravity) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1478 | [Rotate a Box Under Gravity](https://binarysearch.com/problems/Rotate-a-Box-Under-Gravity) | :orange_circle: | [py](solutions/Rotate-a-Box-Under-Gravity.py) | [](notes)
 [](check) | 1479 | [Last Value Map](https://binarysearch.com/problems/Last-Value-Map) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1480 | [Number of Monotonically Increasing Lists](https://binarysearch.com/problems/Number-of-Monotonically-Increasing-Lists) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1482 | [Maximum Absolute Value of Sublist](https://binarysearch.com/problems/Maximum-Absolute-Value-of-Sublist) | :orange_circle: | [cpp](solutions/Maximum-Absolute-Value-of-Sublist.cpp) | [](notes)
