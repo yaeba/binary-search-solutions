@@ -607,7 +607,7 @@ python update_readme.py
 [](check) | 932 | [Binary Tree Nodes Around Radius](https://binarysearch.com/problems/Binary-Tree-Nodes-Around-Radius) | :orange_circle: | [](solution) | [](notes)
 [](check) | 933 | [Repeated String Replacement to Target](https://binarysearch.com/problems/Repeated-String-Replacement-to-Target) | :red_circle: | [](solution) | [](notes)
 [](check) | 935 | [Maximum of the Smallest Chunk](https://binarysearch.com/problems/Maximum-of-the-Smallest-Chunk) | :red_circle: | [](solution) | [](notes)
-[](check) | 936 | [Multiset Sum](https://binarysearch.com/problems/Multiset-Sum) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 936 | [Multiset Sum](https://binarysearch.com/problems/Multiset-Sum) | :orange_circle: | [cpp](solutions/Multiset-Sum.cpp) | [](notes)
 [](check) | 937 | [Collecting Coins Trequel](https://binarysearch.com/problems/Collecting-Coins-Trequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 938 | [Knight Moves to Target Coordinate](https://binarysearch.com/problems/Knight-Moves-to-Target-Coordinate) | :orange_circle: | [](solution) | [](notes)
 [](check) | 939 | [Subsequence Match Target](https://binarysearch.com/problems/Subsequence-Match-Target) | :orange_circle: | [](solution) | [](notes)
