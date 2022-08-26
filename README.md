@@ -160,7 +160,7 @@ python update_readme.py
 :white_check_mark: | 223 | [Interleaved Linked List](https://binarysearch.com/problems/Interleaved-Linked-List) | :orange_circle: | [cpp](solutions/Interleaved-Linked-List.cpp) | [](notes)
 :white_check_mark: | 224 | [Sort a Linked List](https://binarysearch.com/problems/Sort-a-Linked-List) | :orange_circle: | [cpp](solutions/Sort-a-Linked-List.cpp), [py](solutions/Sort-a-Linked-List.py) | [](notes)
 [](check) | 225 | [Sort by Permutation](https://binarysearch.com/problems/Sort-by-Permutation) | :orange_circle: | [](solution) | [](notes)
-[](check) | 226 | [String Expansion](https://binarysearch.com/problems/String-Expansion) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 226 | [String Expansion](https://binarysearch.com/problems/String-Expansion) | :red_circle: | [py](solutions/String-Expansion.py) | [](notes)
 :white_check_mark: | 227 | [Unix Path Resolution](https://binarysearch.com/problems/Unix-Path-Resolution) | :green_circle: | [cpp](solutions/Unix-Path-Resolution.cpp) | [](notes)
 :white_check_mark: | 228 | [Linked List to Integer](https://binarysearch.com/problems/Linked-List-to-Integer) | :green_circle: | [cpp](solutions/Linked-List-to-Integer.cpp) | [](notes)
 [](check) | 230 | [S Expression Evaluation](https://binarysearch.com/problems/S-Expression-Evaluation) | :red_circle: | [](solution) | [](notes)
