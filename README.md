@@ -172,7 +172,7 @@ python update_readme.py
 :white_check_mark: | 239 | [Pairwise Linked List Swap](https://binarysearch.com/problems/Pairwise-Linked-List-Swap) | :orange_circle: | [cpp](solutions/Pairwise-Linked-List-Swap.cpp), [java](solutions/Pairwise-Linked-List-Swap.java) | [](notes)
 :white_check_mark: | 240 | [Merging K Sorted Lists](https://binarysearch.com/problems/Merging-K-Sorted-Lists) | :orange_circle: | [java](solutions/Merging-K-Sorted-Lists.java) | [](notes)
 :white_check_mark: | 241 | [Column Sort](https://binarysearch.com/problems/Column-Sort) | :green_circle: | [py](solutions/Column-Sort.py) | [](notes)
-[](check) | 242 | [Diagonal Sort](https://binarysearch.com/problems/Diagonal-Sort) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 242 | [Diagonal Sort](https://binarysearch.com/problems/Diagonal-Sort) | :orange_circle: | [py](solutions/Diagonal-Sort.py) | [](notes)
 :white_check_mark: | 244 | [Largest Sublist Sum](https://binarysearch.com/problems/Largest-Sublist-Sum) | :orange_circle: | [cpp](solutions/Largest-Sublist-Sum.cpp) | [](notes)
 :white_check_mark: | 245 | [Matrix Search](https://binarysearch.com/problems/Matrix-Search) | :orange_circle: | [cpp](solutions/Matrix-Search.cpp), [py](solutions/Matrix-Search.py) | [](notes)
 [](check) | 248 | [Foo Bar Qaz Qux](https://binarysearch.com/problems/Foo-Bar-Qaz-Qux) | :red_circle: | [](solution) | [](notes)
