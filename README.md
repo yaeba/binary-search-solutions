@@ -255,7 +255,7 @@ python update_readme.py
 [](check) | 348 | [Binary Tree Width](https://binarysearch.com/problems/Binary-Tree-Width) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 349 | [Uber Pool](https://binarysearch.com/problems/Uber-Pool) | :orange_circle: | [py](solutions/Uber-Pool.py) | [](notes)
 [](check) | 350 | [Fair Pay](https://binarysearch.com/problems/Fair-Pay) | :orange_circle: | [](solution) | [](notes)
-[](check) | 351 | [Minimum Window Substring](https://binarysearch.com/problems/Minimum-Window-Substring) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 351 | [Minimum Window Substring](https://binarysearch.com/problems/Minimum-Window-Substring) | :red_circle: | [py](solutions/Minimum-Window-Substring.py) | [](notes)
 [](check) | 353 | [Triangle Triplets](https://binarysearch.com/problems/Triangle-Triplets) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 354 | [Add Linked Lists](https://binarysearch.com/problems/Add-Linked-Lists) | :orange_circle: | [cpp](solutions/Add-Linked-Lists.cpp) | [](notes)
 :white_check_mark: | 356 | [Remove Duplicates in Linked List](https://binarysearch.com/problems/Remove-Duplicates-in-Linked-List) | :orange_circle: | [cpp](solutions/Remove-Duplicates-in-Linked-List.cpp) | [](notes)
