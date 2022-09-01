@@ -689,7 +689,7 @@ python update_readme.py
 [](check) | 1060 | [Subsequence Concatenation to Target](https://binarysearch.com/problems/Subsequence-Concatenation-to-Target) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1061 | [Flip and Invert Matrix](https://binarysearch.com/problems/Flip-and-Invert-Matrix) | :green_circle: | [py](solutions/Flip-and-Invert-Matrix.py) | [](notes)
 [](check) | 1062 | [Fair Pay Sequel](https://binarysearch.com/problems/Fair-Pay-Sequel) | :red_circle: | [](solution) | [](notes)
-[](check) | 1063 | [Decode List Message](https://binarysearch.com/problems/Decode-List-Message) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 1063 | [Decode List Message](https://binarysearch.com/problems/Decode-List-Message) | :red_circle: | [py](solutions/Decode-List-Message.py) | [](notes)
 [](check) | 1064 | [Longest Prefix that Is a Suffix](https://binarysearch.com/problems/Longest-Prefix-that-Is-a-Suffix) | :red_circle: | [](solution) | [](notes)
 [](check) | 1068 | [Connect Sticks](https://binarysearch.com/problems/Connect-Sticks) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1069 | [Most Occurring Number After K Increments](https://binarysearch.com/problems/Most-Occurring-Number-After-K-Increments) | :orange_circle: | [](solution) | [](notes)
