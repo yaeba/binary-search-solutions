@@ -594,7 +594,7 @@ python update_readme.py
 :white_check_mark: | 904 | [Making List Values Equal](https://binarysearch.com/problems/Making-List-Values-Equal) | :green_circle: | [cpp](solutions/Making-List-Values-Equal.cpp) | [](notes)
 [](check) | 905 | [Finding Binary Search in a String](https://binarysearch.com/problems/Finding-Binary-Search-in-a-String) | :green_circle: | [](solution) | [](notes)
 [](check) | 906 | [Paying Workers With Coins](https://binarysearch.com/problems/Paying-Workers-With-Coins) | :orange_circle: | [](solution) | [](notes)
-[](check) | 917 | [Wallstreet Bets](https://binarysearch.com/problems/Wallstreet-Bets) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 917 | [Wallstreet Bets](https://binarysearch.com/problems/Wallstreet-Bets) | :orange_circle: | [py](solutions/Wallstreet-Bets.py) | [](notes)
 :white_check_mark: | 918 | [Partition String](https://binarysearch.com/problems/Partition-String) | :red_circle: | [py](solutions/Partition-String.py) | [](notes)
 [](check) | 919 | [Word Concatenation](https://binarysearch.com/problems/Word-Concatenation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 920 | [K Divisible Sublist](https://binarysearch.com/problems/K-Divisible-Sublist) | :orange_circle: | [](solution) | [](notes)
