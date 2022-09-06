@@ -145,7 +145,7 @@ python update_readme.py
 :white_check_mark: | 204 | [Swap Consecutive Index Pairs](https://binarysearch.com/problems/Swap-Consecutive-Index-Pairs) | :green_circle: | [cpp](solutions/Swap-Consecutive-Index-Pairs.cpp) | [](notes)
 :white_check_mark: | 205 | [Paint Bucket](https://binarysearch.com/problems/Paint-Bucket) | :orange_circle: | [py](solutions/Paint-Bucket.py) | [](notes)
 [](check) | 206 | [Largest Binary Search Subtree in Nodes](https://binarysearch.com/problems/Largest-Binary-Search-Subtree-in-Nodes) | :red_circle: | [](solution) | [](notes)
-[](check) | 208 | [Longest Consecutive Sequence](https://binarysearch.com/problems/Longest-Consecutive-Sequence) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 208 | [Longest Consecutive Sequence](https://binarysearch.com/problems/Longest-Consecutive-Sequence) | :orange_circle: | [py](solutions/Longest-Consecutive-Sequence.py) | [](notes)
 [](check) | 209 | [Tromino Theory](https://binarysearch.com/problems/Tromino-Theory) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 210 | [Height Balanced Tree](https://binarysearch.com/problems/Height-Balanced-Tree) | :orange_circle: | [cpp](solutions/Height-Balanced-Tree.cpp) | [](notes)
 :white_check_mark: | 213 | [Collatz Sequence](https://binarysearch.com/problems/Collatz-Sequence) | :green_circle: | [cpp](solutions/Collatz-Sequence.cpp) | [](notes)
