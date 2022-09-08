@@ -726,7 +726,7 @@ python update_readme.py
 :white_check_mark: | 1123 | [Largest Sum After K Negations](https://binarysearch.com/problems/Largest-Sum-After-K-Negations) | :green_circle: | [cpp](solutions/Largest-Sum-After-K-Negations.cpp) | [](notes)
 [](check) | 1124 | [Next Smaller Permutation](https://binarysearch.com/problems/Next-Smaller-Permutation) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1125 | [Longest Substring with Even Vowel Counts](https://binarysearch.com/problems/Longest-Substring-with-Even-Vowel-Counts) | :red_circle: | [](solution) | [](notes)
-[](check) | 1126 | [Longest Sublist of 1s After K Sets](https://binarysearch.com/problems/Longest-Sublist-of-1s-After-K-Sets) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1126 | [Longest Sublist of 1s After K Sets](https://binarysearch.com/problems/Longest-Sublist-of-1s-After-K-Sets) | :orange_circle: | [cpp](solutions/Longest-Sublist-of-1s-After-K-Sets.cpp) | [](notes)
 :white_check_mark: | 1127 | [Lexicographically Smallest Non Palindromic String](https://binarysearch.com/problems/Lexicographically-Smallest-Non-Palindromic-String) | :orange_circle: | [cpp](solutions/Lexicographically-Smallest-Non-Palindromic-String.cpp) | [](notes)
 [](check) | 1128 | [Concatenated String of Unique Count](https://binarysearch.com/problems/Concatenated-String-of-Unique-Count) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1130 | [Polyglot Contest](https://binarysearch.com/problems/Polyglot-Contest) | :orange_circle: | [](solution) | [](notes)
