@@ -566,7 +566,7 @@ python update_readme.py
 [](check) | 836 | [Group the Ones](https://binarysearch.com/problems/Group-the-Ones) | :orange_circle: | [](solution) | [](notes)
 [](check) | 839 | [Excel Spreadsheet](https://binarysearch.com/problems/Excel-Spreadsheet) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 841 | [Unique Integers in Sorted List](https://binarysearch.com/problems/Unique-Integers-in-Sorted-List) | :green_circle: | [cpp](solutions/Unique-Integers-in-Sorted-List.cpp) | [](notes)
-[](check) | 848 | [Grammar Rules](https://binarysearch.com/problems/Grammar-Rules) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 848 | [Grammar Rules](https://binarysearch.com/problems/Grammar-Rules) | :orange_circle: | [py](solutions/Grammar-Rules.py) | [](notes)
 [](check) | 849 | [Increasing Subsequences of Size K](https://binarysearch.com/problems/Increasing-Subsequences-of-Size-K) | :red_circle: | [](solution) | [](notes)
 [](check) | 850 | [Take All](https://binarysearch.com/problems/Take-All) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 864 | [Every Pair of Absolute Difference](https://binarysearch.com/problems/Every-Pair-of-Absolute-Difference) | :orange_circle: | [](solution) | [](notes)
