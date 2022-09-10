@@ -518,7 +518,7 @@ python update_readme.py
 :white_check_mark: | 724 | [Optimal Decrement](https://binarysearch.com/problems/Optimal-Decrement) | :orange_circle: | [py](solutions/Optimal-Decrement.py) | [](notes)
 [](check) | 725 | [Particular Paths](https://binarysearch.com/problems/Particular-Paths) | :red_circle: | [](solution) | [](notes)
 [](check) | 726 | [Inverted Inversions](https://binarysearch.com/problems/Inverted-Inversions) | :large_blue_circle: | [](solution) | [](notes)
-[](check) | 728 | [Maximum Sum Removing K Numbers From Ends](https://binarysearch.com/problems/Maximum-Sum-Removing-K-Numbers-From-Ends) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 728 | [Maximum Sum Removing K Numbers From Ends](https://binarysearch.com/problems/Maximum-Sum-Removing-K-Numbers-From-Ends) | :orange_circle: | [cpp](solutions/Maximum-Sum-Removing-K-Numbers-From-Ends.cpp) | [](notes)
 :white_check_mark: | 735 | [Substringify](https://binarysearch.com/problems/Substringify) | :green_circle: | [cpp](solutions/Substringify.cpp) | [](notes)
 :white_check_mark: | 736 | [Second Place](https://binarysearch.com/problems/Second-Place) | :orange_circle: | [cpp](solutions/Second-Place.cpp) | [](notes)
 [](check) | 737 | [Odd Longest Increasing Subsequence](https://binarysearch.com/problems/Odd-Longest-Increasing-Subsequence) | :red_circle: | [](solution) | [](notes)
