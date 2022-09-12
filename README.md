@@ -701,7 +701,7 @@ python update_readme.py
 :white_check_mark: | 1079 | [Count Rectangular Submatrices](https://binarysearch.com/problems/Count-Rectangular-Submatrices) | :red_circle: | [py](solutions/Count-Rectangular-Submatrices.py) | [](notes)
 :white_check_mark: | 1081 | [Counting Maximal Value Roots in Binary Tree](https://binarysearch.com/problems/Counting-Maximal-Value-Roots-in-Binary-Tree) | :green_circle: | [cpp](solutions/Counting-Maximal-Value-Roots-in-Binary-Tree.cpp) | [](notes)
 [](check) | 1084 | [Shortest Majority Substring](https://binarysearch.com/problems/Shortest-Majority-Substring) | :green_circle: | [](solution) | [](notes)
-[](check) | 1086 | [Deleting Repeated Integers Game](https://binarysearch.com/problems/Deleting-Repeated-Integers-Game) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1086 | [Deleting Repeated Integers Game](https://binarysearch.com/problems/Deleting-Repeated-Integers-Game) | :orange_circle: | [py](solutions/Deleting-Repeated-Integers-Game.py) | [](notes)
 [](check) | 1087 | [Counting K Length Paths on Binary Tree](https://binarysearch.com/problems/Counting-K-Length-Paths-on-Binary-Tree) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1091 | [Matrix Prefix Sum](https://binarysearch.com/problems/Matrix-Prefix-Sum) | :green_circle: | [cpp](solutions/Matrix-Prefix-Sum.cpp) | [](notes)
 [](check) | 1092 | [Maximize the Minimum Value After K Sublist Increments](https://binarysearch.com/problems/Maximize-the-Minimum-Value-After-K-Sublist-Increments) | :orange_circle: | [](solution) | [](notes)
