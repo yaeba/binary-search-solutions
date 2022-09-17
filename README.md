@@ -650,7 +650,7 @@ python update_readme.py
 [](check) | 992 | [Maximum Points From Removals](https://binarysearch.com/problems/Maximum-Points-From-Removals) | :large_blue_circle: | [](solution) | [](notes)
 [](check) | 993 | [Collecting Coins Sequel](https://binarysearch.com/problems/Collecting-Coins-Sequel) | :red_circle: | [](solution) | [](notes)
 [](check) | 996 | [A Flight of Stairs Sequel](https://binarysearch.com/problems/A-Flight-of-Stairs-Sequel) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1001 | [Sum of Three Numbers Less than Target](https://binarysearch.com/problems/Sum-of-Three-Numbers-Less-than-Target) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1001 | [Sum of Three Numbers Less than Target](https://binarysearch.com/problems/Sum-of-Three-Numbers-Less-than-Target) | :orange_circle: | [java](solutions/Sum-of-Three-Numbers-Less-than-Target.java) | [](notes)
 [](check) | 1002 | [Inverted Subtree](https://binarysearch.com/problems/Inverted-Subtree) | :green_circle: | [](solution) | [](notes)
 [](check) | 1004 | [Concatenated Sums](https://binarysearch.com/problems/Concatenated-Sums) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1005 | [Blocks to Spell Word](https://binarysearch.com/problems/Blocks-to-Spell-Word) | :orange_circle: | [](solution) | [](notes)
