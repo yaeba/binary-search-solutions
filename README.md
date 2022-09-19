@@ -697,7 +697,7 @@ python update_readme.py
 :white_check_mark: | 1072 | [Circular Greater Element to the Right](https://binarysearch.com/problems/Circular-Greater-Element-to-the-Right) | :orange_circle: | [py](solutions/Circular-Greater-Element-to-the-Right.py) | [](notes)
 [](check) | 1073 | [Kth Permutation Sequence](https://binarysearch.com/problems/Kth-Permutation-Sequence) | :red_circle: | [](solution) | [](notes)
 [](check) | 1074 | [Team Voting](https://binarysearch.com/problems/Team-Voting) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1075 | [Profitable Job Matching](https://binarysearch.com/problems/Profitable-Job-Matching) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1075 | [Profitable Job Matching](https://binarysearch.com/problems/Profitable-Job-Matching) | :orange_circle: | [py](solutions/Profitable-Job-Matching.py) | [](notes)
 :white_check_mark: | 1079 | [Count Rectangular Submatrices](https://binarysearch.com/problems/Count-Rectangular-Submatrices) | :red_circle: | [py](solutions/Count-Rectangular-Submatrices.py) | [](notes)
 :white_check_mark: | 1081 | [Counting Maximal Value Roots in Binary Tree](https://binarysearch.com/problems/Counting-Maximal-Value-Roots-in-Binary-Tree) | :green_circle: | [cpp](solutions/Counting-Maximal-Value-Roots-in-Binary-Tree.cpp) | [](notes)
 [](check) | 1084 | [Shortest Majority Substring](https://binarysearch.com/problems/Shortest-Majority-Substring) | :green_circle: | [](solution) | [](notes)
