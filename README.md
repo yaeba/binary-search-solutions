@@ -92,7 +92,7 @@ python update_readme.py
 :white_check_mark: | 136 | [Search in a Binary Search Tree](https://binarysearch.com/problems/Search-in-a-Binary-Search-Tree) | :orange_circle: | [cpp](solutions/Search-in-a-Binary-Search-Tree.cpp) | [](notes)
 :white_check_mark: | 137 | [Making Change](https://binarysearch.com/problems/Making-Change) | :orange_circle: | [cpp](solutions/Making-Change.cpp) | [](notes)
 :white_check_mark: | 138 | [Merging Binary Trees](https://binarysearch.com/problems/Merging-Binary-Trees) | :orange_circle: | [cpp](solutions/Merging-Binary-Trees.cpp) | [](notes)
-[](check) | 139 | [Anagram Partitioning](https://binarysearch.com/problems/Anagram-Partitioning) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 139 | [Anagram Partitioning](https://binarysearch.com/problems/Anagram-Partitioning) | :orange_circle: | [py](solutions/Anagram-Partitioning.py) | [](notes)
 :white_check_mark: | 140 | [Zero Matrix](https://binarysearch.com/problems/Zero-Matrix) | :orange_circle: | [cpp](solutions/Zero-Matrix.cpp) | [](notes)
 :white_check_mark: | 141 | [Merging Two Sorted Lists](https://binarysearch.com/problems/Merging-Two-Sorted-Lists) | :green_circle: | [cpp](solutions/Merging-Two-Sorted-Lists.cpp) | [](notes)
 :white_check_mark: | 142 | [Tree Pruning](https://binarysearch.com/problems/Tree-Pruning) | :orange_circle: | [cpp](solutions/Tree-Pruning.cpp) | [](notes)
