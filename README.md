@@ -138,7 +138,7 @@ python update_readme.py
 [](check) | 196 | [Sudoku Validator](https://binarysearch.com/problems/Sudoku-Validator) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 197 | [Repeated Addition](https://binarysearch.com/problems/Repeated-Addition) | :green_circle: | [cpp](solutions/Repeated-Addition.cpp) | [](notes)
 [](check) | 199 | [A Maniacal Walk](https://binarysearch.com/problems/A-Maniacal-Walk) | :red_circle: | [](solution) | [](notes)
-[](check) | 200 | [Longest Increasing Path](https://binarysearch.com/problems/Longest-Increasing-Path) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 200 | [Longest Increasing Path](https://binarysearch.com/problems/Longest-Increasing-Path) | :red_circle: | [py](solutions/Longest-Increasing-Path.py) | [](notes)
 :white_check_mark: | 201 | [Pascal's Triangle](https://binarysearch.com/problems/Pascal's-Triangle) | :green_circle: | [cpp](solutions/Pascal's-Triangle.cpp) | [](notes)
 :white_check_mark: | 202 | [Number of Palindromic Substrings](https://binarysearch.com/problems/Number-of-Palindromic-Substrings) | :orange_circle: | [cpp](solutions/Number-of-Palindromic-Substrings.cpp) | [](notes)
 :white_check_mark: | 203 | [Detect the Only Duplicate in a List](https://binarysearch.com/problems/Detect-the-Only-Duplicate-in-a-List) | :green_circle: | [cpp](solutions/Detect-the-Only-Duplicate-in-a-List.cpp) | [](notes)
