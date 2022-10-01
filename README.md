@@ -120,7 +120,7 @@ python update_readme.py
 :white_check_mark: | 174 | [Longest Consecutive Duplicate String](https://binarysearch.com/problems/Longest-Consecutive-Duplicate-String) | :green_circle: | [cpp](solutions/Longest-Consecutive-Duplicate-String.cpp) | [](notes)
 :white_check_mark: | 175 | [Next Integer Permutation](https://binarysearch.com/problems/Next-Integer-Permutation) | :red_circle: | [cpp](solutions/Next-Integer-Permutation.cpp) | [](notes)
 [](check) | 176 | [Unique Subsequences Equal to Target](https://binarysearch.com/problems/Unique-Subsequences-Equal-to-Target) | :red_circle: | [](solution) | [](notes)
-[](check) | 177 | [Remove Duplicate Numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 177 | [Remove Duplicate Numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers) | :orange_circle: | [py](solutions/Remove-Duplicate-Numbers.py) | [](notes)
 [](check) | 178 | [Postfix Notation Evaluation](https://binarysearch.com/problems/Postfix-Notation-Evaluation) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 180 | [Check Power of Two](https://binarysearch.com/problems/Check-Power-of-Two) | :green_circle: | [cpp](solutions/Check-Power-of-Two.cpp) | Bit Trick
 :white_check_mark: | 181 | [Number of Bits](https://binarysearch.com/problems/Number-of-Bits) | :green_circle: | [cpp](solutions/Number-of-Bits.cpp) | [](notes)
