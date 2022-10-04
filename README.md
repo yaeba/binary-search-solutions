@@ -68,7 +68,7 @@ python update_readme.py
 :white_check_mark: | 90 | [Longest Increasing Subsequence](https://binarysearch.com/problems/Longest-Increasing-Subsequence) | :orange_circle: | [cpp](solutions/Longest-Increasing-Subsequence.cpp) | [](notes)
 [](check) | 91 | [Split String Into Palindromes](https://binarysearch.com/problems/Split-String-Into-Palindromes) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 92 | [Rotate Linked List by K](https://binarysearch.com/problems/Rotate-Linked-List-by-K) | :orange_circle: | [cpp](solutions/Rotate-Linked-List-by-K.cpp) | [](notes)
-[](check) | 93 | [Create Largest Number From a List](https://binarysearch.com/problems/Create-Largest-Number-From-a-List) | :red_circle: | [](solution) | [](notes)
+:white_check_mark: | 93 | [Create Largest Number From a List](https://binarysearch.com/problems/Create-Largest-Number-From-a-List) | :red_circle: | [py](solutions/Create-Largest-Number-From-a-List.py) | [](notes)
 [](check) | 107 | [Zipped String](https://binarysearch.com/problems/Zipped-String) | :red_circle: | [](solution) | [](notes)
 [](check) | 108 | [Currency Arbitrage](https://binarysearch.com/problems/Currency-Arbitrage) | :large_blue_circle: | [](solution) | [](notes)
 :white_check_mark: | 110 | [Nth Fibonacci Number](https://binarysearch.com/problems/Nth-Fibonacci-Number) | :green_circle: | [cpp](solutions/Nth-Fibonacci-Number.cpp) | [](notes)
