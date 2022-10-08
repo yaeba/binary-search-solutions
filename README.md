@@ -902,7 +902,7 @@ python update_readme.py
 :white_check_mark: | 1373 | [Index with Equal Left and Right Sums](https://binarysearch.com/problems/Index-with-Equal-Left-and-Right-Sums) | :green_circle: | [cpp](solutions/Index-with-Equal-Left-and-Right-Sums.cpp) | [](notes)
 [](check) | 1374 | [Update List Sum Closest to Target](https://binarysearch.com/problems/Update-List-Sum-Closest-to-Target) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1375 | [Square Submatrix Sum Below Target](https://binarysearch.com/problems/Square-Submatrix-Sum-Below-Target) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1376 | [Longest Arithmetic Subsequence with Difference Constraint](https://binarysearch.com/problems/Longest-Arithmetic-Subsequence-with-Difference-Constraint) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1376 | [Longest Arithmetic Subsequence with Difference Constraint](https://binarysearch.com/problems/Longest-Arithmetic-Subsequence-with-Difference-Constraint) | :orange_circle: | [py](solutions/Longest-Arithmetic-Subsequence-with-Difference-Constraint.py) | [](notes)
 [](check) | 1377 | [Update List to Make It Strictly Increasing](https://binarysearch.com/problems/Update-List-to-Make-It-Strictly-Increasing) | :red_circle: | [](solution) | [](notes)
 :white_check_mark: | 1378 | [Minimize Amplitude After Deleting K Length Sublist](https://binarysearch.com/problems/Minimize-Amplitude-After-Deleting-K-Length-Sublist) | :green_circle: | [py](solutions/Minimize-Amplitude-After-Deleting-K-Length-Sublist.py) | [](notes)
 [](check) | 1379 | [Arithmetic Sequence Queries](https://binarysearch.com/problems/Arithmetic-Sequence-Queries) | :orange_circle: | [](solution) | [](notes)
