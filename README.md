@@ -685,7 +685,7 @@ python update_readme.py
 [](check) | 1049 | [Number of Fractions that Sum to 1](https://binarysearch.com/problems/Number-of-Fractions-that-Sum-to-1) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1050 | [Longest Concatenated String](https://binarysearch.com/problems/Longest-Concatenated-String) | :orange_circle: | [](solution) | [](notes)
 [](check) | 1051 | [Largest Distance Pair](https://binarysearch.com/problems/Largest-Distance-Pair) | :orange_circle: | [](solution) | [](notes)
-[](check) | 1053 | [Separate People Given Dislike Relations](https://binarysearch.com/problems/Separate-People-Given-Dislike-Relations) | :orange_circle: | [](solution) | [](notes)
+:white_check_mark: | 1053 | [Separate People Given Dislike Relations](https://binarysearch.com/problems/Separate-People-Given-Dislike-Relations) | :orange_circle: | [py](solutions/Separate-People-Given-Dislike-Relations.py) | [](notes)
 [](check) | 1060 | [Subsequence Concatenation to Target](https://binarysearch.com/problems/Subsequence-Concatenation-to-Target) | :orange_circle: | [](solution) | [](notes)
 :white_check_mark: | 1061 | [Flip and Invert Matrix](https://binarysearch.com/problems/Flip-and-Invert-Matrix) | :green_circle: | [py](solutions/Flip-and-Invert-Matrix.py) | [](notes)
 [](check) | 1062 | [Fair Pay Sequel](https://binarysearch.com/problems/Fair-Pay-Sequel) | :red_circle: | [](solution) | [](notes)
